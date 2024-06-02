@@ -1,0 +1,208 @@
+{
+    "handbook": {
+        "Id": "mod_barrel_ak_tec_arms_dark",
+        "ParentId": "5b5f75c686f774094242f19f",
+        "Price": 29501
+    },
+    "item": {
+        "_id": "mod_barrel_ak_tec_arms_dark",
+        "_name": "mod_barrel_ak_tec_arms_dark",
+        "_parent": "55818a104bdc2db9688b4569",
+        "_type": "Item",
+        "_props": {
+            "Name": "mod_barrel_ak_tec_arms_dark",
+            "ShortName": "mod_barrel_ak_tec_arms_dark",
+            "Description": "mod_barrel_ak_tec_arms_dark",
+            "Weight": 0.560,
+            "BackgroundColor": "blue",
+            "Width": 2,
+            "Height": 1,
+            "StackMaxSize": 1,
+            "ItemSound": "mod",
+            "Prefab": {
+                "path": "barrel/mod_barrel_ak_tec_arms_dark.bundle",
+                "rcid": ""
+            },
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "StackObjectsCount": 1,
+            "NotShownInSlot": false,
+            "ExaminedByDefault": true,
+            "ExamineTime": 1,
+            "IsUndiscardable": false,
+            "IsUnsaleable": false,
+            "IsUnbuyable": false,
+            "IsUngivable": false,
+            "IsLockedafterEquip": false,
+            "QuestItem": false,
+            "LootExperience": 10,
+            "ExamineExperience": 3,
+            "HideEntrails": false,
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "MergesWithChildren": true,
+            "CanSellOnRagfair": true,
+            "CanRequireOnRagfair": true,
+            "ConflictingItems": [
+                "5b800e9286f7747a8b04f3ff",
+                "5b80242286f77429445e0b47",
+                "5c17664f2e2216398b5a7e3c",
+                "59fb375986f7741b681b81a6",
+                "handguard_ak_alfa_arms_aspid_upper",
+                "handguard_ak_troy_vent_hole_lower",
+                "handguard_ak_vs_vs_33c_lower",
+                "handguard_ak_vs_vs_33c_wht_lower",
+                "5d2c772c48f0355d95672c25",
+                "5d2c76ed48f03532f2136169"
+            ],
+            "Unlootable": false,
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UnlootableFromSide": [],
+            "AnimationVariantsNumber": 0,
+            "DiscardingBlock": false,
+            "RagFairCommissionModifier": 1,
+            "IsAlwaysAvailableForInsurance": false,
+            "DiscardLimit": -1,
+            "DropSoundType": "None",
+            "InsuranceDisabled": false,
+            "QuestStashMaxCount": 0,
+            "IsSpecialSlotOnly": false,
+            "IsUnremovable": false,
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "mod_muzzle_barrel_aktec_dark_id",
+                    "_parent": "mod_barrel_ak_tec_arms_dark",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                  "5b7d693d5acfc43bca706a3d",
+                                  "5a34fd2bc4a282329a73b4c5",
+                                  "618178aa1cb55961fa0fdc80",
+                                  "6065c6e7132d4d12c81fd8e1",
+                                  "5d1f819086f7744b355c219b",
+                                  "628a66b41d5e41750e314f34",
+                                  "5dcbe965e4ed22586443a79d",
+                                  "5d026791d7ad1a04a067ea63",
+                                  "5dfa3cd1b33c0951220c079b",
+                                  "6130c43c67085e45ef1405a1",
+                                  "5cdd7685d7f00c000f260ed2",
+                                  "5c878e9d2e2216000f201903",
+                                  "5d02677ad7ad1a04a15c0f95",
+                                  "5bbdb8bdd4351e4502011460",
+                                  "5cdd7693d7f00c0010373aa5",
+                                  "607ffb988900dc2d9a55b6e4",
+                                  "615d8eb350224f204c1da1cf",
+                                  "612e0e3c290d254f5e6b291d",
+                                  "5d443f8fa4b93678dd4a01aa",
+                                  "5c7954d52e221600106f4cc7",
+                                  "59bffc1f86f77435b128b872",
+                                  "5cf78496d7f00c065703d6ca",
+                                  "5fbe7618d6fa9c00c571bb6c"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_handguard",
+                    "_id": "mod_handguard_barrel_aktec_dark_id",
+                    "_parent": "mod_barrel_ak_tec_arms_dark",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "handguard_ak_caa_quad_rail_polymer_upper",
+                                    "handguard_ak_izhmash_ak74_std_plum_upper",
+                                    "handguard_ak_khyber_swiss_grather_upper",
+                                    "handguard_ak_khyber_swiss_grather_upper",
+                                    "handguard_ak_khyber_swiss_grather_upper",
+                                    "handguard_ak_izhmash_ak74_std_wood_upper",
+                                    "handguard_ak_izhmash_ak74m_std_plastic_upper",
+                                    "handguard_ak_izhmash_ak74m_std_plastic_upper",
+                                    "handguard_ak_izhmash_akm_std_wood_upper",
+                                    "handguard_ak_izhmash_akm_std_wood_upper",
+                                    "handguard_ak_molot_vepr_km_vpo_136_upper",
+                                    "handguard_ak_molot_vepr_km_vpo_209_upper",
+                                    "handguard_ak_magpul_moe_ak_blk_upper",
+                                    "handguard_ak_magpul_moe_ak_fde_upper",
+                                    "handguard_ak_magpul_moe_ak_od_upper",
+                                    "handguard_ak_magpul_moe_ak_plm_upper",
+                                    "handguard_ak_magpul_moe_ak_sg_upper",
+                                    "handguard_ak_izhmash_ak74m_std_plastic_upper"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_scope",
+                    "_id": "mod_scope_barrel_aktec_dark_id",
+                    "_parent": "mod_barrel_ak_tec_arms_dark",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "57ae0171245977343c27bfcf",
+                                    "609bab8b455afd752b2e6138",
+                                    "58d39d3d86f77445bb794ae7",
+                                    "616554fe50224f204c1da2aa",
+                                    "615d8d878004cc50514c3233",
+                                    "577d128124597739d65d0e56",
+                                    "58d2664f86f7747fec5834f6",
+                                    "5a33b2c9c4a282000c5a9511"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "Durability": 100,
+            "Accuracy": 8,
+            "Recoil": -3,
+            "Loudness": 0,
+            "EffectiveDistance": 0,
+            "Ergonomics": 0,
+            "Velocity": 0,
+            "RaidModdable": false,
+            "ToolModdable": true,
+            "BlocksFolding": false,
+            "BlocksCollapsible": false,
+            "IsAnimated": false,
+            "HasShoulderContact": false,
+            "SightingRange": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "HeatFactor": 1,
+            "CoolFactor": 1
+        },
+        "_proto": "5648b1504bdc2d9d488b4584"
+    },
+    "locale": {
+        "mod_barrel_ak_tec_arms_dark Name": "AK TEC Arms Custom 15\" Barrel",
+        "mod_barrel_ak_tec_arms_dark ShortName": "AKTEC 15\"",
+        "mod_barrel_ak_tec_arms_dark Description": "Incredible ! A custom made barrel for an AK chambered in 7.62x39mm, designed and created by AK-Tec USA.\n fully cnc machined barrel assembly with ingenious design improving Accuracy, patented rear sight picatiny rail on the trunion allwos ffor easy mount of compact scopes, with a bolt-on gasblock front sight combinaison  Made in America in Aurora, CO"
+    }
+}

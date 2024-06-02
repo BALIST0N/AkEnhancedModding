@@ -1,0 +1,551 @@
+{
+    "54cb50c76803fa8b248b4571": 
+    [
+        {
+            "weaponId": "65d8ffaaa459fcfeac0ce2c3",
+            "weaponName": "weapon_izhmash_ak74un_545x39",
+            "delete": true,
+            "childs":
+            [
+                "65d8ffaaa459fcfeac0ce2c4",
+                "65d8ffaaa459fcfeac0ce2c5",
+                "65d8ffaaa459fcfeac0ce2c6",
+                "564ca99c4bdc2d16268b4589",
+                "65d8ffaaa459fcfeac0ce2c7",
+                "57dc324a24597759501edc20",
+                "65d8ffaaa459fcfeac0ce2c8",
+                "57dc334d245977597164366f",
+                "65d8ffaaa459fcfeac0ce2c9",
+                "59d36a0086f7747e673f3946",
+                "65d8ffaaa459fcfeac0ce2ca"
+            ]
+
+        },
+
+        {
+            "weaponId": "65d8ffaaa459fcfeac0ce2aa",
+            "weaponName": "weapon_izhmash_ak74n_545x39",
+            "delete": true,
+            "childs": [
+                "65d8ffaaa459fcfeac0ce2ac",
+                "65d8ffaaa459fcfeac0ce2ab",
+                "65d8ffaaa459fcfeac0ce2ad",
+                "65d8ffaaa459fcfeac0ce2ae",
+                "65d8ffaaa459fcfeac0ce2af",
+                "65d8ffaaa459fcfeac0ce2b0",
+                "65d8ffaaa459fcfeac0ce2b1",
+                "65d8ffaaa459fcfeac0ce2b2"
+            ]
+        },
+        {
+            "weaponId": "65d8ffaba459fcfeac0ce341",
+            "weaponName": "weapon_izhmash_akmn_762x39",
+            "delete": false,
+            "childs": [
+                "65d8ffaba459fcfeac0ce343",
+                "65d8ffaba459fcfeac0ce342",
+                "65d8ffaba459fcfeac0ce344",
+                "65d8ffaba459fcfeac0ce345",
+                "65d8ffaba459fcfeac0ce346",
+                "65d8ffaba459fcfeac0ce347",
+                "65d8ffaba459fcfeac0ce348",
+                "65d8ffaba459fcfeac0ce349"
+            ]
+        },
+        {
+            "weaponId": "65d8ffaba459fcfeac0ce357",
+            "weaponName": "weapon_izhmash_akmsn_762x39",
+            "delete": false,
+            "childs": [
+                "65d8ffaba459fcfeac0ce359",
+                "65d8ffaba459fcfeac0ce358",
+                "65d8ffaba459fcfeac0ce35a",
+                "65d8ffaba459fcfeac0ce35b",
+                "65d8ffaba459fcfeac0ce35c",
+                "65d8ffaba459fcfeac0ce35d",
+                "65d8ffaba459fcfeac0ce35e",
+                "65d8ffaba459fcfeac0ce35f"
+            ]
+        },
+        {
+            "weaponId": "65d8ffada459fcfeac0ce3d0",
+            "weaponName": "weapon_izhmash_pp-19-01_9x19",
+            "delete": false,
+            "childs": [
+                "65d8ffada459fcfeac0ce3d1",
+                "65d8ffada459fcfeac0ce3d2",
+                "65d8ffada459fcfeac0ce3d3",
+                "65d8ffada459fcfeac0ce3d4",
+                "65d8ffada459fcfeac0ce3d5",
+                "65d8ffada459fcfeac0ce3d6",
+                "65d8ffada459fcfeac0ce3d8",
+                "65d8ffada459fcfeac0ce3d7"
+            ]
+        },
+        {
+            "weaponId": "65d8ffada459fcfeac0ce3ea",
+            "weaponName": "weapon_izhmash_akmn_762x39",
+            "delete": true,
+            "childs": [
+                "65d8ffada459fcfeac0ce3ec",
+                "65d8ffada459fcfeac0ce3eb",
+                "65d8ffada459fcfeac0ce3ed",
+                "65d8ffada459fcfeac0ce3ee",
+                "65d8ffada459fcfeac0ce3ef",
+                "65d8ffada459fcfeac0ce3f0",
+                "65d8ffada459fcfeac0ce3f1",
+                "65d8ffada459fcfeac0ce3f2"
+            ]
+        },
+        {
+            "weaponId": "65d8ffaea459fcfeac0ce498",
+            "weaponName": "weapon_izhmash_ak103_762x39",
+            "delete": false,
+            "childs": [
+                "65d8ffaea459fcfeac0ce49a",
+                "65d8ffaea459fcfeac0ce499",
+                "65d8ffaea459fcfeac0ce49b",
+                "65d8ffaea459fcfeac0ce49c",
+                "65d8ffaea459fcfeac0ce49d",
+                "65d8ffaea459fcfeac0ce49e",
+                "65d8ffaea459fcfeac0ce49f",
+                "65d8ffaea459fcfeac0ce4a0"
+            ]
+        },
+        {
+            "weaponId": "65d8ffaea459fcfeac0ce4ba",
+            "weaponName": "weapon_izhmash_ak103_762x39",
+            "delete": false,
+            "childs": [
+                "65d8ffaea459fcfeac0ce4bc",
+                "65d8ffaea459fcfeac0ce4bb",
+                "65d8ffaea459fcfeac0ce4bd",
+                "65d8ffaea459fcfeac0ce4be",
+                "65d8ffaea459fcfeac0ce4bf",
+                "65d8ffaea459fcfeac0ce4c0",
+                "65d8ffaea459fcfeac0ce4c1",
+                "65d8ffaea459fcfeac0ce4c2"
+            ]
+        },
+        {
+            "weaponId": "65d8ffafa459fcfeac0ce4ee",
+            "weaponName": "weapon_izhmash_akmsn_762x39",
+            "delete": true,
+            "childs": [
+                "65d8ffafa459fcfeac0ce4f0",
+                "65d8ffafa459fcfeac0ce4ef",
+                "65d8ffafa459fcfeac0ce4f1",
+                "65d8ffafa459fcfeac0ce4f2",
+                "65d8ffafa459fcfeac0ce4f3",
+                "65d8ffafa459fcfeac0ce4f4",
+                "65d8ffafa459fcfeac0ce4f5",
+                "65d8ffafa459fcfeac0ce4f6"
+            ]
+        },
+        {
+            "weaponId": "65d8ffafa459fcfeac0ce519",
+            "weaponName": "weapon_izhmash_ak74n_545x39",
+            "delete": false,
+            "childs": [
+                "65d8ffafa459fcfeac0ce51b",
+                "65d8ffafa459fcfeac0ce51a",
+                "65d8ffafa459fcfeac0ce51c",
+                "65d8ffafa459fcfeac0ce51d",
+                "65d8ffafa459fcfeac0ce51e",
+                "65d8ffafa459fcfeac0ce51f",
+                "65d8ffafa459fcfeac0ce520",
+                "65d8ffafa459fcfeac0ce521"
+            ]
+        },
+        {
+            "weaponId": "65d8ffafa459fcfeac0ce52c",
+            "weaponName": "weapon_izhmash_aks74n_545x39",
+            "delete": false,
+            "childs": [
+                "65d8ffafa459fcfeac0ce52e",
+                "65d8ffafa459fcfeac0ce52d",
+                "65d8ffafa459fcfeac0ce52f",
+                "65d8ffafa459fcfeac0ce530",
+                "65d8ffafa459fcfeac0ce531",
+                "65d8ffafa459fcfeac0ce532",
+                "65d8ffafa459fcfeac0ce533",
+                "65d8ffafa459fcfeac0ce534"
+            ]
+        },
+        {
+            "weaponId": "65d8ffafa459fcfeac0ce536",
+            "weaponName": "weapon_izhmash_ak74m_545x39",
+            "delete": false,
+            "childs": [
+                "65d8ffafa459fcfeac0ce538",
+                "65d8ffafa459fcfeac0ce537",
+                "65d8ffafa459fcfeac0ce539",
+                "65d8ffafa459fcfeac0ce53a",
+                "65d8ffafa459fcfeac0ce53b",
+                "65d8ffafa459fcfeac0ce53c",
+                "65d8ffafa459fcfeac0ce53d",
+                "65d8ffafa459fcfeac0ce53e"
+            ]
+        },
+        {
+            "weaponId": "65d8ffafa459fcfeac0ce56b",
+            "weaponName": "weapon_izhmash_ak74m_545x39",
+            "delete": false,
+            "childs": [
+                "65d8ffafa459fcfeac0ce56d",
+                "65d8ffafa459fcfeac0ce56c",
+                "65d8ffafa459fcfeac0ce56e",
+                "65d8ffafa459fcfeac0ce56f",
+                "65d8ffafa459fcfeac0ce570",
+                "65d8ffafa459fcfeac0ce571",
+                "65d8ffafa459fcfeac0ce572",
+                "65d8ffafa459fcfeac0ce573"
+            ]
+        },
+        {
+            "weaponId": "65d8ffb0a459fcfeac0ce5c4",
+            "weaponName": "weapon_izhmash_pp-19-01_9x19",
+            "delete": false,
+            "childs": [
+                "65d8ffb0a459fcfeac0ce5c5",
+                "65d8ffb0a459fcfeac0ce5c6",
+                "65d8ffb0a459fcfeac0ce5c7",
+                "65d8ffb0a459fcfeac0ce5c8",
+                "65d8ffb0a459fcfeac0ce5c9",
+                "65d8ffb0a459fcfeac0ce5ca",
+                "65d8ffb0a459fcfeac0ce5cc",
+                "65d8ffb0a459fcfeac0ce5cb"
+            ]
+        },
+        {
+            "weaponId": "65d8ffb0a459fcfeac0ce5e3",
+            "weaponName": "weapon_izhmash_ak74n_545x39",
+            "delete": false,
+            "childs": [
+                "65d8ffb0a459fcfeac0ce5e5",
+                "65d8ffb0a459fcfeac0ce5e4",
+                "65d8ffb0a459fcfeac0ce5e6",
+                "65d8ffb0a459fcfeac0ce5e7",
+                "65d8ffb0a459fcfeac0ce5e8",
+                "65d8ffb0a459fcfeac0ce5e9",
+                "65d8ffb0a459fcfeac0ce5ea",
+                "65d8ffb0a459fcfeac0ce5eb"
+            ]
+        },
+        {
+            "weaponId": "65d8ffb1a459fcfeac0ce657",
+            "weaponName": "weapon_izhmash_akmn_762x39",
+            "delete": false,
+            "childs": [
+                "65d8ffb1a459fcfeac0ce659",
+                "65d8ffb1a459fcfeac0ce658",
+                "65d8ffb1a459fcfeac0ce65a",
+                "65d8ffb1a459fcfeac0ce65b",
+                "65d8ffb1a459fcfeac0ce65c",
+                "65d8ffb1a459fcfeac0ce65d",
+                "65d8ffb1a459fcfeac0ce65e",
+                "65d8ffb1a459fcfeac0ce65f"
+            ]
+        },
+        {
+            "weaponId": "65d8ffb7a459fcfeac0ce8bf",
+            "weaponName": "weapon_izhmash_ak74m_545x39",
+            "delete": false,
+            "childs": [
+                "65d8ffb7a459fcfeac0ce8c1",
+                "65d8ffb7a459fcfeac0ce8c0",
+                "65d8ffb7a459fcfeac0ce8c2",
+                "65d8ffb7a459fcfeac0ce8c3",
+                "65d8ffb7a459fcfeac0ce8c4",
+                "65d8ffb7a459fcfeac0ce8c5",
+                "65d8ffb7a459fcfeac0ce8c6",
+                "65d8ffb7a459fcfeac0ce8c7"
+            ]
+        }
+    ],
+
+    "58330581ace78e27b8b10cee": [
+        {
+            "weaponId": "65cb81e2321bfcd99d00f9b2",
+            "weaponName": "weapon_molot_vepr_km_vpo_136_762x39",
+            "delete": false,
+            "childs": [
+                "65cb81e2321bfcd99d00f9b4",
+                "65cb81e2321bfcd99d00f9b3",
+                "65cb81e2321bfcd99d00f9b5",
+                "65cb81e2321bfcd99d00f9b6",
+                "65cb81e2321bfcd99d00f9b7",
+                "65cb81e2321bfcd99d00f9b8",
+                "65cb81e2321bfcd99d00f9b9",
+                "65cb81e2321bfcd99d00f9ba"
+            ]
+        },
+        {
+            "weaponId": "65cb81e2321bfcd99d00f9d2",
+            "weaponName": "weapon_izhmash_saiga_9_9x19",
+            "delete": false,
+            "childs": [
+                "65cb81e2321bfcd99d00f9d3",
+                "65cb81e2321bfcd99d00f9d4",
+                "65cb81e2321bfcd99d00f9d5",
+                "65cb81e2321bfcd99d00f9d6",
+                "65cb81e2321bfcd99d00f9d7",
+                "65cb81e2321bfcd99d00f9d8",
+                "65cb81e2321bfcd99d00f9da",
+                "65cb81e2321bfcd99d00f9d9"
+            ]
+        },
+        {
+            "weaponId": "65cb81e3321bfcd99d00fa0c",
+            "weaponName": "weapon_molot_akm_vpo_209_366_TKM",
+            "delete": false,
+            "childs": [
+                "65cb81e3321bfcd99d00fa0e",
+                "65cb81e3321bfcd99d00fa0d",
+                "65cb81e3321bfcd99d00fa0f",
+                "65cb81e3321bfcd99d00fa10",
+                "65cb81e3321bfcd99d00fa11",
+                "65cb81e3321bfcd99d00fa12",
+                "65cb81e3321bfcd99d00fa13",
+                "65cb81e3321bfcd99d00fa14"
+            ]
+        },
+        {
+            "weaponId": "65cb81e5321bfcd99d00facd",
+            "weaponName": "weapon_molot_vepr_km_vpo_136_762x39",
+            "delete": false,
+            "childs": [
+                "65cb81e5321bfcd99d00facf",
+                "65cb81e5321bfcd99d00face",
+                "65cb81e5321bfcd99d00fad0",
+                "65cb81e5321bfcd99d00fad1",
+                "65cb81e5321bfcd99d00fad2",
+                "65cb81e5321bfcd99d00fad3",
+                "65cb81e5321bfcd99d00fad4",
+                "65cb81e5321bfcd99d00fad5"
+            ]
+        }
+    ],
+    "5935c25fb3acc3127c3d8cd9": [
+        {
+            "weaponId": "65cb82367e8e8aec5b087ea6",
+            "weaponName": "weapon_izhmash_ak74n_545x39",
+            "delete": false,
+            "childs": [
+                "65cb82367e8e8aec5b087ea9",
+                "65cb82367e8e8aec5b087ea8",
+                "65cb82367e8e8aec5b087ea7",
+                "65cb82367e8e8aec5b087eaa",
+                "65cb82367e8e8aec5b087eab",
+                "65cb82367e8e8aec5b087eac",
+                "65cb82367e8e8aec5b087eae",
+                "65cb82367e8e8aec5b087ead",
+                "65cb82367e8e8aec5b087eb2",
+                "65cb82367e8e8aec5b087eb1",
+                "65cb82367e8e8aec5b087eb0",
+                "65cb82367e8e8aec5b087eaf",
+                "65cb82367e8e8aec5b087eb3"
+            ]
+        }
+    ],
+    "5a7c2eca46aef81a7ca2145d": [
+        {
+            "weaponId": "65cb82257e8e8aec5b087669",
+            "weaponName": "weapon_izhmash_pp-19-01_9x19",
+            "delete": false,
+            "childs": [
+                "65cb82257e8e8aec5b08766a",
+                "65cb82257e8e8aec5b08766c",
+                "65cb82257e8e8aec5b08766b",
+                "65cb82257e8e8aec5b08766d",
+                "65cb82257e8e8aec5b08766e",
+                "65cb82257e8e8aec5b08766f",
+                "65cb82257e8e8aec5b087671",
+                "65cb82257e8e8aec5b087670",
+                "65cb82257e8e8aec5b087672",
+                "65cb82257e8e8aec5b087675",
+                "65cb82257e8e8aec5b087676",
+                "65cb82257e8e8aec5b087674",
+                "65cb82257e8e8aec5b087673"
+            ]
+        },
+        {
+            "weaponId": "65cb82277e8e8aec5b087748",
+            "weaponName": "weapon_izhmash_akmn_762x39",
+            "delete": false,
+            "childs": [
+                "65cb82277e8e8aec5b08774a",
+                "65cb82277e8e8aec5b087749",
+                "65cb82277e8e8aec5b08774b",
+                "65cb82277e8e8aec5b08774c",
+                "65cb82277e8e8aec5b08774d",
+                "65cb82277e8e8aec5b08774e",
+                "65cb82277e8e8aec5b08774f",
+                "65cb82277e8e8aec5b087750"
+            ]
+        },
+        {
+            "weaponId": "65cb82287e8e8aec5b087809",
+            "weaponName": "weapon_izhmash_ak101_556x45",
+            "delete": false,
+            "childs": [
+                "65cb82287e8e8aec5b08780b",
+                "65cb82287e8e8aec5b08780a",
+                "65cb82287e8e8aec5b08780c",
+                "65cb82287e8e8aec5b08780d",
+                "65cb82287e8e8aec5b08780e",
+                "65cb82287e8e8aec5b08780f",
+                "65cb82287e8e8aec5b087810",
+                "65cb82287e8e8aec5b087811"
+            ]
+        },
+        {
+            "weaponId": "65cb82297e8e8aec5b08788d",
+            "weaponName": "weapon_izhmash_ak74m_545x39",
+            "delete": false,
+            "childs": [
+                "65cb82297e8e8aec5b08788f",
+                "65cb82297e8e8aec5b08788e",
+                "65cb82297e8e8aec5b087890",
+                "65cb82297e8e8aec5b087891",
+                "65cb82297e8e8aec5b087892",
+                "65cb82297e8e8aec5b087893",
+                "65cb82297e8e8aec5b087894",
+                "65cb82297e8e8aec5b087895"
+            ]
+        },
+        {
+            "weaponId": "65cb822a7e8e8aec5b0878ee",
+            "weaponName": "weapon_izhmash_ak74m_545x39",
+            "delete": false,
+            "childs": [
+                "65cb822a7e8e8aec5b0878f0",
+                "65cb822a7e8e8aec5b0878ef",
+                "65cb822a7e8e8aec5b0878f1",
+                "65cb822a7e8e8aec5b0878f2",
+                "65cb822a7e8e8aec5b0878f3",
+                "65cb822a7e8e8aec5b0878f4",
+                "65cb822a7e8e8aec5b0878f6",
+                "65cb822a7e8e8aec5b0878f5",
+                "65cb822a7e8e8aec5b0878f7"
+            ]
+        },
+        {
+            "weaponId": "65cb822b7e8e8aec5b08798b",
+            "weaponName": "weapon_izhmash_ak101_556x45",
+            "delete": false,
+            "childs": [
+                "65cb822b7e8e8aec5b08798d",
+                "65cb822b7e8e8aec5b08798c",
+                "65cb822b7e8e8aec5b08798e",
+                "65cb822b7e8e8aec5b08798f",
+                "65cb822b7e8e8aec5b087990",
+                "65cb822b7e8e8aec5b087991",
+                "65cb822b7e8e8aec5b087992",
+                "65cb822b7e8e8aec5b087993"
+            ]
+        },
+        {
+            "weaponId": "65cb822d7e8e8aec5b087a36",
+            "weaponName": "weapon_izhmash_ak74n_545x39",
+            "delete": false,
+            "childs": [
+                "65cb822d7e8e8aec5b087a38",
+                "65cb822d7e8e8aec5b087a37",
+                "65cb822d7e8e8aec5b087a39",
+                "65cb822d7e8e8aec5b087a3a",
+                "65cb822d7e8e8aec5b087a3b",
+                "65cb822d7e8e8aec5b087a3c",
+                "65cb822d7e8e8aec5b087a3d",
+                "65cb822d7e8e8aec5b087a3e"
+            ]
+        },
+        {
+            "weaponId": "65cb822f7e8e8aec5b087b5f",
+            "weaponName": "weapon_molot_akm_vpo_209_366_TKM",
+            "delete": false,
+            "childs": [
+                "65cb822f7e8e8aec5b087b61",
+                "65cb822f7e8e8aec5b087b60",
+                "65cb822f7e8e8aec5b087b62",
+                "65cb822f7e8e8aec5b087b63",
+                "65cb822f7e8e8aec5b087b64",
+                "65cb822f7e8e8aec5b087b65",
+                "65cb822f7e8e8aec5b087b66",
+                "65cb822f7e8e8aec5b087b67"
+            ]
+        },
+        {
+            "weaponId": "65cb82327e8e8aec5b087d2d",
+            "weaponName": "weapon_izhmash_ak103_762x39",
+            "delete": false,
+            "childs": [
+                "65cb82327e8e8aec5b087d30",
+                "65cb82327e8e8aec5b087d31",
+                "65cb82327e8e8aec5b087d2f",
+                "65cb82327e8e8aec5b087d2e",
+                "65cb82327e8e8aec5b087d32",
+                "65cb82327e8e8aec5b087d33",
+                "65cb82327e8e8aec5b087d34",
+                "65cb82327e8e8aec5b087d36",
+                "65cb82327e8e8aec5b087d35",
+                "65cb82327e8e8aec5b087d37"
+            ]
+        },
+        {
+            "weaponId": "65cb82337e8e8aec5b087db6",
+            "weaponName": "weapon_rifle_dynamics_704_762x39",
+            "delete": false,
+            "childs": [
+                "65cb82337e8e8aec5b087db7",
+                "65cb82337e8e8aec5b087db8",
+                "65cb82337e8e8aec5b087db9",
+                "65cb82337e8e8aec5b087dba",
+                "65cb82337e8e8aec5b087dbb",
+                "65cb82337e8e8aec5b087dbe",
+                "65cb82337e8e8aec5b087dbd",
+                "65cb82337e8e8aec5b087dbc",
+                "65cb82337e8e8aec5b087dbf"
+            ]
+        },
+        {
+            "weaponId": "6492e44af4287b13040fc8f8",
+            "weaponName": "weapon_izhmash_ak103_762x39",
+            "delete": false,
+            "childs": [
+                "6492e44af4287b13040fc8fb",
+                "6492e44af4287b13040fc8fe",
+                "6492e44af4287b13040fc8fd",
+                "6492e44af4287b13040fc8fc",
+                "6492e44af4287b13040fc8fa",
+                "6492e44af4287b13040fc8f9",
+                "6492e44af4287b13040fc8ff",
+                "6492e44af4287b13040fc900",
+                "6492e44af4287b13040fc902",
+                "6492e44af4287b13040fc901",
+                "6492e44af4287b13040fc903",
+                "6492e44af4287b13040fc905",
+                "6492e44af4287b13040fc904",
+                "6492e44af4287b13040fc906",
+                "6492e44af4287b13040fc907"
+            ]
+        }
+    ],
+    "5c0647fdd443bc2504c2d371": [
+        {
+            "weaponId": "65cb821d7e8e8aec5b0872ec",
+            "weaponName": "weapon_molot_akm_vpo_209_366_TKM",
+            "delete": false,
+            "childs": [
+                "65cb821d7e8e8aec5b0872ee",
+                "65cb821d7e8e8aec5b0872ed",
+                "65cb821d7e8e8aec5b0872ef",
+                "65cb821d7e8e8aec5b0872f0",
+                "65cb821d7e8e8aec5b0872f1",
+                "65cb821d7e8e8aec5b0872f2",
+                "65cb821d7e8e8aec5b0872f3",
+                "65cb821d7e8e8aec5b0872f4"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{ 
+	"handbook":
+	{
+		"Id": "mod_barrel_15_inch_AK74",
+		"ParentId": "5b5f75c686f774094242f19f",
+		"Price": 11256
+	},
+	"item":
+    {
+        "_id": "mod_barrel_15_inch_AK74",
+        "_name": "mod_barrel_15_inch_AK74",
+        "_parent": "55818a104bdc2db9688b4569",
+        "_type": "Item",
+        "_props": {
+          "Name": "mod_barrel_15_inch_AK74",
+          "ShortName": "mod_barrel_15_inch_AK74",
+          "Description": "mod_barrel_15_inch_AK74",
+          "Weight": 0.806,
+          "BackgroundColor": "blue",
+          "Width": 3,
+          "Height": 1,
+          "StackMaxSize": 1,
+          "ItemSound": "mod",
+          "Prefab": {
+            "path": "barrel/mod_barrel_15_inch_AK74.bundle",
+            "rcid": ""
+          },
+          "UsePrefab": {
+            "path": "",
+            "rcid": ""
+          },
+          "StackObjectsCount": 1,
+          "NotShownInSlot": false,
+          "ExaminedByDefault": true,
+          "ExamineTime": 1,
+          "IsUndiscardable": false,
+          "IsUnsaleable": false,
+          "IsUnbuyable": false,
+          "IsUngivable": false,
+          "IsLockedafterEquip": false,
+          "QuestItem": false,
+          "LootExperience": 10,
+          "ExamineExperience": 3,
+          "HideEntrails": false,
+          "RepairCost": 0,
+          "RepairSpeed": 0,
+          "ExtraSizeLeft": 1,
+          "ExtraSizeRight": 0,
+          "ExtraSizeUp": 0,
+          "ExtraSizeDown": 0,
+          "ExtraSizeForceAdd": false,
+          "MergesWithChildren": true,
+          "CanSellOnRagfair": true,
+          "CanRequireOnRagfair": true,
+          "ConflictingItems": [],
+          "Unlootable": false,
+          "UnlootableFromSlot": "FirstPrimaryWeapon",
+          "UnlootableFromSide": [],
+          "AnimationVariantsNumber": 0,
+          "DiscardingBlock": false,
+          "RagFairCommissionModifier": 1,
+          "IsAlwaysAvailableForInsurance": false,
+          "DiscardLimit": -1,
+          "DropSoundType": "None",
+          "InsuranceDisabled": false,
+          "QuestStashMaxCount": 0,
+          "IsSpecialSlotOnly": false,
+          "IsUnremovable": false,
+          "Grids": [],
+          "Slots": [
+                {
+                    "_name": "mod_gas_block",
+                    "_id": "mod_gas_block_barrel_ak74_id",
+                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5a01ad4786f77450561fda02",
+                                    "59c6633186f7740cf0493bb9",
+                                    "59d64ec286f774171d1e0a42",
+                                    "59e649f986f77411d949b246",
+                                    "5b237e425acfc4771e1be0b6",
+                                    "59ccfdba86f7747f2109a587",
+                                    "5cf656f2d7f00c06585fb6eb"
+                                
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_launcher",
+                    "_id": "mod_launcher_barrel_ak74_id",
+                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5648b62b4bdc2d9d488b4585",
+                                    "62e7e7bbe6da9612f743f1e0"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "mod_muzzle_barrel_ak74_id",
+                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5ac72e945acfc43f3b691116",
+                                    "5ac7655e5acfc40016339a19",
+                                    "5649aa744bdc2ded0b8b457e",
+                                    "5f633f791b231926f2329f13",
+                                    "5943eeeb86f77412d6384f6b",
+                                    "5cc9a96cd7f00c011c04e04a",
+                                    "615d8f5dd92c473c770212ef",
+                                    "5649ab884bdc2ded0b8b457f",
+                                    "57dc324a24597759501edc20",
+                                    "59bffc1f86f77435b128b872",
+                                    "593d493f86f7745e6b2ceb22",
+                                    "564caa3d4bdc2d17108b458e",
+                                    "57ffb0e42459777d047111c5"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_sight_rear",
+                    "_id": "mod_sight_rear_barrel_ak74_id",
+                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5ac733a45acfc400192630e2",
+                                    "5649b0544bdc2d1b2b8b458a",
+                                    "5ac72e475acfc400180ae6fe",
+                                    "5649d9a14bdc2d79388b4580",
+                                    "628a7b23b0f75035732dd565",
+                                    "649ec2cec93611967b03495e",
+                                    "5bf3f59f0db834001a6fa060"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            
+          ],
+          "CanPutIntoDuringTheRaid": true,
+          "CantRemoveFromSlotsDuringRaid": [],
+          "Durability": 100,
+          "Accuracy": 0,
+          "Recoil": 0,
+          "Loudness": 0,
+          "EffectiveDistance": 0,
+          "Ergonomics": 0,
+          "Velocity": 0,
+          "RaidModdable": false,
+          "ToolModdable": true,
+          "BlocksFolding": false,
+          "BlocksCollapsible": false,
+          "IsAnimated": false,
+          "HasShoulderContact": false,
+          "SightingRange": 0,
+          "DoubleActionAccuracyPenaltyMult": 1,
+          "HeatFactor": 1,
+          "CoolFactor": 1
+        },
+        "_proto": "5648b1504bdc2d9d488b4584"
+      },
+
+	"locale":
+	{	
+		"mod_barrel_15_inch_AK74 Name":"AK-74 standard 15 inch barrel",
+		"mod_barrel_15_inch_AK74 ShortName":"AK74 15",
+		"mod_barrel_15_inch_AK74 Description":"Standard barrel for AK74, fits perfectly other caliber by the way lol"
+	}
+}
+

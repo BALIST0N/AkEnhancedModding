@@ -1,0 +1,391 @@
+<<<<<<< HEAD
+{ 
+	"handbook":
+	{
+		"Id": "handguard_ak_vs_vs_33c_wht_lower",
+		"ParentId": "5b5f75e486f77447ec5d7712",
+		"Price": 5000
+	},
+	"item":
+  {
+    "_id": "handguard_ak_vs_vs_33c_wht_lower",
+    "_name": "handguard_ak_vs_vs_33c_wht_lower",
+    "_parent": "56ea9461d2720b67698b456f",
+    "_type": "Item",
+    "_props": {
+      "Name": "handguard_ak_vs_vs_33c_wht_lower",
+      "ShortName": "handguard_ak_vs_vs_33c_wht_lower",
+      "Description": "handguard_ak_vs_vs_33c_wht_lower",
+      "Weight": 0.385,
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "handguards/handguard_ak_vs_vs_33c_wht_lower.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": false,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 50,
+      "ExamineExperience": 10,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0",
+        "628a60ae6b1d481ff772e9c8",
+        "5ac66d9b5acfc4001633997a",
+        "5ac66d725acfc43b321d4b60",
+        "5ac66d015acfc400180ae6e4",
+        "59984ab886f7743e98271174",
+        "59f9cabd86f7743a10721f46",
+        "5649af884bdc2d1b2b8b4589"
+      ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "mod_mount_000_id_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "59e0bdb186f774156f04ce82",
+                  "623c2f652febb22c2777d8d7"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "mod_mount_001_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f4242aee3103f1c44b7",
+                  "623c2f652febb22c2777d8d7"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "mod_mount_002_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f4242aee3103f1c44b7",
+                  "623c2f652febb22c2777d8d7"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "mod_foregrip_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a9d6d13a2750c00164f6b03",
+                  "59e0bed186f774156f04ce84"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": 0,
+      "Recoil": -4,
+      "Loudness": 0,
+      "EffectiveDistance": 0,
+      "Ergonomics": 10,
+      "Velocity": 0,
+      "RaidModdable": true,
+      "ToolModdable": true,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DurabilityBurnModificator": 0.98,
+      "HeatFactor": 0.98,
+      "CoolFactor": 1.022
+    },
+    "_proto": "56ea8d2fd2720b7c698b4570"
+  },
+
+	"locale":
+	{	
+		"handguard_ak_vs_vs_33c_wht_lower Name":"ak vs-24 handguard (White)",
+		"handguard_ak_vs_vs_33c_wht_lower ShortName":"vs-24",
+		"handguard_ak_vs_vs_33c_wht_lower Description":"lower handguard in white complete this please"
+	}
+}
+
+=======
+{ 
+	"handbook":
+	{
+		"Id": "handguard_ak_vs_vs_33c_wht_lower",
+		"ParentId": "5b5f75e486f77447ec5d7712",
+		"Price": 5000
+	},
+	"item":
+  {
+    "_id": "handguard_ak_vs_vs_33c_wht_lower",
+    "_name": "handguard_ak_vs_vs_33c_wht_lower",
+    "_parent": "56ea9461d2720b67698b456f",
+    "_type": "Item",
+    "_props": {
+      "Name": "handguard_ak_vs_vs_33c_wht_lower",
+      "ShortName": "handguard_ak_vs_vs_33c_wht_lower",
+      "Description": "handguard_ak_vs_vs_33c_wht_lower",
+      "Weight": 0.385,
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "handguards/handguard_ak_vs_vs_33c_wht_lower.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": false,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 50,
+      "ExamineExperience": 10,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0",
+        "628a60ae6b1d481ff772e9c8",
+        "5ac66d9b5acfc4001633997a",
+        "5ac66d725acfc43b321d4b60",
+        "5ac66d015acfc400180ae6e4",
+        "59984ab886f7743e98271174",
+        "59f9cabd86f7743a10721f46",
+        "5649af884bdc2d1b2b8b4589"
+      ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "mod_mount_000_id_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "59e0bdb186f774156f04ce82",
+                  "623c2f652febb22c2777d8d7"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "mod_mount_001_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f4242aee3103f1c44b7",
+                  "623c2f652febb22c2777d8d7"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "mod_mount_002_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f4242aee3103f1c44b7",
+                  "623c2f652febb22c2777d8d7"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "mod_foregrip_handguard_ak_vs_vs_33c_wht_lower",
+          "_parent": "handguard_ak_vs_vs_33c_wht_lower",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5a9d6d13a2750c00164f6b03",
+                  "59e0bed186f774156f04ce84"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": 0,
+      "Recoil": -4,
+      "Loudness": 0,
+      "EffectiveDistance": 0,
+      "Ergonomics": 10,
+      "Velocity": 0,
+      "RaidModdable": true,
+      "ToolModdable": true,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DurabilityBurnModificator": 0.98,
+      "HeatFactor": 0.98,
+      "CoolFactor": 1.022
+    },
+    "_proto": "56ea8d2fd2720b7c698b4570"
+  },
+
+	"locale":
+	{	
+		"handguard_ak_vs_vs_33c_wht_lower Name":"ak vs-24 handguard (White)",
+		"handguard_ak_vs_vs_33c_wht_lower ShortName":"vs-24",
+		"handguard_ak_vs_vs_33c_wht_lower Description":"lower handguard in white complete this please"
+	}
+}
+
+>>>>>>> parent of 4d1ba0a (Merge pull request #2 from BALIST0N/3.0)

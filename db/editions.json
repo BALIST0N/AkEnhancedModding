@@ -1,0 +1,274 @@
+{
+    "Standard": {
+        "bear": [
+            {
+                "_id": "5fe4977574f15b4ad31b661a",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "5fe4977574f15b4ad31b6611",
+                    "5fe4977574f15b4ad31b6612",
+                    "5fe4977574f15b4ad31b6613",
+                    "5fe4977574f15b4ad31b6614",
+                    "5fe4977574f15b4ad31b6615",
+                    "5fe4977574f15b4ad31b6616",
+                    "5fe4977574f15b4ad31b6617",
+                    "5fe4977574f15b4ad31b6618",
+                    "5fe4977574f15b4ad31b6619",
+                    "5fe4977574f15b4ad31b661a"
+                ]
+            },
+            {
+                "_id": "5fe4977574f15b4ad31b669d",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "5fe4977574f15b4ad31b6694",
+                    "5fe4977574f15b4ad31b6695",
+                    "5fe4977574f15b4ad31b6696",
+                    "5fe4977574f15b4ad31b6697",
+                    "5fe4977574f15b4ad31b6698",
+                    "5fe4977574f15b4ad31b6699",
+                    "5fe4977574f15b4ad31b669a",
+                    "5fe4977574f15b4ad31b669b",
+                    "5fe4977574f15b4ad31b669c",
+                    "5fe4977574f15b4ad31b669d"
+                ]
+            },
+            {
+                "_id": "5fe4977574f15b4ad31b66ab",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "5fe4977574f15b4ad31b66a2",
+                    "5fe4977574f15b4ad31b66a3",
+                    "5fe4977574f15b4ad31b66a4",
+                    "5fe4977574f15b4ad31b66a5",
+                    "5fe4977574f15b4ad31b66a6",
+                    "5fe4977574f15b4ad31b66a7",
+                    "5fe4977574f15b4ad31b66a8",
+                    "5fe4977574f15b4ad31b66a9",
+                    "5fe4977574f15b4ad31b66aa",
+                    "5fe4977574f15b4ad31b66ab"
+                ]
+            },
+            {
+                "_id": "5fe4977574f15b4ad31b66b5",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "5fe4977574f15b4ad31b66ac",
+                    "5fe4977574f15b4ad31b66ad",
+                    "5fe4977574f15b4ad31b66ae",
+                    "5fe4977574f15b4ad31b66af",
+                    "5fe4977574f15b4ad31b66b0",
+                    "5fe4977574f15b4ad31b66b1",
+                    "5fe4977574f15b4ad31b66b2",
+                    "5fe4977574f15b4ad31b66b3",
+                    "5fe4977574f15b4ad31b66b4",
+                    "5fe4977574f15b4ad31b66b5"
+                ]
+            }
+        ]
+    },
+    "Left Behind": {
+        "bear": [
+            {
+                "_id": "5fe4a9285a72d07b6630291c",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "5fe4a9285a72d07b66302913",
+                    "5fe4a9285a72d07b66302914",
+                    "5fe4a9285a72d07b66302915",
+                    "5fe4a9285a72d07b66302916",
+                    "5fe4a9285a72d07b66302917",
+                    "5fe4a9285a72d07b66302918",
+                    "5fe4a9285a72d07b66302919",
+                    "5fe4a9285a72d07b6630291a",
+                    "5fe4a9285a72d07b6630291b",
+                    "5fe4a9285a72d07b6630291c"
+                ]
+            },
+            {
+                "_id": "5fe4a9285a72d07b663029bc",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "5fe4a9285a72d07b663029b3",
+                    "5fe4a9285a72d07b663029b4",
+                    "5fe4a9285a72d07b663029b5",
+                    "5fe4a9285a72d07b663029b6",
+                    "5fe4a9285a72d07b663029b7",
+                    "5fe4a9285a72d07b663029b8",
+                    "5fe4a9285a72d07b663029b9",
+                    "5fe4a9285a72d07b663029ba",
+                    "5fe4a9285a72d07b663029bb",
+                    "5fe4a9285a72d07b663029bc"
+                ]
+            },
+            {
+                "_id": "5fe4a9285a72d07b663029ce",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "5fe4a9285a72d07b663029c5",
+                    "5fe4a9285a72d07b663029c6",
+                    "5fe4a9285a72d07b663029c7",
+                    "5fe4a9285a72d07b663029c8",
+                    "5fe4a9285a72d07b663029c9",
+                    "5fe4a9285a72d07b663029ca",
+                    "5fe4a9285a72d07b663029cb",
+                    "5fe4a9285a72d07b663029cc",
+                    "5fe4a9285a72d07b663029cd",
+                    "5fe4a9285a72d07b663029ce"
+                ]
+            },
+            {
+                "_id": "5fe4a9285a72d07b663029d8",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "5fe4a9285a72d07b663029cf",
+                    "5fe4a9285a72d07b663029d0",
+                    "5fe4a9285a72d07b663029d1",
+                    "5fe4a9285a72d07b663029d2",
+                    "5fe4a9285a72d07b663029d3",
+                    "5fe4a9285a72d07b663029d4",
+                    "5fe4a9285a72d07b663029d5",
+                    "5fe4a9285a72d07b663029d6",
+                    "5fe4a9285a72d07b663029d7",
+                    "5fe4a9285a72d07b663029d8"
+                ]
+            }
+        ]
+    },
+    "Prepare To Escape": {
+        "bear": [
+            {
+                "_id": "5fe4a66e40ca750fd72b586f",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "5fe4a66e40ca750fd72b5866",
+                    "5fe4a66e40ca750fd72b5867",
+                    "5fe4a66e40ca750fd72b5868",
+                    "5fe4a66e40ca750fd72b5869",
+                    "5fe4a66e40ca750fd72b586a",
+                    "5fe4a66e40ca750fd72b586b",
+                    "5fe4a66e40ca750fd72b586c",
+                    "5fe4a66e40ca750fd72b586d",
+                    "5fe4a66e40ca750fd72b586e",
+                    "5fe4a66e40ca750fd72b586f"
+                ]
+            },
+            {
+                "_id": "5fe4a66e40ca750fd72b592d",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "5fe4a66e40ca750fd72b5924",
+                    "5fe4a66e40ca750fd72b5925",
+                    "5fe4a66e40ca750fd72b5926",
+                    "5fe4a66e40ca750fd72b5927",
+                    "5fe4a66e40ca750fd72b5928",
+                    "5fe4a66e40ca750fd72b5929",
+                    "5fe4a66e40ca750fd72b592a",
+                    "5fe4a66e40ca750fd72b592b",
+                    "5fe4a66e40ca750fd72b592c",
+                    "5fe4a66e40ca750fd72b592d"
+                ]
+            },
+            {
+                "_id": "5fe4a66e40ca750fd72b593f",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "5fe4a66e40ca750fd72b5936",
+                    "5fe4a66e40ca750fd72b5937",
+                    "5fe4a66e40ca750fd72b5938",
+                    "5fe4a66e40ca750fd72b5939",
+                    "5fe4a66e40ca750fd72b593a",
+                    "5fe4a66e40ca750fd72b593b",
+                    "5fe4a66e40ca750fd72b593c",
+                    "5fe4a66e40ca750fd72b593d",
+                    "5fe4a66e40ca750fd72b593e",
+                    "5fe4a66e40ca750fd72b593f"
+                ]
+            },
+            {
+                "_id": "5fe4a66e40ca750fd72b5949",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "5fe4a66e40ca750fd72b5940",
+                    "5fe4a66e40ca750fd72b5941",
+                    "5fe4a66e40ca750fd72b5942",
+                    "5fe4a66e40ca750fd72b5943",
+                    "5fe4a66e40ca750fd72b5944",
+                    "5fe4a66e40ca750fd72b5945",
+                    "5fe4a66e40ca750fd72b5946",
+                    "5fe4a66e40ca750fd72b5947",
+                    "5fe4a66e40ca750fd72b5948",
+                    "5fe4a66e40ca750fd72b5949"
+                ]
+            }
+        ]
+    },
+    "Edge Of Darkness": {
+        "bear": [
+            {
+                "_id": "6613bb72b5b0ba138a0fa9d9",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "6613bb72b5b0ba138a0fa9d0",
+                    "6613bb72b5b0ba138a0fa9d1",
+                    "6613bb72b5b0ba138a0fa9d2",
+                    "6613bb72b5b0ba138a0fa9d3",
+                    "6613bb72b5b0ba138a0fa9d4",
+                    "6613bb72b5b0ba138a0fa9d5",
+                    "6613bb72b5b0ba138a0fa9d6",
+                    "6613bb72b5b0ba138a0fa9d7",
+                    "6613bb72b5b0ba138a0fa9d8",
+                    "6613bb72b5b0ba138a0fa9d9"
+                ]
+            },
+            {
+                "_id": "6613bb72b5b0ba138a0faaca",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "6613bb72b5b0ba138a0faac1",
+                    "6613bb72b5b0ba138a0faac2",
+                    "6613bb72b5b0ba138a0faac3",
+                    "6613bb72b5b0ba138a0faac4",
+                    "6613bb72b5b0ba138a0faac5",
+                    "6613bb72b5b0ba138a0faac6",
+                    "6613bb72b5b0ba138a0faac7",
+                    "6613bb72b5b0ba138a0faac8",
+                    "6613bb72b5b0ba138a0faac9",
+                    "6613bb72b5b0ba138a0faaca"
+                ]
+            },
+            {
+                "_id": "6613bb72b5b0ba138a0faadc",
+                "_tpl": "59984ab886f7743e98271174",
+                "childs": [
+                    "6613bb72b5b0ba138a0faad3",
+                    "6613bb72b5b0ba138a0faad4",
+                    "6613bb72b5b0ba138a0faad5",
+                    "6613bb72b5b0ba138a0faad6",
+                    "6613bb72b5b0ba138a0faad7",
+                    "6613bb72b5b0ba138a0faad8",
+                    "6613bb72b5b0ba138a0faad9",
+                    "6613bb72b5b0ba138a0faada",
+                    "6613bb72b5b0ba138a0faadb",
+                    "6613bb72b5b0ba138a0faadc"
+                ]
+            },
+            {
+                "_id": "6613bb72b5b0ba138a0faae6",
+                "_tpl": "5ac4cd105acfc40016339859",
+                "childs": [
+                    "6613bb72b5b0ba138a0faadd",
+                    "6613bb72b5b0ba138a0faade",
+                    "6613bb72b5b0ba138a0faadf",
+                    "6613bb72b5b0ba138a0faae0",
+                    "6613bb72b5b0ba138a0faae1",
+                    "6613bb72b5b0ba138a0faae2",
+                    "6613bb72b5b0ba138a0faae3",
+                    "6613bb72b5b0ba138a0faae4",
+                    "6613bb72b5b0ba138a0faae5",
+                    "6613bb72b5b0ba138a0faae6"
+                ]
+            }
+        ]
+    }
+}

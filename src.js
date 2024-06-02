@@ -242,13 +242,11 @@ class AkSplitterMod
         
 
         /***************************************** MASTERKEY TEST SECTION ******************************/
-
-        
             
             addItemToDatabase(require("./test_masterkey/launcher_m870_masterkey.json")) ;
             items["launcher_m870_masterkey_settings"] = require("./test_masterkey/launcher_m870_masterkey_settings.json");
 
-            items["5ac4cd105acfc40016339859"]._props.Slots.find(slot => slot._name == "mod_launcher")._props.filters[0].Filter.push("launcher_m870_masterkey")
+            items["mod_barrel_15_inch_AK74"]._props.Slots.find(slot => slot._name == "mod_launcher")._props.filters[0].Filter.push("launcher_m870_masterkey")
         
 
 

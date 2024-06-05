@@ -247,7 +247,6 @@ class AkSplitterMod
             items["launcher_m870_masterkey_settings"] = require("./test_masterkey/launcher_m870_masterkey_settings.json");
 
             items["mod_barrel_15_inch_AK74"]._props.Slots.find(slot => slot._name == "mod_launcher")._props.filters[0].Filter.push("launcher_m870_masterkey")
-        
 
 
         /************************************ TRADERS ASSORT FIXING *********************************/
@@ -408,6 +407,28 @@ class AkSplitterMod
                     //console.log(bots[botType].inventory.equipment.FirstPrimaryWeapon[weapon], items[weapon]._name,"after", bots[botType].inventory.equipment.FirstPrimaryWeapon[aksToDelete[weapon]])
                 }
             }
+
+            for(let weapon in bots[botType].inventory.equipment.SecondPrimaryWeapon) 
+            {
+                if(Object.keys(aksToDelete).indexOf(weapon) != -1 )
+                {
+                    console.log(botType, items[weapon]._name)
+                    if(bots[botType].inventory.equipment.SecondPrimaryWeapon[aksToDelete[weapon]] === undefined)
+                    {
+                        bots[botType].inventory.equipment.SecondPrimaryWeapon[aksToDelete[weapon]] = bots[botType].inventory.equipment.SecondPrimaryWeapon[weapon];
+                    }
+                    else
+                    {
+                        bots[botType].inventory.equipment.SecondPrimaryWeapon[aksToDelete[weapon]] += bots[botType].inventory.equipment.SecondPrimaryWeapon[weapon];
+
+                    }
+                    delete bots[botType].inventory.equipment.SecondPrimaryWeapon[weapon];
+
+                    //console.log(bots[botType].inventory.equipment.FirstPrimaryWeapon[weapon], items[weapon]._name,"after", bots[botType].inventory.equipment.FirstPrimaryWeapon[aksToDelete[weapon]])
+                }
+            }
+
+
             for(let weapon in bots[botType].inventory.mods)
             {
                 if(Object.keys(aksToDelete).indexOf(weapon) != -1 )

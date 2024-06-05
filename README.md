@@ -13,9 +13,9 @@ and a lot of reseach has been made for weight values to match IRL part : )
 
 
 
-## NEW UPDATE 2.0 
+## UPDATE 3.0 
 
-this update add separated siderails, this update aim to merge some useless ak : 
+after the 2.0 update who add separated siderails, 
 
-## all the non N variants has been replaced with N variants : )
+the new 3.0 Update split Barrels from the guns, now you can mix short and long barrels on any aks according to caliber and conflictings items
 

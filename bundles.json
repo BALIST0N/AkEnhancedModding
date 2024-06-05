@@ -1141,6 +1141,56 @@
                 "assets/content/weapons/aks74/weapon_izhmash_aks74n_545x39_container.bundle",
                 "weapons/body.bundle"
             ]
+        },
+    
+
+
+
+
+
+        {
+            "key":"AK_Mod_0/texas_dog_leg_beryl_style_rail.bundle", 
+            "dependencyKeys":["shaders"]
+        },
+        {
+           "key":"AK_Mod_0/popc_gen4_std.bundle", 
+           "dependencyKeys":["shaders"]
+        },
+        {
+           "key":"AK_Mod_0/popc_akm_ar_adapter.bundle", 
+           "dependencyKeys":["shaders"]
+        },
+        {
+           "key":"AK_Mod_0/popc_ak100_ar_adapter.bundle", 
+           "dependencyKeys":["shaders"]
+        },
+        {
+            "key":"AK_Mod_0/handguard_chassis_mk3_texture.bundle", 
+            "dependencyKeys":[]
+        },
+        {
+          "key":"AK_Mod_0/handguard_ak_sag_mk3_chassis.bundle", 
+          "dependencyKeys":["AK_Mod_0/handguard_chassis_mk3_texture.bundle","shaders"]
+        },
+        {
+          "key":"AK_Mod_0/reciever_ak_sag_mk3_std.bundle", 
+          "dependencyKeys":["shaders"]
+        },
+        {
+            "key":"AK_Mod_0/stock_ak_sig_thin_foldable.bundle", 
+            "dependencyKeys":["shaders"]
+        },
+        {
+            "key":"AK_Mod_0/handguard_aks74u_zenit_b11_blk.bundle", 
+            "dependencyKeys":["shaders"]
+        },
+        {
+            "key":"AK_Mod_0/handguard_ak_sag_mk2_1.bundle", 
+            "dependencyKeys":["shaders"]
+        },
+        {
+            "key":"AK_Mod_0/handguard_ak_sag_mk2.bundle", 
+            "dependencyKeys":["shaders"]
         }
     ]
 }

@@ -84,7 +84,7 @@ class AkSplitterMod
 
         const otherAkFamilly = //these weapons have new bundles for having a mod_handguard slot (in the .bundle file)
         [
-            "628a60ae6b1d481ff772e9c8",  //RD-704 
+            "628a60ae6b1d481ff772e9c8",  //RD-704
             "59984ab886f7743e98271174",  //pp-19
             "59f9cabd86f7743a10721f46"  //saiga 9
         ]
@@ -216,6 +216,26 @@ class AkSplitterMod
         });
 
 
+        //adding ak extetion to the database
+        fs.readdirSync(__dirname + "/akExtention",{ withFileTypes: true }).forEach(file => 
+        {  
+            addItemToDatabase( require("./akExtention/"+file.name) ,handbook,items );
+        });
+
+        //manual addition to the new "AkExtention" items into weapons slots
+        ["5ac66cb05acfc40198510a10", "5ac66d2e5acfc43b321d4b53", "5ac4cd105acfc40016339859" ].forEach(ak =>
+        {
+            items[ak]._props.Slots.find(slot => slot._name == "mod_stock" )._props.filters[0].Filter.push("5fbcc437d724d907e20BCd5c","566Cb2314bdc2d79388b4576")
+        });
+
+        ["5644bd2b4bdc2d3b4c8b4572", "5a0ec13bfcdbcb00165aa685", "59e6152586f77473dc057aa1", "59e6687d86f77411d949b251" ].forEach(ak =>
+        {
+            items[ak]._props.Slots.find(slot => slot._name == "mod_stock" )._props.filters[0].Filter.push("5649b2314bd2Fd79388b4576")
+        });
+
+        items["59d36a0086f7747e673f3946"]._props.Slots.find(slot => slot._name == "mod_handguard" )._props.filters[0].Filter.push("57ffa9f424597772857Ee844")
+
+
         //remove current handguards on standard gasblocks and fill new upper handguards
         gasblocks.forEach(gb => 
         {
@@ -237,9 +257,15 @@ class AkSplitterMod
         });
         
 
-        //gp-25 remove new gasblock conflicts
+        //gp-25 remove new railed gastubes conflicts
         delete items["62e7e7bbe6da9612f743f1e0"]._props.ConflictingItems[items["62e7e7bbe6da9612f743f1e0"]._props.ConflictingItems.indexOf("5cf656f2d7f00c06585fb6eb")];
+        delete items["62e7e7bbe6da9612f743f1e0"]._props.ConflictingItems[items["62e7e7bbe6da9612f743f1e0"]._props.ConflictingItems.indexOf("5b237e425acfc4771e1be0b6")];
         
+        //B33 receiver remove conflics
+        delete items["5649af884bdc2d1b2b8b4589"]._props.ConflictingItems[items["5649af884bdc2d1b2b8b4589"]._props.ConflictingItems.indexOf("5b237e425acfc4771e1be0b6")];
+        delete items["5649af884bdc2d1b2b8b4589"]._props.ConflictingItems[items["5649af884bdc2d1b2b8b4589"]._props.ConflictingItems.indexOf("59ccfdba86f7747f2109a587")];
+        delete items["5649af884bdc2d1b2b8b4589"]._props.ConflictingItems[items["5649af884bdc2d1b2b8b4589"]._props.ConflictingItems.indexOf("5cf656f2d7f00c06585fb6eb")];
+
 
         /***************************************** MASTERKEY TEST SECTION ******************************/
             
@@ -247,7 +273,6 @@ class AkSplitterMod
             items["launcher_m870_masterkey_settings"] = require("./test_masterkey/launcher_m870_masterkey_settings.json");
 
             items["mod_barrel_15_inch_AK74"]._props.Slots.find(slot => slot._name == "mod_launcher")._props.filters[0].Filter.push("launcher_m870_masterkey")
-
 
         /************************************ TRADERS ASSORT FIXING *********************************/
         
@@ -412,7 +437,6 @@ class AkSplitterMod
             {
                 if(Object.keys(aksToDelete).indexOf(weapon) != -1 )
                 {
-                    console.log(botType, items[weapon]._name)
                     if(bots[botType].inventory.equipment.SecondPrimaryWeapon[aksToDelete[weapon]] === undefined)
                     {
                         bots[botType].inventory.equipment.SecondPrimaryWeapon[aksToDelete[weapon]] = bots[botType].inventory.equipment.SecondPrimaryWeapon[weapon];

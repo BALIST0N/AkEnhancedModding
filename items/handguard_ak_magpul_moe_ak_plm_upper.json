@@ -1,14 +1,14 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_magpul_moe_ak_plm_upper",
+		"Id": "67597e817ad45ed39b0fc15e",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 1000
 	},
 
     "item": 
     {
-        "_id": "handguard_ak_magpul_moe_ak_plm_upper",
+        "_id": "67597e817ad45ed39b0fc15e",
         "_name": "handguard_ak_magpul_moe_ak_plm_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -94,8 +94,8 @@
     },
     "locale":
 	{	
-		"handguard_ak_magpul_moe_ak_plm_upper Name":"Magpull AK upper Handguard (Plum)",
-		"handguard_ak_magpul_moe_ak_plm_upper ShortName":"Magpull plm",
-		"handguard_ak_magpul_moe_ak_plm_upper Description":"Magpull AK upper Handguard from MOE and Zhukov series in plum color"
+		"67597e817ad45ed39b0fc15e Name":"Magpull AK upper Handguard (Plum)",
+		"67597e817ad45ed39b0fc15e ShortName":"Magpull plm",
+		"67597e817ad45ed39b0fc15e Description":"Magpull AK upper Handguard from MOE and Zhukov series in plum color"
 	}
 }

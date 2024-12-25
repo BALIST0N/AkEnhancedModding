@@ -1,14 +1,14 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_izhmash_ak74_std_plum_upper",
+		"Id": "67597e817ad45ed39b0fc155",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 420
 	},
 
     "item": 
     {
-        "_id": "handguard_ak_izhmash_ak74_std_plum_upper",
+        "_id": "67597e817ad45ed39b0fc155",
         "_name": "handguard_ak_izhmash_ak74_std_plum_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -94,8 +94,8 @@
     },
     "locale":
 	{	
-		"handguard_ak_izhmash_ak74_std_plum_upper Name":"ak 74 plum polymer upper",
-		"handguard_ak_izhmash_ak74_std_plum_upper ShortName":"plum plymr",
-		"handguard_ak_izhmash_ak74_std_plum_upper Description":"standard ak upper handguard in plum color"
+		"67597e817ad45ed39b0fc155 Name":"ak 74 plum polymer upper",
+		"67597e817ad45ed39b0fc155 ShortName":"plum plymr",
+		"67597e817ad45ed39b0fc155 Description":"standard ak upper handguard in plum color"
 	}
 }

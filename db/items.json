@@ -177,9 +177,9 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mount_siderail_RMP3",
-                                    "mount_siderail_RMP5",
-                                    "mount_siderail_RMPM"
+                                    "67597e817ad45ed39b0fc173",
+                                    "67597e817ad45ed39b0fc174",
+                                    "67597e817ad45ed39b0fc175"
                                 ]
                             }
                         ]
@@ -230,11 +230,10 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_15_inch_AKM",
-                                    "mod_barrel_11_inch_AK104",
-                                    "mod_barrel_15_inch_AK103",
-                                    "mod_barrel_ak_tec_arms_dark"
-
+                                    "67597e817ad45ed39b0fc171",
+                                    "67597e817ad45ed39b0fc16d",
+                                    "67597e817ad45ed39b0fc170",
+                                    "67597e817ad45ed39b0fc172"
                                 ]
                             }
                         ]
@@ -320,6 +319,7 @@
                                 "Filter": [
                                     "5ac50c185acfc400163398d4",
                                     "5cf50fc5d7f00c056c53f83c",
+                                    "5649af884bdc2d1b2b8b4589",        
                                     "5ac78eaf5acfc4001926317a",
                                     "5beec8b20db834001961942a",
                                     "6386300124a1dc425c00577a",
@@ -443,8 +443,8 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_11_inch_AK105",
-                                    "mod_barrel_15_inch_AK74"
+                                    "67597e817ad45ed39b0fc16b",
+                                    "67597e817ad45ed39b0fc16e"
                                 ]
                             }
                         ]
@@ -511,7 +511,8 @@
                                     "5d2c770c48f0354b4a07c100",
                                     "5d2c772c48f0355d95672c25",
                                     "5649af884bdc2d1b2b8b4589",
-                                    "628a665a86cbd9750d2ff5e5"
+                                    "628a665a86cbd9750d2ff5e5",
+                                    "5d2c33Cc48f0355d95672c25"
                                 ]
                             }
                         ]
@@ -589,9 +590,9 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mount_siderail_RMP3",
-                                    "mount_siderail_RMP5",
-                                    "mount_siderail_RMPM"
+                                    "67597e817ad45ed39b0fc173",
+                                    "67597e817ad45ed39b0fc174",
+                                    "67597e817ad45ed39b0fc175"
                                 ]
                             }
                         ]
@@ -626,7 +627,7 @@
         "_id": "5ac66cb05acfc40198510a10",
         "_name": "weapon_izhmash_ak101_556x45",
         "_props": {
-            "Weight": 1.680,
+            "Weight": 1.68,
             "Width": 3,
             "Prefab": {
                 "path": "weapons/weapon_izhmash_ak100_series_new.bundle",
@@ -642,8 +643,8 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_11_inch_AK102",
-                                    "mod_barrel_15_inch_AK101"
+                                    "67597e817ad45ed39b0fc16c",
+                                    "67597e817ad45ed39b0fc16f"
                                 ]
                             }
                         ]
@@ -818,7 +819,6 @@
             "Ergonomics": 38,
             "RecoilForceBack": 300,
             "RecoilForceUp": 109
-
         }
     },
     {
@@ -841,8 +841,8 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_11_inch_AK105",
-                                    "mod_barrel_15_inch_AK74"
+                                    "67597e817ad45ed39b0fc16b",
+                                    "67597e817ad45ed39b0fc16e"
                                 ]
                             }
                         ]
@@ -1046,8 +1046,8 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_11_inch_AK105",
-                                    "mod_barrel_15_inch_AK74"
+                                    "67597e817ad45ed39b0fc16b",
+                                    "67597e817ad45ed39b0fc16e"
                                 ]
                             }
                         ]
@@ -1180,9 +1180,9 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mount_siderail_RMP3",
-                                    "mount_siderail_RMP5",
-                                    "mount_siderail_RMPM"
+                                    "67597e817ad45ed39b0fc173",
+                                    "67597e817ad45ed39b0fc174",
+                                    "67597e817ad45ed39b0fc175"
                                 ]
                             }
                         ]
@@ -1233,10 +1233,10 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_15_inch_AKM",
-                                    "mod_barrel_11_inch_AK104",
-                                    "mod_barrel_15_inch_AK103",
-                                    "mod_barrel_ak_tec_arms_dark"
+                                    "67597e817ad45ed39b0fc16d",
+                                    "67597e817ad45ed39b0fc170",
+                                    "67597e817ad45ed39b0fc171",
+                                    "67597e817ad45ed39b0fc172"
                                 ]
                             }
                         ]
@@ -1405,9 +1405,9 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mount_siderail_RMP3",
-                                    "mount_siderail_RMP5",
-                                    "mount_siderail_RMPM"
+                                    "67597e817ad45ed39b0fc173",
+                                    "67597e817ad45ed39b0fc174",
+                                    "67597e817ad45ed39b0fc175"
                                 ]
                             }
                         ]
@@ -1417,7 +1417,7 @@
                     "_proto": "55d30c4c4bdc2db4468b457e"
                 }
             ],
-            "Ergonomics":29
+            "Ergonomics": 29
         }
     },
     {
@@ -1433,17 +1433,17 @@
             "Slots": [
                 {
                     "_name": "mod_barrel",
-                    "_id": "mod_barrel_5abcbc27d8ce8700182eceef",
+                    "_id": "5abcbc27d8ce8700182eceef",
                     "_parent": "5abcbc27d8ce8700182eceeb",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_15_inch_AKM",
-                                    "mod_barrel_11_inch_AK104",
-                                    "mod_barrel_15_inch_AK103",
-                                    "mod_barrel_ak_tec_arms_dark"
+                                    "67597e817ad45ed39b0fc16d",
+                                    "67597e817ad45ed39b0fc170",
+                                    "67597e817ad45ed39b0fc171",
+                                    "67597e817ad45ed39b0fc172"
                                 ]
                             }
                         ]
@@ -1599,9 +1599,9 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mount_siderail_RMP3",
-                                    "mount_siderail_RMP5",
-                                    "mount_siderail_RMPM"
+                                    "67597e817ad45ed39b0fc173",
+                                    "67597e817ad45ed39b0fc174",
+                                    "67597e817ad45ed39b0fc175"
                                 ]
                             }
                         ]
@@ -1611,7 +1611,7 @@
                     "_proto": "55d30c4c4bdc2db4468b457e"
                 }
             ],
-            "Ergonomics":27
+            "Ergonomics": 27
         }
     },
     {
@@ -1634,10 +1634,10 @@
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "mod_barrel_15_inch_AKM",
-                                    "mod_barrel_11_inch_AK104",
-                                    "mod_barrel_15_inch_AK103",
-                                    "mod_barrel_ak_tec_arms_dark"
+                                    "67597e817ad45ed39b0fc16d",
+                                    "67597e817ad45ed39b0fc170",
+                                    "67597e817ad45ed39b0fc171",
+                                    "67597e817ad45ed39b0fc172"
                                 ]
                             }
                         ]
@@ -1855,12 +1855,12 @@
                 "rcid": ""
             },
             "ConflictingItems": [
-                "handguard_ak_545_design_red_heat_agressor_upper",
-                "handguard_ak_strike_industries_trax_1_upper",
-                "handguard_ak_tdi_x47_upper",
-                "handguard_ak_vltor_cmrd_upper",
-                "handguard_ak_zenit_b19_upper",
-                "handguard_ak_cnc_guns_ov_gp_upper",
+                "67597e357ad45ed39b0fc14f",
+                "67597e817ad45ed39b0fc154",
+                "67597e817ad45ed39b0fc162",
+                "67597e817ad45ed39b0fc163",
+                "67597e817ad45ed39b0fc168",
+                "67597e817ad45ed39b0fc165",
                 "5a9d6d34a2750c00141e07da"
             ],
             "Slots": [
@@ -2196,7 +2196,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -2283,14 +2287,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_545_design_red_heat_agressor_upper"
+                                    "67597e357ad45ed39b0fc14f"
                                 ]
                             }
                         ]
@@ -2358,7 +2362,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -2369,14 +2377,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_647dba3142c479dde701b654",
+                    "_id": "6a7dba3142c479dde701b654",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_akademia_dominator_upper"
+                                    "67597e817ad45ed39b0fc151"
                                 ]
                             }
                         ]
@@ -2448,7 +2456,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -2563,7 +2575,8 @@
                                     "6272379924e29f06af4d5ecb",
                                     "626becf9582c3e319310b837",
                                     "644a3df63b0b6f03e101e065",
-                                    "646f6322f43d0c5d62063715"
+                                    "646f6322f43d0c5d62063715",
+                                    "6644920d49817dc7d505ca71"
                                 ]
                             }
                         ]
@@ -2574,14 +2587,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_647dd2b8a12ebf96c3031655",
+                    "_id": "6a7dd2b8a12ebf96c3031655",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_alfa_arms_aspid_upper"
+                                    "67597e817ad45ed39b0fc152"
                                 ]
                             }
                         ]
@@ -2643,7 +2656,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -2797,7 +2814,7 @@
                 },
                 {
                     "_name": "mod_mount_001",
-                    "_id": "mod_mount_001_id_handguard_ak_cnc_guns_ov_gp",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
@@ -2828,7 +2845,8 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -2839,14 +2857,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6b89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_cnc_guns_ov_gp_upper"
+                                    "67597e817ad45ed39b0fc154"
                                 ]
                             }
                         ]
@@ -3107,7 +3125,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -3259,7 +3281,8 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -3280,7 +3303,8 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -3301,7 +3325,9 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67112695fe5c8bf33f02476d",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -3312,14 +3338,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_krebs_ufm_akm_long_upper"
+                                    "67597e817ad45ed39b0fc15a"
                                 ]
                             }
                         ]
@@ -3356,7 +3382,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8e529829226ceb67c319",
-                                    "651a8bf3a8520e48047bf708"
+                                    "651a8bf3a8520e48047bf708",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3375,7 +3403,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3413,7 +3442,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3432,7 +3463,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3470,7 +3502,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8e529829226ceb67c319",
-                                    "651a8bf3a8520e48047bf708"
+                                    "651a8bf3a8520e48047bf708",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3489,7 +3523,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3527,7 +3562,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3546,7 +3583,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3584,7 +3622,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3603,7 +3643,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3647,7 +3688,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3666,7 +3709,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3685,7 +3729,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3727,7 +3772,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3746,7 +3793,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3765,7 +3813,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3807,7 +3856,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8e529829226ceb67c319",
-                                    "651a8bf3a8520e48047bf708"
+                                    "651a8bf3a8520e48047bf708",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -3826,7 +3877,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3845,7 +3897,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -3930,7 +3983,8 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -3962,14 +4016,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_strike_industries_trax_1_upper"
+                                    "67597e817ad45ed39b0fc162"
                                 ]
                             }
                         ]
@@ -4006,7 +4060,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -4025,7 +4081,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -4063,7 +4120,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -4082,7 +4141,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -4120,7 +4180,9 @@
                                     "57cffce524597763b31685d8",
                                     "5b7be4895acfc400170e2dd5",
                                     "651a8bf3a8520e48047bf708",
-                                    "651a8e529829226ceb67c319"
+                                    "651a8e529829226ceb67c319",
+                                    "665d5d9e338229cfd6078da1",
+                                    "665edce564fb556f940ab32a"
                                 ]
                             }
                         ]
@@ -4139,7 +4201,8 @@
                                 "Shift": 0,
                                 "Filter": [
                                     "5b7be47f5acfc400170e2dd2",
-                                    "6269220d70b6c02e665f2635"
+                                    "6269220d70b6c02e665f2635",
+                                    "669a6a4a525be1d2d004b8eb"
                                 ]
                             }
                         ]
@@ -4221,7 +4284,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -4373,14 +4440,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_tdi_x47_upper"
+                                    "67597e817ad45ed39b0fc163"
                                 ]
                             }
                         ]
@@ -4448,7 +4515,8 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -4469,7 +4537,8 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -4490,7 +4559,9 @@
                                     "5a9d6d00a2750c5c985b5305",
                                     "59e0bdb186f774156f04ce82",
                                     "59e0be5d86f7742d48765bd2",
-                                    "623c2f652febb22c2777d8d7"
+                                    "623c2f652febb22c2777d8d7",
+                                    "67112695fe5c8bf33f02476d",
+                                    "67111094d1758189fc0bd223"
                                 ]
                             }
                         ]
@@ -4501,14 +4572,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_vltor_cmrd_upper"
+                                    "67597e817ad45ed39b0fc165"
                                 ]
                             }
                         ]
@@ -4570,7 +4641,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -4671,7 +4746,11 @@
                                     "65169d5b30425317755f8e25",
                                     "5b057b4f5acfc4771e1bd3e9",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -4721,14 +4800,14 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_zenit_b19_upper"
+                                    "67597e817ad45ed39b0fc168"
                                 ]
                             }
                         ]
@@ -4798,7 +4877,11 @@
                                     "648067db042be0705c0b3009",
                                     "65169d5b30425317755f8e25",
                                     "655df24fdf80b12750626d0a",
-                                    "655dccfdbdcc6b5df71382b6"
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586"
                                 ]
                             }
                         ]
@@ -4875,7 +4958,8 @@
                                     "6272379924e29f06af4d5ecb",
                                     "626becf9582c3e319310b837",
                                     "644a3df63b0b6f03e101e065",
-                                    "646f6322f43d0c5d62063715"
+                                    "646f6322f43d0c5d62063715",
+                                    "6644920d49817dc7d505ca71"
                                 ]
                             }
                         ]
@@ -4924,15 +5008,15 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_id_6389f1dfc879ce63f72fc43e",
+                    "_id": "6a89f1dfc879ce63f72fc43e",
                     "_parent": "6389f1dfc879ce63f72fc43e",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_zenit_b19_upper",
-                                    "handguard_ak_zenit_b31_upper"
+                                    "67597e817ad45ed39b0fc168",
+                                    "67597e817ad45ed39b0fc169"
                                 ]
                             }
                         ]
@@ -4944,5 +5028,140 @@
             ],
             "Ergonomics": 6
         }
+    },
+    {
+        "_id": "5649af884bdc2d1b2b8b4589",
+        "_name": "reciever_ak_zenit_b33",
+        "_props": 
+        {
+            "ConflictingItems": 
+            [
+                "5d4aab30a4b9365435358c55",
+                "5947db3f86f77447880cf76f",
+                "57486e672459770abd687134",
+                "5c82342f2e221644f31c060e",
+                "576fd4ec2459777f0b518431",
+                "5c82343a2e221644f31c0611",
+                "5cf638cbd7f00c06595bc936",
+                "5a7c74b3e899ef0014332c29",
+                "591ee00d86f774592f7b841e",
+                "5d0a29ead7ad1a0026013f27",
+                "57acb6222459771ec34b5cb0",
+                "5c61a40d2e2216001403158d",
+                "5c90c3622e221601da359851",
+                "5cf4e3f3d7f00c06595bc7f0",
+                "5648ae314bdc2d3d1c8b457f",
+                "5d2c829448f0353a5c7d6674",
+                "5b800e9286f7747a8b04f3ff",
+                "5b80242286f77429445e0b47",
+                "5cbda392ae92155f3c17c39f",
+                "5cbda9f4ae9215000e5b9bfc",
+                "5648b0744bdc2d363b8b4578",
+                "5648b1504bdc2d9d488b4584",
+                "59d64f2f86f77417193ef8b3",
+                "59fb375986f7741b681b81a6",
+                "57cff947245977638e6f2a19",
+                "57cffd8224597763b03fc609",
+                "57cffddc24597763133760c6",
+                "57cffe0024597763b03fc60b",
+                "57cffe20245977632f391a9d",
+                "5c9a07572e221644f31c4b32",
+                "5c9a1c3a2e2216000e69fb6a",
+                "5c9a1c422e221600106f69f0",
+                "59e6284f86f77440d569536f",
+                "59e898ee86f77427614bd225",
+                "5a9d56c8a2750c0032157146",
+                "5d1b198cd7ad1a604869ad72",
+                "5d4aaa73a4b9365392071175",
+                "5d4aaa54a4b9365392071170",
+                "5f6331e097199b7db2128dc2",
+                "5c17664f2e2216398b5a7e3c",
+                "5c617a5f2e2216000f1e81b3"
+            
+            ]
+        }
+
+    },
+    {
+        "_id": "62e7e7bbe6da9612f743f1e0",
+        "_name": "launcher_ak_toz_gp25_40_vog",
+        "_props": 
+        {
+            "ConflictingItems": 
+            [
+                "5c7fc87d2e221644f31c0298",
+                "5cda9bcfd7f00c0c0b53e900",
+                "59f8a37386f7747af3328f06",
+                "5a7dbfc1159bd40016548fde",
+                "619386379fb0c665d5490dbe",
+                "5c87ca002e221600114cb150",
+                "588226d124597767ad33f787",
+                "588226dd24597767ad33f789",
+                "588226e62459776e3e094af7",
+                "588226ef24597767af46e39c",
+                "59fc48e086f77463b1118392",
+                "5fce0cf655375d18a253eff0",
+                "5cf4fb76d7f00c065703d3ac",
+                "5b057b4f5acfc4771e1bd3e9",
+                "5c791e872e2216001219c40a",
+                "558032614bdc2de7118b4585",
+                "58c157be86f77403c74b2bb6",
+                "58c157c886f774032749fb06",
+                "5f6340d3ca442212f4047eb2",
+                "591af28e86f77414a27a9e1d",
+                "5c1cd46f2e22164bef5cfedb",
+                "5c1bc4812e22164bef5cfde7",
+                "5c1bc5612e221602b5429350",
+                "5c1bc5af2e221602b412949b",
+                "5c1bc5fb2e221602b1779b32",
+                "5c1bc7432e221602b412949d",
+                "5c1bc7752e221602b1779b34",
+                "615d8fd3290d254f5e6b2edc",
+                "5fc0f9b5d724d907e2077d82",
+                "5fc0f9cbd6fa9c00c571bb90",
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5d4aab30a4b9365435358c55",
+                "5a9d6d13a2750c00164f6b03",
+                "5a9d6d21a2750c00137fa649",
+                "59e0bed186f774156f04ce84",
+                "5b7be4895acfc400170e2dd5",
+                "5cf4e3f3d7f00c06595bc7f0",
+                "5648ae314bdc2d3d1c8b457f",
+                "5d2c829448f0353a5c7d6674",
+                "5b800e9286f7747a8b04f3ff",
+                "5b80242286f77429445e0b47",
+                "59fb375986f7741b681b81a6",
+                "57cff947245977638e6f2a19",
+                "57cffd8224597763b03fc609",
+                "57cffddc24597763133760c6",
+                "57cffe0024597763b03fc60b",
+                "57cffe20245977632f391a9d",
+                "5c9a07572e221644f31c4b32",
+                "5c9a1c3a2e2216000e69fb6a",
+                "5c9a1c422e221600106f69f0",
+                "5f6331e097199b7db2128dc2",
+                "5c17664f2e2216398b5a7e3c",
+                "5efaf417aeb21837e749c7f2",
+                "64806bdd26c80811d408d37a",
+                "64807a29e5ffe165600abc97",
+                "65169d5b30425317755f8e25",
+                "648067db042be0705c0b3009",
+                "655df24fdf80b12750626d0a",
+                "655dccfdbdcc6b5df71382b6",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "661e52415be02310ed07a07a",
+                "661e52b5b099f32c28003586",
+                "661e52e29c8b4dadef008577",
+                "661e53149c8b4dadef008579",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+            ]
+        }
+
     }
+
 ]

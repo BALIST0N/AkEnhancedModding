@@ -1,11 +1,11 @@
 {
     "handbook": {
-        "Id": "handguard_ak_zenit_b31_upper",
+        "Id": "67597e817ad45ed39b0fc169",
         "ParentId": "5b5f75e486f77447ec5d7712",
         "Price": 1590
     },
     "item": {
-        "_id": "handguard_ak_zenit_b31_upper",
+        "_id": "67597e817ad45ed39b0fc169",
         "_name": "handguard_ak_zenit_b31_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -54,19 +54,20 @@
                 "59ccfdba86f7747f2109a587",
                 "5cf656f2d7f00c06585fb6eb",
                 "5b237e425acfc4771e1be0b6",
-                "handguard_ak_caa_quad_rail_polymer_upper",
-                "handguard_ak_izhmash_ak74_std_plum_upper",
-                "handguard_ak_khyber_swiss_grather_upper",
-                "handguard_ak_izhmash_ak74_std_wood_upper",
-                "handguard_ak_izhmash_ak74m_std_plastic_upper",
-                "handguard_ak_izhmash_akm_std_wood_upper",
-                "handguard_ak_molot_vepr_km_vpo_136_upper",
-                "handguard_ak_molot_vepr_km_vpo_209_upper",
-                "handguard_ak_magpul_moe_ak_blk_upper",
-                "handguard_ak_magpul_moe_ak_fde_upper",
-                "handguard_ak_magpul_moe_ak_od_upper",
-                "handguard_ak_magpul_moe_ak_plm_upper",
-                "handguard_ak_magpul_moe_ak_sg_upper"
+                
+                "67597e817ad45ed39b0fc153",
+                "67597e817ad45ed39b0fc155",
+                "67597e817ad45ed39b0fc156",
+                "67597e817ad45ed39b0fc157",
+                "67597e817ad45ed39b0fc158",
+                "67597e817ad45ed39b0fc159",
+                "67597e817ad45ed39b0fc15b",
+                "67597e817ad45ed39b0fc15c",
+                "67597e817ad45ed39b0fc15d",
+                "67597e817ad45ed39b0fc15e",
+                "67597e817ad45ed39b0fc15f",
+                "67597e817ad45ed39b0fc160",
+                "67597e817ad45ed39b0fc161"
             ],
             "Unlootable": false,
             "UnlootableFromSlot": "FirstPrimaryWeapon",
@@ -85,8 +86,8 @@
             "Slots": [
                 {
                     "_name": "mod_scope",
-                    "_id": "mod_scope_id_handguard_ak_zenit_b31_upper",
-                    "_parent": "handguard_ak_zenit_b31_upper",
+                    "_id": "6a597e817ad45ed39b0fc169",
+                    "_parent": "67597e817ad45ed39b0fc169",
                     "_props": {
                         "filters": [
                             {
@@ -159,8 +160,8 @@
         "_proto": "5648b1504bdc2d9d488b4584"
     },
     "locale": {
-        "handguard_ak_zenit_b31_upper Name": "zenitco b31 rail",
-        "handguard_ak_zenit_b31_upper ShortName": "b31",
-        "handguard_ak_zenit_b31_upper Description": "zenitco b30 rail system compatible with B10M and B30"
+        "67597e817ad45ed39b0fc169 Name": "zenitco b31 rail",
+        "67597e817ad45ed39b0fc169 ShortName": "b31",
+        "67597e817ad45ed39b0fc169 Description": "zenitco b30 rail system compatible with B10M and B30"
     }
 }

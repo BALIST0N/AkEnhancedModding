@@ -3,7 +3,7 @@
         "items": [
             {
                 "_id": "a631b5d3c918d60f33373b7a",
-                "_tpl": "handguard_ak_izhmash_ak74_std_wood_upper",
+                "_tpl": "67597e817ad45ed39b0fc156",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -12,7 +12,7 @@
             },
             {
                 "_id": "e1cc43fa60170a79bf3c1c4b",
-                "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
+                "_tpl": "67597e817ad45ed39b0fc157",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -21,7 +21,7 @@
             },
             {
                 "_id": "525f36b211640ffaba278148",
-                "_tpl": "handguard_ak_izhmash_ak74_std_plum_upper",
+                "_tpl": "67597e817ad45ed39b0fc155",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -30,9 +30,9 @@
             }
         ],
         "price": {
-            "a631b5d3c918d60f33373b7a": 5000,
-            "e1cc43fa60170a79bf3c1c4b": 5000,
-            "525f36b211640ffaba278148": 5000
+            "a631b5d3c918d60f33373b7a": 580,
+            "e1cc43fa60170a79bf3c1c4b": 869,
+            "525f36b211640ffaba278148": 1975
         },
         "loyal_level_items": {
             "a631b5d3c918d60f33373b7a": 1,
@@ -45,7 +45,7 @@
         "items": [
             {
                 "_id": "18242a8fd4b202ac6aa780b4",
-                "_tpl": "handguard_ak_magpul_moe_ak_blk_upper",
+                "_tpl": "67597e817ad45ed39b0fc15b",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -54,7 +54,7 @@
             },
             {
                 "_id": "a66d2d5da93d646e56364f0f",
-                "_tpl": "handguard_ak_zenit_b19_upper",
+                "_tpl": "67597e817ad45ed39b0fc168",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -63,7 +63,7 @@
             },
             {
                 "_id": "5bbc950382fd80e63e269593",
-                "_tpl": "handguard_ak_magpul_moe_ak_od_upper",
+                "_tpl": "67597e817ad45ed39b0fc15d",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -72,7 +72,7 @@
             },
             {
                 "_id": "b7d62ce24e0ff4ca21b344a5",
-                "_tpl": "handguard_ak_magpul_moe_ak_plm_upper",
+                "_tpl": "67597e817ad45ed39b0fc15e",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -81,7 +81,7 @@
             },
             {
                 "_id": "840eaa58b69c02850c366fd0",
-                "_tpl": "handguard_ak_magpul_moe_ak_sg_upper",
+                "_tpl": "67597e817ad45ed39b0fc15f",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -90,7 +90,7 @@
             },
             {
                 "_id": "31f748cdcf832f25dde452f5",
-                "_tpl": "handguard_ak_magpul_moe_ak_fde_upper",
+                "_tpl": "67597e817ad45ed39b0fc15c",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -99,7 +99,7 @@
             },
             {
                 "_id": "790db86ac6e19e7073782f49",
-                "_tpl": "handguard_ak_molot_vepr_km_vpo_136_upper",
+                "_tpl": "67597e817ad45ed39b0fc160",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -108,7 +108,7 @@
             },
             {
                 "_id": "bb8c39a91048348bee7a4b7d",
-                "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
+                "_tpl": "67597e817ad45ed39b0fc157",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -117,7 +117,7 @@
             },
             {
                 "_id": "c37568725db29a81eeb5d595",
-                "_tpl": "handguard_ak_izhmash_akm_std_wood_upper",
+                "_tpl": "67597e817ad45ed39b0fc158",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -126,7 +126,7 @@
             },
             {
                 "_id": "819cd4030b960cd3a19ccd83",
-                "_tpl": "handguard_ak_khyber_swiss_grather_upper",
+                "_tpl": "67597e817ad45ed39b0fc159",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -135,7 +135,7 @@
             },
             {
                 "_id": "8d9aa49751a170ad9a9f8aea",
-                "_tpl": "handguard_ak_zenit_b31_upper",
+                "_tpl": "67597e817ad45ed39b0fc169",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -144,7 +144,7 @@
             },
             {
                 "_id": "f7e0d60158d49cbc13933cc9",
-                "_tpl": "handguard_ak_tdi_x47_upper",
+                "_tpl": "67597e817ad45ed39b0fc163",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -153,7 +153,7 @@
             },
             {
                 "_id": "8dd4a54b27fbb7684e283c1e",
-                "_tpl": "handguard_ak_akademia_dominator_upper",
+                "_tpl": "67597e817ad45ed39b0fc151",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -162,7 +162,7 @@
             },
             {
                 "_id": "7a1e26c6163f466c96b901a6",
-                "_tpl": "handguard_ak_cnc_guns_ov_gp_upper",
+                "_tpl": "67597e817ad45ed39b0fc154",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -171,7 +171,7 @@
             },
             {
                 "_id": "0eca89f02566114bfd621ec1",
-                "_tpl": "handguard_ak_alfa_arms_aspid_upper",
+                "_tpl": "67597e817ad45ed39b0fc152",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -180,21 +180,21 @@
             }
         ],
         "price": {
-            "18242a8fd4b202ac6aa780b4": 5000,
-            "a66d2d5da93d646e56364f0f": 5000,
-            "5bbc950382fd80e63e269593": 5000,
-            "b7d62ce24e0ff4ca21b344a5": 5000,
-            "840eaa58b69c02850c366fd0": 5000,
-            "31f748cdcf832f25dde452f5": 5000,
-            "790db86ac6e19e7073782f49": 5000,
-            "bb8c39a91048348bee7a4b7d": 5000,
-            "c37568725db29a81eeb5d595": 5000,
-            "819cd4030b960cd3a19ccd83": 5000,
-            "8d9aa49751a170ad9a9f8aea": 5000,
-            "f7e0d60158d49cbc13933cc9": 5000,
-            "8dd4a54b27fbb7684e283c1e": 5000,
-            "7a1e26c6163f466c96b901a6": 5000,
-            "0eca89f02566114bfd621ec1": 5000
+            "18242a8fd4b202ac6aa780b4": 3215,
+            "a66d2d5da93d646e56364f0f": 4325,
+            "5bbc950382fd80e63e269593": 3301,
+            "b7d62ce24e0ff4ca21b344a5": 3248,
+            "840eaa58b69c02850c366fd0": 3257,
+            "31f748cdcf832f25dde452f5": 3297,
+            "790db86ac6e19e7073782f49": 660,
+            "bb8c39a91048348bee7a4b7d": 790,
+            "c37568725db29a81eeb5d595": 564,
+            "819cd4030b960cd3a19ccd83": 1874,
+            "8d9aa49751a170ad9a9f8aea": 5478,
+            "f7e0d60158d49cbc13933cc9": 2145,
+            "8dd4a54b27fbb7684e283c1e": 4795,
+            "7a1e26c6163f466c96b901a6": 3580,
+            "0eca89f02566114bfd621ec1": 4090
         },
         "loyal_level_items": {
             "18242a8fd4b202ac6aa780b4": 3,
@@ -218,7 +218,7 @@
         "items": [
             {
                 "_id": "432e5ffd860e0bfd13e08985",
-                "_tpl": "handguard_ak_magpul_moe_ak_sg_upper",
+                "_tpl": "67597e817ad45ed39b0fc15f",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -227,7 +227,7 @@
             },
             {
                 "_id": "362131e1168b01c1f913c31b",
-                "_tpl": "handguard_ak_caa_quad_rail_polymer_upper",
+                "_tpl": "67597e817ad45ed39b0fc153",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -236,7 +236,7 @@
             },
             {
                 "_id": "1e5fadd08c13112077e1ba11",
-                "_tpl": "handguard_ak_krebs_ufm_akm_long_upper",
+                "_tpl": "67597e817ad45ed39b0fc15a",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -245,7 +245,7 @@
             },
             {
                 "_id": "b51e93f42470003ef1d1d4e1",
-                "_tpl": "handguard_ak_magpul_moe_ak_fde_upper",
+                "_tpl": "67597e817ad45ed39b0fc15c",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -254,10 +254,10 @@
             }
         ],
         "price": {
-            "432e5ffd860e0bfd13e08985": 5000,
-            "362131e1168b01c1f913c31b": 5000,
-            "1e5fadd08c13112077e1ba11": 5000,
-            "b51e93f42470003ef1d1d4e1": 5000
+            "432e5ffd860e0bfd13e08985": 3185,
+            "362131e1168b01c1f913c31b": 1891,
+            "1e5fadd08c13112077e1ba11": 3364,
+            "b51e93f42470003ef1d1d4e1": 3241
         },
         "loyal_level_items": {
             "432e5ffd860e0bfd13e08985": 3,
@@ -270,7 +270,7 @@
         "items": [
             {
                 "_id": "663cd49388aae2184b802c50",
-                "_tpl": "mount_siderail_RMP5",
+                "_tpl": "67597e817ad45ed39b0fc174",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -279,7 +279,7 @@
             },
             {
                 "_id": "663cd49388aae2184b802c51",
-                "_tpl": "mount_siderail_RMP3",
+                "_tpl": "67597e817ad45ed39b0fc173",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -288,7 +288,7 @@
             },
             {
                 "_id": "663cd49388aae2184b802c52",
-                "_tpl": "mount_siderail_RMPM",
+                "_tpl": "67597e817ad45ed39b0fc175",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -297,7 +297,7 @@
             },
             {
                 "_id": "663cd49388aae2184b802ca0",
-                "_tpl": "mod_barrel_15_inch_AK74",
+                "_tpl": "67597e817ad45ed39b0fc16e",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -306,7 +306,7 @@
             },
             {
                 "_id": "663cd49388aae2184b802ca1",
-                "_tpl": "mod_barrel_15_inch_AKM",
+                "_tpl": "67597e817ad45ed39b0fc171",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -316,7 +316,7 @@
 
             {
                 "_id": "616be42d31b05c2fb9ac8652",
-                "_tpl": "handguard_ak_strike_industries_trax_1_upper",
+                "_tpl": "67597e817ad45ed39b0fc162",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -325,7 +325,7 @@
             },
             {
                 "_id": "f06cb8c7875185e85be6ae29",
-                "_tpl": "handguard_ak_vltor_cmrd_upper",
+                "_tpl": "67597e817ad45ed39b0fc165",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -334,7 +334,7 @@
             },
             {
                 "_id": "6d3024eae57d6d2a38f707bd",
-                "_tpl": "handguard_ak_545_design_red_heat_agressor_upper",
+                "_tpl": "67597e357ad45ed39b0fc14f",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -343,7 +343,7 @@
             },
             {
                 "_id": "802271472275ea95b70232d8",
-                "_tpl": "handguard_ak_zenit_b31_upper",
+                "_tpl": "67597e817ad45ed39b0fc169",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -352,15 +352,15 @@
             }
         ],
         "price": {
-            "616be42d31b05c2fb9ac8652": 5000,
-            "f06cb8c7875185e85be6ae29": 5000,
-            "6d3024eae57d6d2a38f707bd": 5000,
-            "802271472275ea95b70232d8": 5000,
-            "663cd49388aae2184b802c50": 5000,
-            "663cd49388aae2184b802c51": 5000,
-            "663cd49388aae2184b802c52": 5000,
-            "663cd49388aae2184b802ca0": 5000,
-            "663cd49388aae2184b802ca1": 5000
+            "663cd49388aae2184b802c50": 1438,
+            "663cd49388aae2184b802c51": 2155,
+            "663cd49388aae2184b802c52": 3287,
+            "663cd49388aae2184b802ca0": 11458,
+            "663cd49388aae2184b802ca1": 10027,
+            "616be42d31b05c2fb9ac8652": 2447,
+            "f06cb8c7875185e85be6ae29": 1078,
+            "6d3024eae57d6d2a38f707bd": 3786,
+            "802271472275ea95b70232d8": 4621
         },
         "loyal_level_items": {
             "616be42d31b05c2fb9ac8652": 2,
@@ -379,7 +379,7 @@
         "items": [
             {
                 "_id": "484af6f9a0fc645161d6a0df",
-                "_tpl": "handguard_ak_molot_vepr_km_vpo_209_upper",
+                "_tpl": "67597e817ad45ed39b0fc161",
                 "parentId": "hideout",
                 "slotId": "hideout",
                 "upd": {
@@ -388,7 +388,7 @@
             }
         ],
         "price": {
-            "484af6f9a0fc645161d6a0df": 5000
+            "484af6f9a0fc645161d6a0df": 578
         },
         "loyal_level_items": {
             "484af6f9a0fc645161d6a0df": 1

@@ -1,13 +1,13 @@
 {
   "handbook":
 	{
-		"Id": "handguard_slr_ion_lite_704",
+		"Id": "67597e817ad45ed39b0fc16a",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 9640
 	},
   "item":
   {
-    "_id": "handguard_slr_ion_lite_704",
+    "_id": "67597e817ad45ed39b0fc16a",
     "_name": "handguard_slr_ion_lite_704",
     "_parent": "56ea9461d2720b67698b456f",
     "_type": "Item",
@@ -76,8 +76,8 @@
       "Slots": [
         {
           "_name": "mod_mount_000",
-          "_id": "mod_mount_000_handguard_slr_ion_lite_704",
-          "_parent": "handguard_slr_ion_lite_704",
+          "_id": "6a597e817ad45ed39b0fc16a",
+          "_parent": "67597e817ad45ed39b0fc16a",
           "_props": {
             "filters": [
               {
@@ -94,8 +94,8 @@
         },
         {
           "_name": "mod_mount_001",
-          "_id": "mod_mount_001_id_handguard_slr_ion_lite_704",
-          "_parent": "handguard_slr_ion_lite_704",
+          "_id": "6b597e817ad45ed39b0fc16a",
+          "_parent": "67597e817ad45ed39b0fc16a",
           "_props": {
             "filters": [
               {
@@ -112,8 +112,8 @@
         },
         {
           "_name": "mod_foregrip",
-          "_id": "mod_foregrip_handguard_slr_ion_lite_704",
-          "_parent": "handguard_slr_ion_lite_704",
+          "_id": "6c597e817ad45ed39b0fc16a",
+          "_parent": "67597e817ad45ed39b0fc16a",
           "_props": {
             "filters": [
               {
@@ -158,9 +158,9 @@
   },
   "locale":
 	{	
-		"handguard_slr_ion_lite_704 Name":"SLR Ion RD-704 lower handguard",
-		"handguard_slr_ion_lite_704 ShortName":"slr Ion",
-		"handguard_slr_ion_lite_704 Description":"SLR Ion handguard mlok i think"
+		"67597e817ad45ed39b0fc16a Name":"SLR Ion RD-704 lower handguard",
+		"67597e817ad45ed39b0fc16a ShortName":"slr Ion",
+		"67597e817ad45ed39b0fc16a Description":"SLR Ion handguard mlok i think"
 	}
 }
 

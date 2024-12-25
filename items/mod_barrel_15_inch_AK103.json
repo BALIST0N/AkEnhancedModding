@@ -1,11 +1,11 @@
 {
     "handbook": {
-        "Id": "mod_barrel_15_inch_AK103",
+        "Id": "67597e817ad45ed39b0fc170",
         "ParentId": "5b5f75c686f774094242f19f",
         "Price": 11345
     },
     "item": {
-        "_id": "mod_barrel_15_inch_AK103",
+        "_id": "67597e817ad45ed39b0fc170",
         "_name": "mod_barrel_15_inch_AK103",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -68,8 +68,8 @@
             "Slots": [
                 {
                     "_name": "mod_gas_block",
-                    "_id": "mod_gas_block_barrel_ak103_id",
-                    "_parent": "mod_barrel_15_inch_AK103",
+                    "_id": "6a597e817ad45ed39b0fc170",
+                    "_parent": "67597e817ad45ed39b0fc170",
                     "_props": {
                         "filters": [
                             {
@@ -92,8 +92,8 @@
                 },
                 {
                     "_name": "mod_muzzle",
-                    "_id": "mod_muzzle_barrel_ak103_id",
-                    "_parent": "mod_barrel_15_inch_AK103",
+                    "_id": "6b597e817ad45ed39b0fc170",
+                    "_parent": "67597e817ad45ed39b0fc170",
                     "_props": {
                         "filters": [
                             {
@@ -120,8 +120,8 @@
                 },
                 {
                     "_name": "mod_sight_rear",
-                    "_id": "mod_sight_rear_barrel_ak103_id",
-                    "_parent": "mod_barrel_15_inch_AK103",
+                    "_id": "6c597e817ad45ed39b0fc170",
+                    "_parent": "67597e817ad45ed39b0fc170",
                     "_props": {
                         "filters": [
                             {
@@ -167,8 +167,8 @@
         "_proto": "5648b1504bdc2d9d488b4584"
     },
     "locale": {
-        "mod_barrel_15_inch_AK103 Name": "AK-103 7.62x39 Standard 15 inch barrel",
-        "mod_barrel_15_inch_AK103 ShortName": "AK103 15'",
-        "mod_barrel_15_inch_AK103 Description": "Standard rifle barrel for AK103 chambered in 7.62x39mm"
+        "67597e817ad45ed39b0fc170 Name": "AK-103 7.62x39 Standard 15 inch barrel",
+        "67597e817ad45ed39b0fc170 ShortName": "AK103 15'",
+        "67597e817ad45ed39b0fc170 Description": "Standard rifle barrel for AK103 chambered in 7.62x39mm"
     }
 }

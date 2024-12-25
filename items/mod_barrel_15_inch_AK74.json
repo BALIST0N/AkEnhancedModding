@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "mod_barrel_15_inch_AK74",
+		"Id": "67597e817ad45ed39b0fc16e",
 		"ParentId": "5b5f75c686f774094242f19f",
 		"Price": 11256
 	},
 	"item":
     {
-        "_id": "mod_barrel_15_inch_AK74",
+        "_id": "67597e817ad45ed39b0fc16e",
         "_name": "mod_barrel_15_inch_AK74",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -70,8 +70,8 @@
           "Slots": [
                 {
                     "_name": "mod_gas_block",
-                    "_id": "mod_gas_block_barrel_ak74_id",
-                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_id": "6a597e817ad45ed39b0fc16e",
+                    "_parent": "67597e817ad45ed39b0fc16e",
                     "_props": {
                         "filters": [
                             {
@@ -95,8 +95,8 @@
                 },
                 {
                     "_name": "mod_launcher",
-                    "_id": "mod_launcher_barrel_ak74_id",
-                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_id": "6b97e817ad45ed39b0fc16ea",
+                    "_parent": "67597e817ad45ed39b0fc16e",
                     "_props": {
                         "filters": [
                             {
@@ -114,8 +114,8 @@
                 },
                 {
                     "_name": "mod_muzzle",
-                    "_id": "mod_muzzle_barrel_ak74_id",
-                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_id": "6c597e817ad45ed39b0fc16e",
+                    "_parent": "67597e817ad45ed39b0fc16e",
                     "_props": {
                         "filters": [
                             {
@@ -144,8 +144,8 @@
                 },
                 {
                     "_name": "mod_sight_rear",
-                    "_id": "mod_sight_rear_barrel_ak74_id",
-                    "_parent": "mod_barrel_15_inch_AK74",
+                    "_id": "6d597e817ad45ed39b0fc16e",
+                    "_parent": "67597e817ad45ed39b0fc16e",
                     "_props": {
                         "filters": [
                             {
@@ -194,9 +194,9 @@
 
 	"locale":
 	{	
-		"mod_barrel_15_inch_AK74 Name":"AK-74 standard 15 inch barrel",
-		"mod_barrel_15_inch_AK74 ShortName":"AK74 15",
-		"mod_barrel_15_inch_AK74 Description":"Standard barrel for AK74, fits perfectly other caliber by the way lol"
+		"67597e817ad45ed39b0fc16e Name":"AK-74 standard 15 inch barrel",
+		"67597e817ad45ed39b0fc16e ShortName":"AK74 15",
+		"67597e817ad45ed39b0fc16e Description":"Standard barrel for AK74, fits perfectly other caliber by the way lol"
 	}
 }
 

@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "mount_siderail_RMPM",
+		"Id": "67597e817ad45ed39b0fc175",
 		"ParentId": "5b5f755f86f77447ec5d770e",
 		"Price": 7698
 	},
 	"item":
     {
-        "_id": "mount_siderail_RMPM",
+        "_id": "67597e817ad45ed39b0fc175",
         "_name": "mount_siderail_RMPM",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -72,8 +72,8 @@
           "Slots": [
             {
               "_name": "mod_mount",
-              "_id": "mod_mount_id_rmpm",
-              "_parent": "mount_siderail_RMPM",
+              "_id": "6a597e817ad45ed39b0fc175",
+              "_parent": "67597e817ad45ed39b0fc175",
               "_props": {
                 "filters": [
                   {
@@ -130,9 +130,9 @@
 
 	"locale":
 	{	
-		"mount_siderail_RMPM Name":"Rmp-pm siderail mount",
-		"mount_siderail_RMPM ShortName":"RMPM",
-		"mount_siderail_RMPM Description":"rmp-pm siderail mount from ak-100 series"
+		"67597e817ad45ed39b0fc175 Name":"Rmp-pm siderail mount",
+		"67597e817ad45ed39b0fc175 ShortName":"RMPM",
+		"67597e817ad45ed39b0fc175 Description":"rmp-pm siderail mount from ak-100 series"
 	}
 }
 

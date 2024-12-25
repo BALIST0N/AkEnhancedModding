@@ -1,14 +1,14 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_khyber_swiss_grather_upper",
+		"Id": "67597e817ad45ed39b0fc159",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 1870
 	},
 
     "item": 
     {
-        "_id": "handguard_ak_khyber_swiss_grather_upper",
+        "_id": "67597e817ad45ed39b0fc159",
         "_name": "handguard_ak_khyber_swiss_grather_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -77,7 +77,7 @@
             "Recoil": 0,
             "Loudness": 0,
             "EffectiveDistance": 0,
-            "Ergonomics": 1,
+            "Ergonomics": 0,
             "Velocity": 0,
             "RaidModdable": true,
             "ToolModdable": false,
@@ -87,15 +87,15 @@
             "HasShoulderContact": false,
             "SightingRange": 0,
             "DoubleActionAccuracyPenaltyMult": 1,
-            "HeatFactor": 1.045,
-            "CoolFactor": 0.951
+            "HeatFactor": 0.955,
+            "CoolFactor": 1.049
         },
         "_proto": "5648b0744bdc2d363b8b4578"
     },
     "locale":
 	{	
-		"handguard_ak_khyber_swiss_grather_upper Name":"khyber custom 'swiss cheese' grather gasblock cover",
-		"handguard_ak_khyber_swiss_grather_upper ShortName":"khyber",
-		"handguard_ak_khyber_swiss_grather_upper Description":"say cheese"
+		"67597e817ad45ed39b0fc159 Name":"khyber custom 'swiss cheese' grather gasblock cover",
+		"67597e817ad45ed39b0fc159 ShortName":"khyber",
+		"67597e817ad45ed39b0fc159 Description":"say cheese"
 	}
 }

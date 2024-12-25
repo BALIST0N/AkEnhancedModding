@@ -1,14 +1,14 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_magpul_moe_ak_sg_upper",
+		"Id": "67597e817ad45ed39b0fc15f",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 1000
 	},
 
     "item": 
     {
-        "_id": "handguard_ak_magpul_moe_ak_sg_upper",
+        "_id": "67597e817ad45ed39b0fc15f",
         "_name": "handguard_ak_magpul_moe_ak_sg_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -94,8 +94,8 @@
     },
     "locale":
 	{	
-		"handguard_ak_magpul_moe_ak_sg_upper Name":"Magpull AK upper Handguard (Stealth Grey)",
-		"handguard_ak_magpul_moe_ak_sg_upper ShortName":"Magpull sg",
-		"handguard_ak_magpul_moe_ak_sg_upper Description":"Magpull AK upper Handguard from MOE and Zhukov series in dank grey color"
+		"67597e817ad45ed39b0fc15f Name":"Magpull AK upper Handguard (Stealth Grey)",
+		"67597e817ad45ed39b0fc15f ShortName":"Magpull sg",
+		"67597e817ad45ed39b0fc15f Description":"Magpull AK upper Handguard from MOE and Zhukov series in dank grey color"
 	}
 }

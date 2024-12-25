@@ -1,10 +1,10 @@
 {
     "name": "Kalashnikov Advanced Modding",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "main": "src.js",
     "license": "NCSA",
-    "author": "BALIST0N, ChoccyMilk, Gatsu667",
-    "akiVersion": "3.8.*",
+    "author": "BALIST0N, ChoccyMilk & Gatsu667",
+    "sptVersion": "3.10.*",
     "isBundleMod":true,
     "scripts": {
         "setup:environment": "npm i",

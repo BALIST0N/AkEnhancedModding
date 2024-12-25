@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "mount_siderail_RMP3",
+		"Id": "67597e817ad45ed39b0fc173",
 		"ParentId": "5b5f755f86f77447ec5d770e",
 		"Price": 3987
 	},
 	"item":
     {
-        "_id": "mount_siderail_RMP3",
+        "_id": "67597e817ad45ed39b0fc173",
         "_name": "mount_siderail_RMP3",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -72,8 +72,8 @@
           "Slots": [
             {
               "_name": "mod_mount",
-              "_id": "mod_mount_id_rmp3",
-              "_parent": "mount_siderail_RMP3",
+              "_id": "6a597e817ad45ed39b0fc173",
+              "_parent": "67597e817ad45ed39b0fc173",
               "_props": {
                 "filters": [
                   {
@@ -130,9 +130,9 @@
 
 	"locale":
 	{	
-		"mount_siderail_RMP3 Name":"Rmp 3 siderail mount",
-		"mount_siderail_RMP3 ShortName":"RMP3",
-		"mount_siderail_RMP3 Description":"rmp 3 siderail mount for ak N variants series"
+		"67597e817ad45ed39b0fc173 Name":"Rmp 3 siderail mount",
+		"67597e817ad45ed39b0fc173 ShortName":"RMP3",
+		"67597e817ad45ed39b0fc173 Description":"rmp 3 siderail mount for ak N variants series"
 	}
 }
 

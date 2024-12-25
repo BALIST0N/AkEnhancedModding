@@ -1,11 +1,11 @@
 {
     "handbook": {
-        "Id": "mod_barrel_ak_tec_arms_dark",
+        "Id": "67597e817ad45ed39b0fc172",
         "ParentId": "5b5f75c686f774094242f19f",
         "Price": 29501
     },
     "item": {
-        "_id": "mod_barrel_ak_tec_arms_dark",
+        "_id": "67597e817ad45ed39b0fc172",
         "_name": "mod_barrel_ak_tec_arms_dark",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -55,12 +55,13 @@
                 "5b80242286f77429445e0b47",
                 "5c17664f2e2216398b5a7e3c",
                 "59fb375986f7741b681b81a6",
-                "handguard_ak_alfa_arms_aspid_upper",
-                "handguard_ak_troy_vent_hole_lower",
-                "handguard_ak_vs_vs_33c_lower",
-                "handguard_ak_vs_vs_33c_wht_lower",
+                "67597e817ad45ed39b0fc152",
+                "67597e817ad45ed39b0fc164",
+                "67597e817ad45ed39b0fc166",
+                "67597e817ad45ed39b0fc167",
                 "5d2c772c48f0355d95672c25",
-                "5d2c76ed48f03532f2136169"
+                "5d2c76ed48f03532f2136169",
+                "628a83c29179c324ed26955a"
             ],
             "Unlootable": false,
             "UnlootableFromSlot": "FirstPrimaryWeapon",
@@ -79,8 +80,8 @@
             "Slots": [
                 {
                     "_name": "mod_muzzle",
-                    "_id": "mod_muzzle_barrel_aktec_dark_id",
-                    "_parent": "mod_barrel_ak_tec_arms_dark",
+                    "_id": "6a597e817ad45ed39b0fc172",
+                    "_parent": "67597e817ad45ed39b0fc172",
                     "_props": {
                         "filters": [
                             {
@@ -119,31 +120,26 @@
                 },
                 {
                     "_name": "mod_handguard",
-                    "_id": "mod_handguard_barrel_aktec_dark_id",
-                    "_parent": "mod_barrel_ak_tec_arms_dark",
+                    "_id": "6a597e817ad45ed39b0fc172",
+                    "_parent": "67597e817ad45ed39b0fc172",
                     "_props": {
                         "filters": [
                             {
                                 "Shift": 0,
                                 "Filter": [
-                                    "handguard_ak_caa_quad_rail_polymer_upper",
-                                    "handguard_ak_izhmash_ak74_std_plum_upper",
-                                    "handguard_ak_khyber_swiss_grather_upper",
-                                    "handguard_ak_khyber_swiss_grather_upper",
-                                    "handguard_ak_khyber_swiss_grather_upper",
-                                    "handguard_ak_izhmash_ak74_std_wood_upper",
-                                    "handguard_ak_izhmash_ak74m_std_plastic_upper",
-                                    "handguard_ak_izhmash_ak74m_std_plastic_upper",
-                                    "handguard_ak_izhmash_akm_std_wood_upper",
-                                    "handguard_ak_izhmash_akm_std_wood_upper",
-                                    "handguard_ak_molot_vepr_km_vpo_136_upper",
-                                    "handguard_ak_molot_vepr_km_vpo_209_upper",
-                                    "handguard_ak_magpul_moe_ak_blk_upper",
-                                    "handguard_ak_magpul_moe_ak_fde_upper",
-                                    "handguard_ak_magpul_moe_ak_od_upper",
-                                    "handguard_ak_magpul_moe_ak_plm_upper",
-                                    "handguard_ak_magpul_moe_ak_sg_upper",
-                                    "handguard_ak_izhmash_ak74m_std_plastic_upper"
+                                    "67597e817ad45ed39b0fc153",
+                                    "67597e817ad45ed39b0fc155",
+                                    "67597e817ad45ed39b0fc159",
+                                    "67597e817ad45ed39b0fc156",
+                                    "67597e817ad45ed39b0fc157",
+                                    "67597e817ad45ed39b0fc158",
+                                    "67597e817ad45ed39b0fc160",
+                                    "67597e817ad45ed39b0fc161",
+                                    "67597e817ad45ed39b0fc15b",
+                                    "67597e817ad45ed39b0fc15c",
+                                    "67597e817ad45ed39b0fc15d",
+                                    "67597e817ad45ed39b0fc15e",
+                                    "67597e817ad45ed39b0fc15f"
                                 ]
                             }
                         ]
@@ -154,8 +150,8 @@
                 },
                 {
                     "_name": "mod_scope",
-                    "_id": "mod_scope_barrel_aktec_dark_id",
-                    "_parent": "mod_barrel_ak_tec_arms_dark",
+                    "_id": "6a597e817ad45ed39b0fc172",
+                    "_parent": "67597e817ad45ed39b0fc172",
                     "_props": {
                         "filters": [
                             {
@@ -201,8 +197,8 @@
         "_proto": "5648b1504bdc2d9d488b4584"
     },
     "locale": {
-        "mod_barrel_ak_tec_arms_dark Name": "AK TEC Arms Custom 15\" Barrel",
-        "mod_barrel_ak_tec_arms_dark ShortName": "AKTEC 15\"",
-        "mod_barrel_ak_tec_arms_dark Description": "Incredible ! A custom made barrel for an AK chambered in 7.62x39mm, designed and created by AK-Tec USA.\n fully cnc machined barrel assembly with ingenious design improving Accuracy, patented rear sight picatiny rail on the trunion allwos ffor easy mount of compact scopes, with a bolt-on gasblock front sight combinaison  Made in America in Aurora, CO"
+        "67597e817ad45ed39b0fc172 Name": "AK TEC Arms Custom 15\" Barrel",
+        "67597e817ad45ed39b0fc172 ShortName": "AKTEC 15\"",
+        "67597e817ad45ed39b0fc172 Description": "Incredible ! A custom made barrel for an AK chambered in 7.62x39mm, designed and created by AK-Tec USA.\n fully cnc machined barrel assembly with ingenious design improving Accuracy, patented rear sight picatiny rail on the trunion allwos ffor easy mount of compact scopes, with a bolt-on gasblock front sight combinaison  Made in America in Aurora, CO"
     }
 }

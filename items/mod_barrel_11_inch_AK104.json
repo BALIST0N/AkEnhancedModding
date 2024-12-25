@@ -1,11 +1,11 @@
 {
     "handbook": {
-        "Id": "mod_barrel_11_inch_AK104",
+        "Id": "67597e817ad45ed39b0fc16d",
         "ParentId": "5b5f75c686f774094242f19f",
         "Price": 14282
     },
     "item": {
-        "_id": "mod_barrel_11_inch_AK104",
+        "_id": "67597e817ad45ed39b0fc16d",
         "_name": "mod_barrel_11_inch_AK104",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -55,10 +55,10 @@
                 "5b80242286f77429445e0b47",
                 "5c17664f2e2216398b5a7e3c",
                 "59fb375986f7741b681b81a6",
-                "handguard_ak_alfa_arms_aspid_upper",
-                "handguard_ak_troy_vent_hole_lower",
-                "handguard_ak_vs_vs_33c_lower",
-                "handguard_ak_vs_vs_33c_wht_lower"   
+                "67597e817ad45ed39b0fc152",
+                "67597e817ad45ed39b0fc164",
+                "67597e817ad45ed39b0fc166",
+                "67597e817ad45ed39b0fc167"  
             ],
             "Unlootable": false,
             "UnlootableFromSlot": "FirstPrimaryWeapon",
@@ -77,8 +77,8 @@
             "Slots": [
                 {
                     "_name": "mod_gas_block",
-                    "_id": "mod_gas_block_barrel_ak104_id",
-                    "_parent": "mod_barrel_11_inch_AK104",
+                    "_id": "6a597e817ad45ed39b0fc16d",
+                    "_parent": "67597e817ad45ed39b0fc16d",
                     "_props": {
                         "filters": [
                             {
@@ -101,8 +101,8 @@
                 },
                 {
                     "_name": "mod_muzzle",
-                    "_id": "mod_muzzle_barrel_ak104_id",
-                    "_parent": "mod_barrel_11_inch_AK104",
+                    "_id": "6b597e817ad45ed39b0fc16d",
+                    "_parent": "67597e817ad45ed39b0fc16d",
                     "_props": {
                         "filters": [
                             {
@@ -130,8 +130,8 @@
                 },
                 {
                     "_name": "mod_sight_rear",
-                    "_id": "mod_sight_rear_barrel_ak104_id",
-                    "_parent": "mod_barrel_11_inch_AK104",
+                    "_id": "6c597e817ad45ed39b0fc16d",
+                    "_parent": "67597e817ad45ed39b0fc16d",
                     "_props": {
                         "filters": [
                             {
@@ -177,8 +177,8 @@
         "_proto": "5648b1504bdc2d9d488b4584"
     },
     "locale": {
-        "mod_barrel_11_inch_AK104 Name": "AK-104 7.62x39 Standard 11 inch barrel",
-        "mod_barrel_11_inch_AK104 ShortName": "AK104 11'",
-        "mod_barrel_11_inch_AK104 Description": "Standard Short carabine barrel for AK102 chambered in 7.62x39"
+        "67597e817ad45ed39b0fc16d Name": "AK-104 7.62x39 Standard 11 inch barrel",
+        "67597e817ad45ed39b0fc16d ShortName": "AK104 11'",
+        "67597e817ad45ed39b0fc16d Description": "Standard Short carabine barrel for AK102 chambered in 7.62x39"
     }
 }

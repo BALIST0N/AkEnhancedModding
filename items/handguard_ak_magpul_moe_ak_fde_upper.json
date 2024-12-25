@@ -1,14 +1,14 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_magpul_moe_ak_fde_upper",
+		"Id": "67597e817ad45ed39b0fc15c",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 1000
 	},
 
     "item": 
     {
-        "_id": "handguard_ak_magpul_moe_ak_fde_upper",
+        "_id": "67597e817ad45ed39b0fc15c",
         "_name": "handguard_ak_magpul_moe_ak_fde_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -94,8 +94,8 @@
     },
     "locale":
 	{	
-		"handguard_ak_magpul_moe_ak_fde_upper Name":"Magpull AK upper Handguard (FDE)",
-		"handguard_ak_magpul_moe_ak_fde_upper ShortName":"Magpull fde",
-		"handguard_ak_magpul_moe_ak_fde_upper Description":"Magpull AK upper Handguard from MOE and Zhukov series in FDE color"
+		"67597e817ad45ed39b0fc15c Name":"Magpull AK upper Handguard (FDE)",
+		"67597e817ad45ed39b0fc15c ShortName":"Magpull fde",
+		"67597e817ad45ed39b0fc15c Description":"Magpull AK upper Handguard from MOE and Zhukov series in FDE color"
 	}
 }

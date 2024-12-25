@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "mod_barrel_15_inch_AKM",
+		"Id": "67597e817ad45ed39b0fc171",
 		"ParentId": "5b5f75c686f774094242f19f",
 		"Price": 9420
 	},
 	"item":
     {
-        "_id": "mod_barrel_15_inch_AKM",
+        "_id": "67597e817ad45ed39b0fc171",
         "_name": "mod_barrel_15_inch_AKM",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -70,8 +70,8 @@
           "Slots": [
           {
             "_name": "mod_gas_block",
-            "_id": "mod_gas_block_barrel_akm_id",
-            "_parent": "mod_barrel_15_inch_AKM",
+            "_id": "6a597e817ad45ed39b0fc171",
+            "_parent": "67597e817ad45ed39b0fc171",
             "_props": {
               "filters": [
                 {
@@ -94,8 +94,8 @@
         },
         {
           "_name": "mod_launcher",
-          "_id": "mod_launcher_barrel_akm_id",
-          "_parent": "mod_barrel_15_inch_AKM",
+          "_id": "6a597e817ad45ed39b0fc171",
+          "_parent": "67597e817ad45ed39b0fc171",
           "_props": {
             "filters": [
               {
@@ -113,8 +113,8 @@
         },
         {
           "_name": "mod_muzzle",
-          "_id": "mod_muzzle_barrel_akm_id",
-          "_parent": "mod_barrel_15_inch_AKM",
+          "_id": "6c597e817ad45ed39b0fc171",
+          "_parent": "67597e817ad45ed39b0fc171",
           "_props": {
             "filters": [
               {
@@ -145,8 +145,8 @@
           "_proto": "55d30c4c4bdc2db4468b457e"
         },{
           "_name": "mod_sight_rear",
-          "_id": "mod_sight_rear_barrel_akm_id",
-          "_parent": "mod_barrel_15_inch_AKM",
+          "_id": "6d597e817ad45ed39b0fc171",
+          "_parent": "67597e817ad45ed39b0fc171",
           "_props": {
             "filters": [
               {
@@ -167,8 +167,8 @@
         },
         {
           "_name": "mod_sight_front",
-          "_id": "mod_sight_front_barrel_akm_id",
-          "_parent": "mod_barrel_15_inch_AKM",
+          "_id": "6e597e817ad45ed39b0fc171",
+          "_parent": "67597e817ad45ed39b0fc171",
           "_props": {
             "filters": [
               {
@@ -212,9 +212,9 @@
 
 	"locale":
 	{	
-		"mod_barrel_15_inch_AKM Name":"AKM standard 15 inch barrel",
-		"mod_barrel_15_inch_AKM ShortName":"AKM 15",
-		"mod_barrel_15_inch_AKM Description":"Standard barrel for AKM"
+		"67597e817ad45ed39b0fc171 Name":"AKM standard 15 inch barrel",
+		"67597e817ad45ed39b0fc171 ShortName":"AKM 15",
+		"67597e817ad45ed39b0fc171 Description":"Standard barrel for AKM"
 	}
 }
 

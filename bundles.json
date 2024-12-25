@@ -1185,12 +1185,12 @@
             "dependencyKeys":["shaders"]
         },
         {
-            "key":"AK_Mod_0/handguard_ak_sag_mk2_1.bundle", 
+            "key":"AK_Mod_0/handguard_ak_sag_mk2.bundle", 
             "dependencyKeys":["shaders"]
         },
         {
-            "key":"AK_Mod_0/handguard_ak_sag_mk2.bundle", 
-            "dependencyKeys":["shaders"]
+            "key":"AK_Mod_0/handguard_ak_sag_mk2_1.bundle", 
+            "dependencyKeys":["AK_Mod_0/handguard_ak_sag_mk2.bundle","shaders"]
         }
     ]
 }

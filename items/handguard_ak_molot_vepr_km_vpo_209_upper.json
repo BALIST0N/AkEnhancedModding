@@ -1,14 +1,14 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_molot_vepr_km_vpo_209_upper",
+		"Id": "67597e817ad45ed39b0fc161",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 350
 	},
 
     "item": 
     {
-        "_id": "handguard_ak_molot_vepr_km_vpo_209_upper",
+        "_id": "67597e817ad45ed39b0fc161",
         "_name": "handguard_ak_molot_vepr_km_vpo_209_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -94,8 +94,8 @@
     },
     "locale":
 	{	
-		"handguard_ak_molot_vepr_km_vpo_209_upper Name":"VPO-209 Standard upper handguard",
-		"handguard_ak_molot_vepr_km_vpo_209_upper ShortName":"209",
-		"handguard_ak_molot_vepr_km_vpo_209_upper Description":"VPO-209 Standard upper handguard made of wood"
+		"67597e817ad45ed39b0fc161 Name":"VPO-209 Standard upper handguard",
+		"67597e817ad45ed39b0fc161 ShortName":"209",
+		"67597e817ad45ed39b0fc161 Description":"VPO-209 Standard upper handguard made of wood"
 	}
 }

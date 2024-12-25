@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_vltor_cmrd_upper",
+		"Id": "67597e817ad45ed39b0fc165",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 2540
 	},
 	"item":
     {
-        "_id": "handguard_ak_vltor_cmrd_upper",
+        "_id": "67597e817ad45ed39b0fc165",
         "_name": "handguard_ak_vltor_cmrd_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -56,19 +56,20 @@
             "59ccfdba86f7747f2109a587",	
             "5cf656f2d7f00c06585fb6eb",	
             "5b237e425acfc4771e1be0b6",	
-            "handguard_ak_caa_quad_rail_polymer_upper",
-            "handguard_ak_izhmash_ak74_std_plum_upper",
-            "handguard_ak_khyber_swiss_grather_upper",
-            "handguard_ak_izhmash_ak74_std_wood_upper",
-            "handguard_ak_izhmash_ak74m_std_plastic_upper",
-            "handguard_ak_izhmash_akm_std_wood_upper",
-            "handguard_ak_molot_vepr_km_vpo_136_upper",
-            "handguard_ak_molot_vepr_km_vpo_209_upper",
-            "handguard_ak_magpul_moe_ak_blk_upper",
-            "handguard_ak_magpul_moe_ak_fde_upper",
-            "handguard_ak_magpul_moe_ak_od_upper",
-            "handguard_ak_magpul_moe_ak_plm_upper",
-            "handguard_ak_magpul_moe_ak_sg_upper"
+
+            "67597e817ad45ed39b0fc153",
+            "67597e817ad45ed39b0fc155",
+            "67597e817ad45ed39b0fc156",
+            "67597e817ad45ed39b0fc157",
+            "67597e817ad45ed39b0fc158",
+            "67597e817ad45ed39b0fc159",
+            "67597e817ad45ed39b0fc15b",
+            "67597e817ad45ed39b0fc15c",
+            "67597e817ad45ed39b0fc15d",
+            "67597e817ad45ed39b0fc15e",
+            "67597e817ad45ed39b0fc15f",
+            "67597e817ad45ed39b0fc160",
+            "67597e817ad45ed39b0fc161"
           ],
           "Unlootable": false,
           "UnlootableFromSlot": "FirstPrimaryWeapon",
@@ -110,9 +111,9 @@
 
 	"locale":
 	{	
-		"handguard_ak_vltor_cmrd_upper Name":"vltor cmrd upper part",
-		"handguard_ak_vltor_cmrd_upper ShortName":"cmrd up",
-		"handguard_ak_vltor_cmrd_upper Description":"vltor cmrd upper part screwed and keymod"
+		"67597e817ad45ed39b0fc165 Name":"vltor cmrd upper part",
+		"67597e817ad45ed39b0fc165 ShortName":"cmrd up",
+		"67597e817ad45ed39b0fc165 Description":"vltor cmrd upper part screwed and keymod"
 	}
 }
 

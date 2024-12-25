@@ -1,26 +1,26 @@
 {
     "handbook": {
-        "Id": "67597e817ad45ed39b0fc154",
-        "ParentId": "5b5f75e486f77447ec5d7712",
-        "Price": 3480
+        "Id": "5fbcc437d724d907e20BCd5c",
+        "ParentId": "5b5f757486f774093e6cb507",
+        "Price": 8650
     },
     "item": {
-        "_id": "67597e817ad45ed39b0fc154",
-        "_name": "handguard_ak_cnc_guns_ov_gp_upper",
-        "_parent": "55818a104bdc2db9688b4569",
+        "_id": "5fbcc437d724d907e20BCd5c",
+        "_name": "stock_all_sig_thin_folding_stock",
+        "_parent": "55818a594bdc2db9688b456a",
         "_type": "Item",
         "_props": {
-            "Name": "handguard_ak_cnc_guns_ov_gp_upper",
-            "ShortName": "handguard_ak_cnc_guns_ov_gp_upper",
-            "Description": "handguard_ak_cnc_guns_ov_gp_upper",
-            "Weight": 0.26,
+            "Name": "stock_all_sig_thin_folding_stock",
+            "ShortName": "stock_all_sig_thin_folding_stock",
+            "Description": "stock_all_sig_thin_folding_stock",
+            "Weight": 0.27,
             "BackgroundColor": "blue",
-            "Width": 1,
+            "Width": 2,
             "Height": 1,
             "StackMaxSize": 1,
             "ItemSound": "mod",
             "Prefab": {
-                "path": "handguards/uppers/handguard_ak_cnc_guns_ov_gp_upper.bundle",
+                "path": "AK_Mod_0/stock_ak_sig_thin_foldable.bundle",
                 "rcid": ""
             },
             "UsePrefab": {
@@ -38,24 +38,19 @@
             "IsLockedafterEquip": false,
             "QuestItem": false,
             "LootExperience": 10,
-            "ExamineExperience": 3,
+            "ExamineExperience": 2,
             "HideEntrails": false,
             "RepairCost": 0,
             "RepairSpeed": 0,
             "ExtraSizeLeft": 0,
-            "ExtraSizeRight": 0,
+            "ExtraSizeRight": 1,
             "ExtraSizeUp": 0,
             "ExtraSizeDown": 0,
             "ExtraSizeForceAdd": false,
             "MergesWithChildren": true,
-            "CanSellOnRagfair": true,
-            "CanRequireOnRagfair": true,
-            "ConflictingItems": [
-                "59ccfdba86f7747f2109a587",
-                "5cf656f2d7f00c06585fb6eb",
-                "5b237e425acfc4771e1be0b6",
-                "67597e817ad45ed39b0fc153"
-            ],
+            "CanSellOnRagfair": false,
+            "CanRequireOnRagfair": false,
+            "ConflictingItems": [],
             "Unlootable": false,
             "UnlootableFromSlot": "FirstPrimaryWeapon",
             "UnlootableFromSide": [],
@@ -70,49 +65,38 @@
             "IsSpecialSlotOnly": false,
             "IsUnremovable": false,
             "Grids": [],
-            "Slots": [
-                {
-                    "_name": "mod_scope",
-                    "_id": "6a597e817ad45ed39b0fc154",
-                    "_parent": "67597e817ad45ed39b0fc154",
-                    "_props": {
-                        "filters": [
-                            {
-                                "Shift": 0,
-                                "Filter": []
-                            }
-                        ]
-                    },
-                    "_required": false,
-                    "_mergeSlotWithChildren": false,
-                    "_proto": "55d30c4c4bdc2db4468b457e"
-                }
-            ],
+            "Slots": [],
             "CanPutIntoDuringTheRaid": true,
             "CantRemoveFromSlotsDuringRaid": [],
             "Durability": 100,
             "Accuracy": 0,
-            "Recoil": -1,
+            "Recoil": -26,
             "Loudness": 0,
             "EffectiveDistance": 0,
-            "Ergonomics": 1,
+            "Ergonomics": 5,
             "Velocity": 0,
             "RaidModdable": true,
             "ToolModdable": true,
             "BlocksFolding": false,
             "BlocksCollapsible": false,
-            "IsAnimated": false,
-            "HasShoulderContact": false,
+            "IsAnimated": true,
+            "HasShoulderContact": true,
             "SightingRange": 0,
             "DoubleActionAccuracyPenaltyMult": 1,
-            "HeatFactor": 0.966,
-            "CoolFactor": 1.02
+            "UniqueAnimationModID": 0,
+            "IsShoulderContact": true,
+            "Foldable": false,
+            "Retractable": false,
+            "SizeReduceRight": 0,
+            "HeatFactor": 1,
+            "CoolFactor": 1,
+            "DurabilityBurnModificator": 1
         },
-        "_proto": "5648b1504bdc2d9d488b4584"
+        "_proto": "5649b0fc4bdc2d17108b4588"
     },
     "locale": {
-        "67597e817ad45ed39b0fc154 Name": "CNC GUNS ov gp upper",
-        "67597e817ad45ed39b0fc154 ShortName": "CNC gp",
-        "67597e817ad45ed39b0fc154 Description": "CNC guns ov gp upper part"
+        "5fbcc437d724d907e20BCd5c Name": "SIG lightweight stock for AK-100 Series",
+        "5fbcc437d724d907e20BCd5c ShortName": "SIG light ak100",
+        "5fbcc437d724d907e20BCd5c Description": "A custom created thin and lightweight stock from a SIG Mpx stock specially adapted for AK-100 series. "
     }
 }

@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_caa_quad_rail_polymer_upper",
+		"Id": "67597e817ad45ed39b0fc153",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 974
 	},
 	"item":
 	{
-		"_id": "handguard_ak_caa_quad_rail_polymer_upper",
+		"_id": "67597e817ad45ed39b0fc153",
 		"_name": "handguard_ak_caa_quad_rail_polymer",
 		"_parent": "55818a104bdc2db9688b4569",
 		"_type": "Item",
@@ -70,8 +70,8 @@
 		"Slots": [
 			{
 			"_name": "mod_scope",
-			"_id": "5649d5094bdc2d16268b457d",
-			"_parent": "5648ae314bdc2d3d1c8b457f",
+			"_id": "6a597e817ad45ed39b0fc153",
+			"_parent": "67597e817ad45ed39b0fc153",
 			"_props": {
 				"filters": [
 				{
@@ -145,9 +145,9 @@
 
 	"locale":
 	{	
-		"handguard_ak_caa_quad_rail_polymer_upper Name":"caa quad rail polymer (upper)",
-		"handguard_ak_caa_quad_rail_polymer_upper ShortName":"caa quad",
-		"handguard_ak_caa_quad_rail_polymer_upper Description":"caa quad rail polymer (upper) you can mount a scope lol"
+		"67597e817ad45ed39b0fc153 Name":"caa quad rail polymer (upper)",
+		"67597e817ad45ed39b0fc153 ShortName":"caa quad",
+		"67597e817ad45ed39b0fc153 Description":"caa quad rail polymer (upper) you can mount a scope lol"
 	}
 }
 

@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "mount_siderail_RMP5",
+		"Id": "67597e817ad45ed39b0fc174",
 		"ParentId": "5b5f755f86f77447ec5d770e",
 		"Price": 2450
 	},
 	"item":
     {
-        "_id": "mount_siderail_RMP5",
+        "_id": "67597e817ad45ed39b0fc174",
         "_name": "mount_siderail_RMP5",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -73,8 +73,8 @@
           "Slots": [
             {
               "_name": "mod_mount",
-              "_id": "mod_mount_id_rmp5",
-              "_parent": "mount_siderail_RMP5",
+              "_id": "6a597e817ad45ed39b0fc174",
+              "_parent": "67597e817ad45ed39b0fc174",
               "_props": {
                 "filters": [
                   {
@@ -131,9 +131,9 @@
 
 	"locale":
 	{	
-		"mount_siderail_RMP5 Name":"Rmp 5 siderail mount",
-		"mount_siderail_RMP5 ShortName":"RMP5",
-		"mount_siderail_RMP5 Description":"rmp 5 siderail mount for ak N variants series"
+		"67597e817ad45ed39b0fc174 Name":"Rmp 5 siderail mount",
+		"67597e817ad45ed39b0fc174 ShortName":"RMP5",
+		"67597e817ad45ed39b0fc174 Description":"rmp 5 siderail mount for ak N variants series"
 	}
 }
 

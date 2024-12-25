@@ -1,14 +1,14 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_izhmash_akm_std_wood_upper",
+		"Id": "67597e817ad45ed39b0fc158",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 150
 	},
 
     "item": 
     {
-        "_id": "handguard_ak_izhmash_akm_std_wood_upper",
+        "_id": "67597e817ad45ed39b0fc158",
         "_name": "handguard_ak_izhmash_akm_std_wood_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -94,8 +94,8 @@
     },
     "locale":
 	{	
-		"handguard_ak_izhmash_akm_std_wood_upper Name":"AKM standard wood upper",
-		"handguard_ak_izhmash_akm_std_wood_upper ShortName":"AKM wood",
-		"handguard_ak_izhmash_akm_std_wood_upper Description":"Standard akm upper handguard made of wood"
+		"67597e817ad45ed39b0fc158 Name":"AKM standard wood upper",
+		"67597e817ad45ed39b0fc158 ShortName":"AKM wood",
+		"67597e817ad45ed39b0fc158 Description":"Standard akm upper handguard made of wood"
 	}
 }

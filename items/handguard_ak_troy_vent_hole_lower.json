@@ -1,13 +1,13 @@
 { 
 	"handbook":
 	{
-		"Id": "handguard_ak_troy_vent_hole_lower",
+		"Id": "67597e817ad45ed39b0fc164",
 		"ParentId": "5b5f75e486f77447ec5d7712",
 		"Price": 19580
 	},
 	"item":
 	{
-        "_id": "handguard_ak_troy_vent_hole_lower",
+        "_id": "67597e817ad45ed39b0fc164",
         "_name": "gas_block_ak_troy_top_bottom_vent_hole_combo_lower",
         "_parent": "56ea9461d2720b67698b456f",
         "_type": "Item",
@@ -79,8 +79,8 @@
           "Slots": [
             {
               "_name": "mod_tactical",
-              "_id": "5b237e945acfc400153af6e1",
-              "_parent": "5b237e425acfc4771e1be0b6",
+              "_id": "6a597e817ad45ed39b0fc164",
+              "_parent": "67597e817ad45ed39b0fc164",
               "_props": {
                 "filters": [
                   {
@@ -102,8 +102,8 @@
             },
             {
               "_name": "mod_mount_000",
-              "_id": "5b47384386f7744b5d748c61",
-              "_parent": "5b237e425acfc4771e1be0b6",
+              "_id": "6b597e817ad45ed39b0fc164",
+              "_parent": "67597e817ad45ed39b0fc164",
               "_props": {
                 "filters": [
                   {
@@ -120,8 +120,8 @@
             },
             {
               "_name": "mod_mount_001",
-              "_id": "5b47388e86f774040571ea35",
-              "_parent": "5b237e425acfc4771e1be0b6",
+              "_id": "6c597e817ad45ed39b0fc164",
+              "_parent": "67597e817ad45ed39b0fc164",
               "_props": {
                 "filters": [
                   {
@@ -138,8 +138,8 @@
             },
             {
               "_name": "mod_mount_002",
-              "_id": "5b47389886f774064a2a33f6",
-              "_parent": "5b237e425acfc4771e1be0b6",
+              "_id": "6d597e817ad45ed39b0fc164",
+              "_parent": "67597e817ad45ed39b0fc164",
               "_props": {
                 "filters": [
                   {
@@ -181,9 +181,9 @@
 
 	"locale":
 	{	
-		"handguard_ak_troy_vent_hole_lower Name":"troy vent hole lower handguard",
-		"handguard_ak_troy_vent_hole_lower ShortName":"troy AK",
-		"handguard_ak_troy_vent_hole_lower Description":"lower handguard from the troy kit"
+		"67597e817ad45ed39b0fc164 Name":"troy vent hole lower handguard",
+		"67597e817ad45ed39b0fc164 ShortName":"troy AK",
+		"67597e817ad45ed39b0fc164 Description":"lower handguard from the troy kit"
 	}
 }
 

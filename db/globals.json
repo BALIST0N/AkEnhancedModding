@@ -1,7 +1,80 @@
 [
-
     {
-
+        "_id": "5841474424597759ba49be91",
+        "_name": "AK-74N",
+        "_items": [
+            {
+                "_id": "61a9f8f132a4743c3453d2c6",
+                "_tpl": "5644bd2b4bdc2d3b4c8b4572",
+                "upd": {
+                    "FireMode": {
+                        "FireMode": "single"
+                    }
+                }
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2c7",
+                "_tpl": "59c6633186f7740cf0493bb9",
+                "parentId": "675f608a8dd39f2e8c00006e",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2c8",
+                "_tpl": "5648b0744bdc2d363b8b4578",
+                "parentId": "61a9f8f132a4743c3453d2c6",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2c9",
+                "_tpl": "5649aa744bdc2ded0b8b457e",
+                "parentId": "675f608a8dd39f2e8c00006e",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2ca",
+                "_tpl": "5649ad3f4bdc2df8348b4585",
+                "parentId": "61a9f8f132a4743c3453d2c6",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2cb",
+                "_tpl": "5649af094bdc2df8348b4586",
+                "parentId": "61a9f8f132a4743c3453d2c6",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2cc",
+                "_tpl": "5649b0544bdc2d1b2b8b458a",
+                "parentId": "675f608a8dd39f2e8c00006e",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2cd",
+                "_tpl": "5649b1c04bdc2d16268b457c",
+                "parentId": "61a9f8f132a4743c3453d2c6",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "61a9f8f132a4743c3453d2ce",
+                "_tpl": "564ca99c4bdc2d16268b4589",
+                "parentId": "61a9f8f132a4743c3453d2c6",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00006d",
+                "_tpl": "67597e817ad45ed39b0fc156",
+                "parentId": "61a9f8f132a4743c3453d2c7",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00006e",
+                "_tpl": "67597e817ad45ed39b0fc16e",
+                "parentId": "61a9f8f132a4743c3453d2c6",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
         "_id": "59430b9b86f77403c27945fd",
         "_name": "AK74MOE",
         "_items": [
@@ -10,27 +83,15 @@
                 "_tpl": "5644bd2b4bdc2d3b4c8b4572"
             },
             {
-                "_id": "59e5ea8186f7740613442160",
-                "_tpl": "mod_barrel_15_inch_AK74",
-                "parentId": "59e5ea8186f7740613442164",
-                "slotId": "mod_barrel"
-            },
-            {
                 "_id": "59e5ea8186f7740613442165",
                 "_tpl": "59c6633186f7740cf0493bb9",
-                "parentId": "59e5ea8186f7740613442160",
+                "parentId": "675f608a8dd39f2e8c000070",
                 "slotId": "mod_gas_block"
             },
             {
                 "_id": "59e5ea8186f774061344216c",
                 "_tpl": "57cffddc24597763133760c6",
                 "parentId": "59e5ea8186f7740613442164",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "59e5ea8186f7740613442161",
-                "_tpl": "handguard_ak_magpul_moe_ak_od_upper",
-                "parentId": "59e5ea8186f7740613442165",
                 "slotId": "mod_handguard"
             },
             {
@@ -42,7 +103,7 @@
             {
                 "_id": "59e5ea8186f7740613442166",
                 "_tpl": "5649ab884bdc2ded0b8b457f",
-                "parentId": "59e5ea8186f7740613442160",
+                "parentId": "675f608a8dd39f2e8c000070",
                 "slotId": "mod_muzzle"
             },
             {
@@ -60,7 +121,7 @@
             {
                 "_id": "59e5ea8186f7740613442169",
                 "_tpl": "5649d9a14bdc2d79388b4580",
-                "parentId": "59e5ea8186f7740613442160",
+                "parentId": "675f608a8dd39f2e8c000070",
                 "slotId": "mod_sight_rear"
             },
             {
@@ -98,12 +159,1161 @@
                 "_tpl": "55d482194bdc2d1d4e8b456b",
                 "parentId": "59e5ea8186f7740613442164",
                 "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00006f",
+                "_tpl": "67597e817ad45ed39b0fc15d",
+                "parentId": "59e5ea8186f7740613442165",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000070",
+                "_tpl": "67597e817ad45ed39b0fc16e",
+                "parentId": "59e5ea8186f7740613442164",
+                "slotId": "mod_barrel"
             }
         ]
-
     },
     {
-
+        "_id": "59b81f7386f77421ac688a0a",
+        "_name": "VITYAZ-SN Default",
+        "_items": [
+            {
+                "_id": "5a3fdab186f774601a498470",
+                "_tpl": "59984ab886f7743e98271174"
+            },
+            {
+                "_id": "5a3fdab186f774601a498471",
+                "_tpl": "5998517986f7746017232f7e",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5a3fdab186f774601a498472",
+                "_tpl": "599851db86f77467372f0a18",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5a3fdab186f774601a498473",
+                "_tpl": "599860ac86f77436b225ed1a",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "5a3fdab186f774601a498474",
+                "_tpl": "5998597786f77414ea6da093",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5a3fdab186f774601a498475",
+                "_tpl": "59985a8086f77414ec448d1a",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5a3fdab186f774601a498476",
+                "_tpl": "599860e986f7743bb57573a6",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5a3fdab186f774601a498477",
+                "_tpl": "59ccd11386f77428f24a488f",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5a3fdab186f774601a498478",
+                "_tpl": "5648b1504bdc2d9d488b4584",
+                "parentId": "5a3fdab186f774601a498470",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000071",
+                "_tpl": "67597e817ad45ed39b0fc157",
+                "parentId": "5a3fdab186f774601a498477",
+                "slotId": "mod_handguard"
+            }
+        ]
+    },
+    {
+        "_id": "59ef247086f77439967a900a",
+        "_name": "AKM VPO-209",
+        "_items": [
+            {
+                "_id": "639bb5575b759c65a34764f6",
+                "_tpl": "59e6687d86f77411d949b251",
+                "upd": {
+                    "Repairable": {
+                        "Durability": 100,
+                        "MaxDurability": 100
+                    }
+                }
+            },
+            {
+                "_id": "639bb5575b759c65a34764f7",
+                "_tpl": "59e649f986f77411d949b246",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "639bb5575b759c65a34764f8",
+                "_tpl": "59e898ee86f77427614bd225",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "639bb5575b759c65a34764f9",
+                "_tpl": "59e8a00d86f7742ad93b569c",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "639bb5575b759c65a34764fa",
+                "_tpl": "59e6318286f77444dd62c4cc",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "639bb5575b759c65a34764fb",
+                "_tpl": "59e6449086f7746c9f75e822",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "639bb5575b759c65a34764fc",
+                "_tpl": "59e8977386f77415a553c453",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "639bb5575b759c65a34764fd",
+                "_tpl": "59e89d0986f77427600d226e",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "639bb5575b759c65a34764fe",
+                "_tpl": "5b1fd4e35acfc40018633c39",
+                "parentId": "639bb5575b759c65a34764f6",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000073",
+                "_tpl": "67597e817ad45ed39b0fc161",
+                "parentId": "639bb5575b759c65a34764f7",
+                "slotId": "mod_handguard"
+            }
+        ]
+    },
+    {
+        "_id": "59ef24b986f77439987b8762",
+        "_name": "AKM VPO-136",
+        "_items": [
+            {
+                "_id": "639bb56e92e27b60a107409f",
+                "_tpl": "59e6152586f77473dc057aa1",
+                "upd": {
+                    "Repairable": {
+                        "Durability": 100,
+                        "MaxDurability": 100
+                    }
+                }
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a0",
+                "_tpl": "59e649f986f77411d949b246",
+                "parentId": "675f608a8dd39f2e8c000076",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a1",
+                "_tpl": "59e6284f86f77440d569536f",
+                "parentId": "639bb56e92e27b60a107409f",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a2",
+                "_tpl": "59e61eb386f77440d64f5daf",
+                "parentId": "675f608a8dd39f2e8c000076",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a3",
+                "_tpl": "59e6318286f77444dd62c4cc",
+                "parentId": "639bb56e92e27b60a107409f",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a4",
+                "_tpl": "59e6449086f7746c9f75e822",
+                "parentId": "639bb56e92e27b60a107409f",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a5",
+                "_tpl": "59d650cf86f7741b846413a4",
+                "parentId": "675f608a8dd39f2e8c000076",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a6",
+                "_tpl": "59e6227d86f77440d64f5dc2",
+                "parentId": "639bb56e92e27b60a107409f",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "639bb56e92e27b60a10740a7",
+                "_tpl": "5b1fd4e35acfc40018633c39",
+                "parentId": "639bb56e92e27b60a107409f",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000075",
+                "_tpl": "67597e817ad45ed39b0fc160",
+                "parentId": "639bb56e92e27b60a10740a0",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000076",
+                "_tpl": "67597e817ad45ed39b0fc171",
+                "parentId": "639bb56e92e27b60a107409f",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5a13df5286f774032f5454a0",
+        "_name": "Saiga-9 Default",
+        "_items": [
+            {
+                "_id": "5a13df5286f774032f545497",
+                "_tpl": "59f9cabd86f7743a10721f46"
+            },
+            {
+                "_id": "5a13df5286f774032f545498",
+                "_tpl": "5998517986f7746017232f7e",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5a13df5286f774032f545499",
+                "_tpl": "599851db86f77467372f0a18",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5a13df5286f774032f54549a",
+                "_tpl": "5998529a86f774647f44f421",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "5a13df5286f774032f54549b",
+                "_tpl": "5998598e86f7740b3f498a86",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5a13df5286f774032f54549c",
+                "_tpl": "59985a8086f77414ec448d1a",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5a13df5286f774032f54549d",
+                "_tpl": "599860e986f7743bb57573a6",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5a13df5286f774032f54549e",
+                "_tpl": "59ccd11386f77428f24a488f",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5a13df5286f774032f54549f",
+                "_tpl": "5648b1504bdc2d9d488b4584",
+                "parentId": "5a13df5286f774032f545497",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000077",
+                "_tpl": "67597e817ad45ed39b0fc157",
+                "parentId": "5a13df5286f774032f54549e",
+                "slotId": "mod_handguard"
+            }
+        ]
+    },
+    {
+        "_id": "5a325c3686f7744273716c5b",
+        "_name": "AKMN Default",
+        "_items": [
+            {
+                "_id": "5a325c3686f7744273716c52",
+                "_tpl": "5a0ec13bfcdbcb00165aa685"
+            },
+            {
+                "_id": "5a325c3686f7744273716c53",
+                "_tpl": "59d64ec286f774171d1e0a42",
+                "parentId": "675f608a8dd39f2e8c00007a",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5a325c3686f7744273716c5a",
+                "_tpl": "59d64f2f86f77417193ef8b3",
+                "parentId": "5a325c3686f7744273716c52",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5a325c3686f7744273716c54",
+                "_tpl": "59d64fc686f774171b243fe2",
+                "parentId": "675f608a8dd39f2e8c00007a",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5a325c3686f7744273716c55",
+                "_tpl": "59e62cc886f77440d40b52a1",
+                "parentId": "5a325c3686f7744273716c52",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5a325c3686f7744273716c56",
+                "_tpl": "59d6507c86f7741b846413a2",
+                "parentId": "5a325c3686f7744273716c52",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5a325c3686f7744273716c57",
+                "_tpl": "59d650cf86f7741b846413a4",
+                "parentId": "675f608a8dd39f2e8c00007a",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5a325c3686f7744273716c58",
+                "_tpl": "59d6514b86f774171a068a08",
+                "parentId": "5a325c3686f7744273716c52",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5a325c3686f7744273716c59",
+                "_tpl": "5a01c29586f77474660c694c",
+                "parentId": "5a325c3686f7744273716c52",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000079",
+                "_tpl": "67597e817ad45ed39b0fc158",
+                "parentId": "5a325c3686f7744273716c53",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00007a",
+                "_tpl": "67597e817ad45ed39b0fc171",
+                "parentId": "5a325c3686f7744273716c52",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5a8ae65f86f774377a23ed55",
+        "_name": "vityaz_zenit",
+        "_items": [
+            {
+                "_id": "639c46925287bf79c373762a",
+                "_tpl": "59984ab886f7743e98271174",
+                "upd": {
+                    "Repairable": {
+                        "Durability": 100,
+                        "MaxDurability": 100
+                    }
+                }
+            },
+            {
+                "_id": "639c46925287bf79c373762b",
+                "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "639c46925287bf79c373762c",
+                "_tpl": "5ac78eaf5acfc4001926317a",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "639c46925287bf79c373762d",
+                "_tpl": "59ecc3dd86f7746dc827481c",
+                "parentId": "639c46925287bf79c373762c",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "639c46925287bf79c373762e",
+                "_tpl": "5648ac824bdc2ded0b8b457d",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_charge"
+            },
+            {
+                "_id": "639c46925287bf79c373762f",
+                "_tpl": "599860ac86f77436b225ed1a",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "639c46925287bf79c3737630",
+                "_tpl": "59bfc5c886f7743bf6794e62",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "639c46925287bf79c3737631",
+                "_tpl": "59985a6c86f77414ec448d17",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "639c46925287bf79c3737632",
+                "_tpl": "570fd6c2d2720bc6458b457f",
+                "parentId": "639c46925287bf79c3737631",
+                "slotId": "mod_scope"
+            },
+            {
+                "_id": "639c46925287bf79c3737633",
+                "_tpl": "599860e986f7743bb57573a6",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "639c46925287bf79c3737634",
+                "_tpl": "59ccd11386f77428f24a488f",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "639c46925287bf79c3737635",
+                "_tpl": "5648b4534bdc2d3d1c8b4580",
+                "parentId": "639c46925287bf79c373762a",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "639c46925287bf79c3737636",
+                "_tpl": "591af28e86f77414a27a9e1d",
+                "parentId": "639c46925287bf79c3737635",
+                "slotId": "mod_foregrip"
+            },
+            {
+                "_id": "639c46925287bf79c3737637",
+                "_tpl": "560d657b4bdc2da74d8b4572",
+                "parentId": "639c46925287bf79c3737635",
+                "slotId": "mod_tactical_002"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00007b",
+                "_tpl": "67597e817ad45ed39b0fc168",
+                "parentId": "639c46925287bf79c3737635",
+                "slotId": "mod_handguard"
+            }
+        ]
+    },
+    {
+        "_id": "5ac4ab8886f7747d0f66429a",
+        "_name": "AKMSN Default",
+        "_items": [
+            {
+                "_id": "5ac4a2c15acfc40019262e62",
+                "_tpl": "5abcbc27d8ce8700182eceeb"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664292",
+                "_tpl": "59d64ec286f774171d1e0a42",
+                "parentId": "675f608a8dd39f2e8c00007e",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664299",
+                "_tpl": "59d64f2f86f77417193ef8b3",
+                "parentId": "5ac4a2c15acfc40019262e62",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664293",
+                "_tpl": "59e61eb386f77440d64f5daf",
+                "parentId": "675f608a8dd39f2e8c00007e",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664294",
+                "_tpl": "5a0071d486f77404e23a12b2",
+                "parentId": "5ac4a2c15acfc40019262e62",
+                "slotId": "mod_pistol_grip_akms"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664295",
+                "_tpl": "59d6507c86f7741b846413a2",
+                "parentId": "5ac4a2c15acfc40019262e62",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664296",
+                "_tpl": "59d650cf86f7741b846413a4",
+                "parentId": "675f608a8dd39f2e8c00007e",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664297",
+                "_tpl": "5abcd472d8ce8700166032ae",
+                "parentId": "5ac4a2c15acfc40019262e62",
+                "slotId": "mod_stock_akms"
+            },
+            {
+                "_id": "5ac4ab8886f7747d0f664298",
+                "_tpl": "5a0060fc86f7745793204432",
+                "parentId": "5ac4a2c15acfc40019262e62",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00007d",
+                "_tpl": "67597e817ad45ed39b0fc158",
+                "parentId": "5ac4ab8886f7747d0f664292",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00007e",
+                "_tpl": "67597e817ad45ed39b0fc171",
+                "parentId": "5ac4a2c15acfc40019262e62",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5ac4abf986f7747d117c67aa",
+        "_name": "AKS-74 Default",
+        "_items": [
+            {
+                "_id": "5ac4a2c15acfc40019262e61",
+                "_tpl": "5ab8e9fcd8ce870019439434"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a2",
+                "_tpl": "59c6633186f7740cf0493bb9",
+                "parentId": "675f608a8dd39f2e8c000080",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a9",
+                "_tpl": "5648b0744bdc2d363b8b4578",
+                "parentId": "5ac4a2c15acfc40019262e61",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a3",
+                "_tpl": "5649aa744bdc2ded0b8b457e",
+                "parentId": "675f608a8dd39f2e8c000080",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a4",
+                "_tpl": "57e3dba62459770f0c32322b",
+                "parentId": "5ac4a2c15acfc40019262e61",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a5",
+                "_tpl": "5649af094bdc2df8348b4586",
+                "parentId": "5ac4a2c15acfc40019262e61",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a6",
+                "_tpl": "5649b0544bdc2d1b2b8b458a",
+                "parentId": "675f608a8dd39f2e8c000080",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a7",
+                "_tpl": "5ab626e4d8ce87272e4c6e43",
+                "parentId": "5ac4a2c15acfc40019262e61",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5ac4abf986f7747d117c67a8",
+                "_tpl": "564ca99c4bdc2d16268b4589",
+                "parentId": "5ac4a2c15acfc40019262e61",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00007f",
+                "_tpl": "67597e817ad45ed39b0fc156",
+                "parentId": "5ac4abf986f7747d117c67a2",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000080",
+                "_tpl": "67597e817ad45ed39b0fc16e",
+                "parentId": "5ac4a2c15acfc40019262e61",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5acf7db286f7743a9c7092e3",
+        "_name": "AK-74M Default",
+        "_items": [
+            {
+                "_id": "5ac5f8745acfc43f67248a76",
+                "_tpl": "5ac4cd105acfc40016339859"
+            },
+            {
+                "_id": "5ac5f8745acfc43f67248a77",
+                "_tpl": "59c6633186f7740cf0493bb9",
+                "parentId": "675f608a8dd39f2e8c000082",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5acf7db286f7743a9c7092e2",
+                "_tpl": "5648b1504bdc2d9d488b4584",
+                "parentId": "5ac5f8745acfc43f67248a76",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5acf7db286f7743a9c7092e0",
+                "_tpl": "5ac7655e5acfc40016339a19",
+                "parentId": "675f608a8dd39f2e8c000082",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5ac5f8745acfc43f67248a79",
+                "_tpl": "5649ade84bdc2d1b2b8b4587",
+                "parentId": "5ac5f8745acfc43f67248a76",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5ac5f8745acfc43f67248a7a",
+                "_tpl": "5ac50da15acfc4001718d287",
+                "parentId": "5ac5f8745acfc43f67248a76",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5acf7db286f7743a9c7092e1",
+                "_tpl": "5ac72e475acfc400180ae6fe",
+                "parentId": "675f608a8dd39f2e8c000082",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5ac5f8745acfc43f67248a7c",
+                "_tpl": "5ac50c185acfc400163398d4",
+                "parentId": "5ac5f8745acfc43f67248a76",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5ac5f8745acfc43f67248a7d",
+                "_tpl": "55d480c04bdc2d1d4e8b456a",
+                "parentId": "5ac5f8745acfc43f67248a76",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000081",
+                "_tpl": "67597e817ad45ed39b0fc157",
+                "parentId": "5ac5f8745acfc43f67248a77",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000082",
+                "_tpl": "67597e817ad45ed39b0fc16e",
+                "parentId": "5ac5f8745acfc43f67248a76",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5acf7dd986f774486e1281bf",
+        "_name": "AK-101 Default",
+        "_items": [
+            {
+                "_id": "5acf7dd986f774486e1281b6",
+                "_tpl": "5ac66cb05acfc40198510a10"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281b7",
+                "_tpl": "59c6633186f7740cf0493bb9",
+                "parentId": "675f608a8dd39f2e8c000084",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281be",
+                "_tpl": "5648b1504bdc2d9d488b4584",
+                "parentId": "5acf7dd986f774486e1281b6",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281b8",
+                "_tpl": "5ac72e615acfc43f67248aa0",
+                "parentId": "675f608a8dd39f2e8c000084",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281b9",
+                "_tpl": "5649ade84bdc2d1b2b8b4587",
+                "parentId": "5acf7dd986f774486e1281b6",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281ba",
+                "_tpl": "5ac50da15acfc4001718d287",
+                "parentId": "5acf7dd986f774486e1281b6",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281bb",
+                "_tpl": "5ac72e475acfc400180ae6fe",
+                "parentId": "675f608a8dd39f2e8c000084",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281bc",
+                "_tpl": "5ac50c185acfc400163398d4",
+                "parentId": "5acf7dd986f774486e1281b6",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5acf7dd986f774486e1281bd",
+                "_tpl": "5ac66c5d5acfc4001718d314",
+                "parentId": "5acf7dd986f774486e1281b6",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000083",
+                "_tpl": "67597e817ad45ed39b0fc157",
+                "parentId": "5acf7dd986f774486e1281b7",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000084",
+                "_tpl": "67597e817ad45ed39b0fc16f",
+                "parentId": "5acf7dd986f774486e1281b6",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5acf7e2b86f7740874790e20",
+        "_name": "AK-103 Default",
+        "_items": [
+            {
+                "_id": "5ac670435acfc43f67248a8d",
+                "_tpl": "5ac66d2e5acfc43b321d4b53"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e18",
+                "_tpl": "59c6633186f7740cf0493bb9",
+                "parentId": "675f608a8dd39f2e8c000086",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e1f",
+                "_tpl": "5648b1504bdc2d9d488b4584",
+                "parentId": "5ac670435acfc43f67248a8d",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e19",
+                "_tpl": "5ac72e7d5acfc40016339a02",
+                "parentId": "675f608a8dd39f2e8c000086",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e1a",
+                "_tpl": "5649ade84bdc2d1b2b8b4587",
+                "parentId": "5ac670435acfc43f67248a8d",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e1b",
+                "_tpl": "5ac50da15acfc4001718d287",
+                "parentId": "5ac670435acfc43f67248a8d",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e1c",
+                "_tpl": "5ac72e475acfc400180ae6fe",
+                "parentId": "675f608a8dd39f2e8c000086",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e1d",
+                "_tpl": "5ac50c185acfc400163398d4",
+                "parentId": "5ac670435acfc43f67248a8d",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5acf7e2b86f7740874790e1e",
+                "_tpl": "5ac66bea5acfc43b321d4aec",
+                "parentId": "5ac670435acfc43f67248a8d",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000085",
+                "_tpl": "67597e817ad45ed39b0fc157",
+                "parentId": "5acf7e2b86f7740874790e18",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000086",
+                "_tpl": "67597e817ad45ed39b0fc170",
+                "parentId": "5ac670435acfc43f67248a8d",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5ba3a4d1d4351e4502010622",
+        "_name": "AKMN2",
+        "_items": [
+            {
+                "_id": "5ba3a4d1d4351e4502010625",
+                "_tpl": "5a0ec13bfcdbcb00165aa685"
+            },
+            {
+                "_id": "5ba3a4d1d4351e4502010626",
+                "_tpl": "59d64ec286f774171d1e0a42",
+                "parentId": "675f608a8dd39f2e8c000088",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5ba3a4d1d4351e4502010627",
+                "_tpl": "59d64f2f86f77417193ef8b3",
+                "parentId": "5ba3a4d1d4351e4502010625",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5ba3a4d1d4351e4502010628",
+                "_tpl": "59d64fc686f774171b243fe2",
+                "parentId": "675f608a8dd39f2e8c000088",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5ba3a4d1d4351e4502010629",
+                "_tpl": "59e62cc886f77440d40b52a1",
+                "parentId": "5ba3a4d1d4351e4502010625",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5ba3a4d1d4351e450201062a",
+                "_tpl": "59d6507c86f7741b846413a2",
+                "parentId": "5ba3a4d1d4351e4502010625",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5ba3a4d1d4351e450201062b",
+                "_tpl": "59d650cf86f7741b846413a4",
+                "parentId": "675f608a8dd39f2e8c000088",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5ba3a4d1d4351e450201062c",
+                "_tpl": "59d6514b86f774171a068a08",
+                "parentId": "5ba3a4d1d4351e4502010625",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5ba3a4d1d4351e450201062d",
+                "_tpl": "59d625f086f774661516605d",
+                "parentId": "5ba3a4d1d4351e4502010625",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "5ba3a4d1d4351e450201062e",
+                "_tpl": "5a7c74b3e899ef0014332c29",
+                "parentId": "5ba3a4d1d4351e4502010625",
+                "slotId": "mod_mount_000"
+            },
+            {
+                "_id": "5ba3a4d1d4351e450201062f",
+                "_tpl": "5ba36f85d4351e0085325c81",
+                "parentId": "5ba3a4d1d4351e450201062e",
+                "slotId": "mod_tactical"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000087",
+                "_tpl": "67597e817ad45ed39b0fc158",
+                "parentId": "5ba3a4d1d4351e4502010626",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000088",
+                "_tpl": "67597e817ad45ed39b0fc171",
+                "parentId": "5ba3a4d1d4351e4502010625",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5ba3a53dd4351e3bac12056e",
+        "_name": "AKMSN2",
+        "_items": [
+            {
+                "_id": "5ba3a53dd4351e3bac12057b",
+                "_tpl": "5abcbc27d8ce8700182eceeb"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac12057c",
+                "_tpl": "59d64ec286f774171d1e0a42",
+                "parentId": "675f608a8dd39f2e8c00008a",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac12057d",
+                "_tpl": "59d64f2f86f77417193ef8b3",
+                "parentId": "5ba3a53dd4351e3bac12057b",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac12057e",
+                "_tpl": "59d64fc686f774171b243fe2",
+                "parentId": "675f608a8dd39f2e8c00008a",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac12057f",
+                "_tpl": "5a0071d486f77404e23a12b2",
+                "parentId": "5ba3a53dd4351e3bac12057b",
+                "slotId": "mod_pistol_grip_akms"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac120580",
+                "_tpl": "59d6507c86f7741b846413a2",
+                "parentId": "5ba3a53dd4351e3bac12057b",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac120581",
+                "_tpl": "59d650cf86f7741b846413a4",
+                "parentId": "675f608a8dd39f2e8c00008a",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac120582",
+                "_tpl": "5abcd472d8ce8700166032ae",
+                "parentId": "5ba3a53dd4351e3bac12057b",
+                "slotId": "mod_stock_akms"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac120583",
+                "_tpl": "5a0060fc86f7745793204432",
+                "parentId": "5ba3a53dd4351e3bac12057b",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac120584",
+                "_tpl": "5a7c74b3e899ef0014332c29",
+                "parentId": "5ba3a53dd4351e3bac12057b",
+                "slotId": "mod_mount_001"
+            },
+            {
+                "_id": "5ba3a53dd4351e3bac120585",
+                "_tpl": "5ba36f85d4351e0085325c81",
+                "parentId": "5ba3a53dd4351e3bac120584",
+                "slotId": "mod_tactical"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c000089",
+                "_tpl": "67597e817ad45ed39b0fc158",
+                "parentId": "5ba3a53dd4351e3bac12057c",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00008a",
+                "_tpl": "67597e817ad45ed39b0fc171",
+                "parentId": "5ba3a53dd4351e3bac12057b",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "5bbf1c1c88a45017144d28c5",
+        "_name": "AK74M_zenitco",
+        "_items": [
+            {
+                "_id": "5bbf1c1c88a45017144d28d1",
+                "_tpl": "5ac4cd105acfc40016339859"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d2",
+                "_tpl": "59c6633186f7740cf0493bb9",
+                "parentId": "675f608a8dd39f2e8c00008c",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d3",
+                "_tpl": "5648b4534bdc2d3d1c8b4580",
+                "parentId": "5bbf1c1c88a45017144d28d1",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d4",
+                "_tpl": "5649ab884bdc2ded0b8b457f",
+                "parentId": "675f608a8dd39f2e8c00008c",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d5",
+                "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+                "parentId": "5bbf1c1c88a45017144d28d1",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d6",
+                "_tpl": "5649af884bdc2d1b2b8b4589",
+                "parentId": "5bbf1c1c88a45017144d28d1",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d7",
+                "_tpl": "5ac72e475acfc400180ae6fe",
+                "parentId": "675f608a8dd39f2e8c00008c",
+                "slotId": "mod_sight_rear"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d8",
+                "_tpl": "5ac78eaf5acfc4001926317a",
+                "parentId": "5bbf1c1c88a45017144d28d1",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28d9",
+                "_tpl": "59ecc3dd86f7746dc827481c",
+                "parentId": "5bbf1c1c88a45017144d28d8",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "5bbf1c1c88a45017144d28da",
+                "_tpl": "5648ac824bdc2ded0b8b457d",
+                "parentId": "5bbf1c1c88a45017144d28d1",
+                "slotId": "mod_charge"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00008b",
+                "_tpl": "67597e817ad45ed39b0fc168",
+                "parentId": "5bbf1c1c88a45017144d28d3",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00008c",
+                "_tpl": "67597e817ad45ed39b0fc16e",
+                "parentId": "5bbf1c1c88a45017144d28d1",
+                "slotId": "mod_barrel"
+            }
+        ]
+    },
+    {
+        "_id": "618ab0c66bbeff39ad4acf2e",
+        "_name": "Vityaz_FSB",
+        "_items": [
+            {
+                "_id": "618ab0c66bbeff39ad4acf3b",
+                "_tpl": "59984ab886f7743e98271174",
+                "upd": {
+                    "FireMode": {
+                        "FireMode": "single"
+                    },
+                    "Foldable": {
+                        "Folded": false
+                    }
+                }
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf3c",
+                "_tpl": "5649ade84bdc2d1b2b8b4587",
+                "parentId": "618ab0c66bbeff39ad4acf3b",
+                "slotId": "mod_pistol_grip"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf3d",
+                "_tpl": "5ac78eaf5acfc4001926317a",
+                "parentId": "618ab0c66bbeff39ad4acf3b",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf3e",
+                "_tpl": "5b222d405acfc400153af4fe",
+                "parentId": "618ab0c66bbeff39ad4acf3d",
+                "slotId": "mod_stock"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf3f",
+                "_tpl": "599860ac86f77436b225ed1a",
+                "parentId": "618ab0c66bbeff39ad4acf3b",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf40",
+                "_tpl": "56d59d3ad2720bdb418b4577",
+                "parentId": "618ab0c66bbeff39ad4acf3f",
+                "slotId": "cartridges",
+                "upd": {
+                    "StackObjectsCount": 30
+                }
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf41",
+                "_tpl": "59bfc5c886f7743bf6794e62",
+                "parentId": "618ab0c66bbeff39ad4acf3b",
+                "slotId": "mod_muzzle"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf42",
+                "_tpl": "59985a6c86f77414ec448d17",
+                "parentId": "618ab0c66bbeff39ad4acf3b",
+                "slotId": "mod_reciever"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf43",
+                "_tpl": "59ccd11386f77428f24a488f",
+                "parentId": "618ab0c66bbeff39ad4acf3b",
+                "slotId": "mod_gas_block"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf44",
+                "_tpl": "5c617a5f2e2216000f1e81b3",
+                "parentId": "618ab0c66bbeff39ad4acf3b",
+                "slotId": "mod_handguard"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf45",
+                "_tpl": "5c1bc4812e22164bef5cfde7",
+                "parentId": "618ab0c66bbeff39ad4acf44",
+                "slotId": "mod_foregrip"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf46",
+                "_tpl": "57ffaea724597779f52b3a4d",
+                "parentId": "618ab0c66bbeff39ad4acf44",
+                "slotId": "mod_tactical"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf47",
+                "_tpl": "58d39d3d86f77445bb794ae7",
+                "parentId": "618ab0c66bbeff39ad4acf46",
+                "slotId": "mod_scope"
+            },
+            {
+                "_id": "618ab0c66bbeff39ad4acf48",
+                "_tpl": "58d399e486f77442e0016fe7",
+                "parentId": "618ab0c66bbeff39ad4acf47",
+                "slotId": "mod_scope"
+            },
+            {
+                "_id": "675f608a8dd39f2e8c00008d",
+                "_tpl": "67597e817ad45ed39b0fc157",
+                "parentId": "618ab0c66bbeff39ad4acf43",
+                "slotId": "mod_handguard"
+            }
+        ]
+    },
+    {
         "_id": "62972a7d91492d1a34152fbe",
         "_name": "rd704_default",
         "_items": [
@@ -115,12 +1325,6 @@
                         "FireMode": "single"
                     }
                 }
-            },
-            {
-                "_id": "62972a7d91492d1a34152fc0",
-                "_tpl": "handguard_slr_ion_lite_704",
-                "parentId": "62972a7d91492d1a34152fc9",
-                "slotId": "mod_handguard"
             },
             {
                 "_id": "62972a7d91492d1a34152fca",
@@ -175,1247 +1379,12 @@
                 "_tpl": "59d625f086f774661516605d",
                 "parentId": "62972a7d91492d1a34152fc9",
                 "slotId": "mod_magazine"
-            }
-        ]
-    },
-
-    {
-        "_id": "5ba3a4d1d4351e4502010622",
-        "_name": "AKMN2",
-        "_items": [
-            {
-                "_id": "5ba3a4d1d4351e4502010625",
-                "_tpl": "5a0ec13bfcdbcb00165aa685"
             },
             {
-                "_id": "5ba3a4d1d4351e4502010620",
-                "_tpl": "mod_barrel_15_inch_AKM",
-                "parentId": "5ba3a4d1d4351e4502010625",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5ba3a4d1d4351e4502010626",
-                "_tpl": "59d64ec286f774171d1e0a42",
-                "parentId": "5ba3a4d1d4351e4502010620",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5ba3a4d1d4351e4502010627",
-                "_tpl": "59d64f2f86f77417193ef8b3",
-                "parentId": "5ba3a4d1d4351e4502010625",
+                "_id": "675f608a8dd39f2e8c000090",
+                "_tpl": "67597e817ad45ed39b0fc16a",
+                "parentId": "62972a7d91492d1a34152fc9",
                 "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ba3a4d1d4351e4502010621",
-                "_tpl": "handguard_ak_izhmash_akm_std_wood_upper",
-                "parentId": "5ba3a4d1d4351e4502010626",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ba3a4d1d4351e4502010628",
-                "_tpl": "59d64fc686f774171b243fe2",
-                "parentId": "5ba3a4d1d4351e4502010620",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5ba3a4d1d4351e4502010629",
-                "_tpl": "59e62cc886f77440d40b52a1",
-                "parentId": "5ba3a4d1d4351e4502010625",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "5ba3a4d1d4351e450201062a",
-                "_tpl": "59d6507c86f7741b846413a2",
-                "parentId": "5ba3a4d1d4351e4502010625",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5ba3a4d1d4351e450201062b",
-                "_tpl": "59d650cf86f7741b846413a4",
-                "parentId": "5ba3a4d1d4351e4502010620",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5ba3a4d1d4351e450201062c",
-                "_tpl": "59d6514b86f774171a068a08",
-                "parentId": "5ba3a4d1d4351e4502010625",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "5ba3a4d1d4351e450201062d",
-                "_tpl": "59d625f086f774661516605d",
-                "parentId": "5ba3a4d1d4351e4502010625",
-                "slotId": "mod_magazine"
-            },
-            {
-                "_id": "5ba3a4d1d4351e450201062e",
-                "_tpl": "5a7c74b3e899ef0014332c29",
-                "parentId": "5ba3a4d1d4351e4502010625",
-                "slotId": "mod_mount_000"
-            },
-            {
-                "_id": "5ba3a4d1d4351e450201062f",
-                "_tpl": "5ba36f85d4351e0085325c81",
-                "parentId": "5ba3a4d1d4351e450201062e",
-                "slotId": "mod_tactical"
-            }
-        ]
-    },
-    {
-
-        "_id": "5ba3a53dd4351e3bac12056e",
-        "_name": "AKMSN2",
-        "_items": [
-            {
-                "_id": "5ba3a53dd4351e3bac12057b",
-                "_tpl": "5abcbc27d8ce8700182eceeb"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120570",
-                "_tpl": "mod_barrel_15_inch_AKM",
-                "parentId": "5ba3a53dd4351e3bac12057b",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac12057c",
-                "_tpl": "59d64ec286f774171d1e0a42",
-                "parentId": "5ba3a53dd4351e3bac120570",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac12057d",
-                "_tpl": "59d64f2f86f77417193ef8b3",
-                "parentId": "5ba3a53dd4351e3bac12057b",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120571",
-                "_tpl": "handguard_ak_izhmash_akm_std_wood_upper",
-                "parentId": "5ba3a53dd4351e3bac12057c",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac12057e",
-                "_tpl": "59d64fc686f774171b243fe2",
-                "parentId": "5ba3a53dd4351e3bac120570",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac12057f",
-                "_tpl": "5a0071d486f77404e23a12b2",
-                "parentId": "5ba3a53dd4351e3bac12057b",
-                "slotId": "mod_pistol_grip_akms"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120580",
-                "_tpl": "59d6507c86f7741b846413a2",
-                "parentId": "5ba3a53dd4351e3bac12057b",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120581",
-                "_tpl": "59d650cf86f7741b846413a4",
-                "parentId": "5ba3a53dd4351e3bac120570",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120582",
-                "_tpl": "5abcd472d8ce8700166032ae",
-                "parentId": "5ba3a53dd4351e3bac12057b",
-                "slotId": "mod_stock_akms"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120583",
-                "_tpl": "5a0060fc86f7745793204432",
-                "parentId": "5ba3a53dd4351e3bac12057b",
-                "slotId": "mod_magazine"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120584",
-                "_tpl": "5a7c74b3e899ef0014332c29",
-                "parentId": "5ba3a53dd4351e3bac12057b",
-                "slotId": "mod_mount_001"
-            },
-            {
-                "_id": "5ba3a53dd4351e3bac120585",
-                "_tpl": "5ba36f85d4351e0085325c81",
-                "parentId": "5ba3a53dd4351e3bac120584",
-                "slotId": "mod_tactical"
-            }
-        ]
-    },
-    {
-
-        "_id": "5bbf1c1c88a45017144d28c5",
-        "_name": "AK74M_zenitco",
-        "_items": [
-            {
-                "_id": "5bbf1c1c88a45017144d28d1",
-                "_tpl": "5ac4cd105acfc40016339859"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d0",
-                "_tpl": "mod_barrel_15_inch_AK74",
-                "parentId": "5bbf1c1c88a45017144d28d1",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d2",
-                "_tpl": "59c6633186f7740cf0493bb9",
-                "parentId": "5bbf1c1c88a45017144d28d0",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d3",
-                "_tpl": "5648b4534bdc2d3d1c8b4580",
-                "parentId": "5bbf1c1c88a45017144d28d1",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28df",
-                "_tpl": "handguard_ak_zenit_b19_upper",
-                "parentId": "5bbf1c1c88a45017144d28d2",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d4",
-                "_tpl": "5649ab884bdc2ded0b8b457f",
-                "parentId": "5bbf1c1c88a45017144d28d0",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d5",
-                "_tpl": "5649ae4a4bdc2d1b2b8b4588",
-                "parentId": "5bbf1c1c88a45017144d28d1",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d6",
-                "_tpl": "5649af884bdc2d1b2b8b4589",
-                "parentId": "5bbf1c1c88a45017144d28d1",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d7",
-                "_tpl": "5ac72e475acfc400180ae6fe",
-                "parentId": "5bbf1c1c88a45017144d28d0",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d8",
-                "_tpl": "5ac78eaf5acfc4001926317a",
-                "parentId": "5bbf1c1c88a45017144d28d1",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28d9",
-                "_tpl": "59ecc3dd86f7746dc827481c",
-                "parentId": "5bbf1c1c88a45017144d28d8",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "5bbf1c1c88a45017144d28da",
-                "_tpl": "5648ac824bdc2ded0b8b457d",
-                "parentId": "5bbf1c1c88a45017144d28d1",
-                "slotId": "mod_charge"
-            }
-        ]
-    },
-    {
-
-        "_id": "5841474424597759ba49be91",
-        "_items": [
-            {
-                "_id": "61a9f8f132a4743c3453d2c6",
-                "_tpl": "5644bd2b4bdc2d3b4c8b4572",
-                "upd": {
-                    "FireMode": {
-                        "FireMode": "single"
-                    }
-                }
-            },
-
-            {           
-                "_id": "61a9f8f132a4743c3453d2c0",
-                "_tpl": "mod_barrel_15_inch_AK74",
-                "parentId": "61a9f8f132a4743c3453d2c6",
-                "slotId": "mod_barrel"
-            },
-
-            {
-                "_id": "61a9f8f132a4743c3453d2c7",
-                "_tpl": "59c6633186f7740cf0493bb9",
-                "parentId": "61a9f8f132a4743c3453d2c0",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2c8",
-                "_tpl": "5648b0744bdc2d363b8b4578",
-                "parentId": "61a9f8f132a4743c3453d2c6",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2c1",
-                "_tpl": "handguard_ak_izhmash_ak74_std_wood_upper",
-                "parentId": "61a9f8f132a4743c3453d2c7",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2c9",
-                "_tpl": "5649aa744bdc2ded0b8b457e",
-                "parentId": "61a9f8f132a4743c3453d2c0",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2ca",
-                "_tpl": "5649ad3f4bdc2df8348b4585",
-                "parentId": "61a9f8f132a4743c3453d2c6",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2cb",
-                "_tpl": "5649af094bdc2df8348b4586",
-                "parentId": "61a9f8f132a4743c3453d2c6",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2cc",
-                "_tpl": "5649b0544bdc2d1b2b8b458a",
-                "parentId": "61a9f8f132a4743c3453d2c0",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2cd",
-                "_tpl": "5649b1c04bdc2d16268b457c",
-                "parentId": "61a9f8f132a4743c3453d2c6",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "61a9f8f132a4743c3453d2ce",
-                "_tpl": "564ca99c4bdc2d16268b4589",
-                "parentId": "61a9f8f132a4743c3453d2c6",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AK-74N"
-
-    },
-    {
-
-        "_id": "59ef247086f77439967a900a",
-        "_items": [
-            {
-                "_id": "639bb5575b759c65a34764f6",
-                "_tpl": "59e6687d86f77411d949b251",
-                "upd": {
-                    "Repairable": {
-                        "Durability": 100,
-                        "MaxDurability": 100
-                    }
-                }
-            },
-            {
-                "_id": "639bb5575b759c65a34764f7",
-                "_tpl": "59e649f986f77411d949b246",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "639bb5575b759c65a34764f8",
-                "_tpl": "59e898ee86f77427614bd225",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "639bb5575b759c65a34764f0",
-                "_tpl": "handguard_ak_molot_vepr_km_vpo_209_upper",
-                "parentId": "639bb5575b759c65a34764f7",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "639bb5575b759c65a34764f9",
-                "_tpl": "59e8a00d86f7742ad93b569c",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "639bb5575b759c65a34764fa",
-                "_tpl": "59e6318286f77444dd62c4cc",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "639bb5575b759c65a34764fb",
-                "_tpl": "59e6449086f7746c9f75e822",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "639bb5575b759c65a34764fc",
-                "_tpl": "59e8977386f77415a553c453",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "639bb5575b759c65a34764fd",
-                "_tpl": "59e89d0986f77427600d226e",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "639bb5575b759c65a34764fe",
-                "_tpl": "5b1fd4e35acfc40018633c39",
-                "parentId": "639bb5575b759c65a34764f6",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AKM VPO-209"
-    },
-    {
-        "_id": "59ef24b986f77439987b8762",
-        "_items": [
-            {
-                "_id": "639bb56e92e27b60a107409f",
-                "_tpl": "59e6152586f77473dc057aa1",
-                "upd": {
-                    "Repairable": {
-                        "Durability": 100,
-                        "MaxDurability": 100
-                    }
-                }
-            },
-            {           
-                "_id": "639bb56e92e27b60a1074090",
-                "_tpl": "mod_barrel_15_inch_AKM",
-                "parentId": "639bb56e92e27b60a107409f",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a0",
-                "_tpl": "59e649f986f77411d949b246",
-                "parentId": "639bb56e92e27b60a1074090",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a1",
-                "_tpl": "59e6284f86f77440d569536f",
-                "parentId": "639bb56e92e27b60a107409f",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "639bb56e92e27b60a1074091",
-                "_tpl": "handguard_ak_molot_vepr_km_vpo_136_upper",
-                "parentId": "639bb56e92e27b60a10740a0",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a2",
-                "_tpl": "59e61eb386f77440d64f5daf",
-                "parentId": "639bb56e92e27b60a1074090",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a3",
-                "_tpl": "59e6318286f77444dd62c4cc",
-                "parentId": "639bb56e92e27b60a107409f",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a4",
-                "_tpl": "59e6449086f7746c9f75e822",
-                "parentId": "639bb56e92e27b60a107409f",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a5",
-                "_tpl": "59d650cf86f7741b846413a4",
-                "parentId": "639bb56e92e27b60a1074090",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a6",
-                "_tpl": "59e6227d86f77440d64f5dc2",
-                "parentId": "639bb56e92e27b60a107409f",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "639bb56e92e27b60a10740a7",
-                "_tpl": "5b1fd4e35acfc40018633c39",
-                "parentId": "639bb56e92e27b60a107409f",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AKM VPO-136"
-    },
-    {
-        "_id": "5a325c3686f7744273716c5b",
-        "_items": [
-            {
-                "_id": "5a325c3686f7744273716c52",
-                "_tpl": "5a0ec13bfcdbcb00165aa685"
-            },
-            {           
-                "_id": "5a325c3686f7744273716c50",
-                "_tpl": "mod_barrel_15_inch_AKM",
-                "parentId": "5a325c3686f7744273716c52",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5a325c3686f7744273716c53",
-                "_tpl": "59d64ec286f774171d1e0a42",
-                "parentId": "5a325c3686f7744273716c50",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5a325c3686f7744273716c5a",
-                "_tpl": "59d64f2f86f77417193ef8b3",
-                "parentId": "5a325c3686f7744273716c52",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5a325c3686f7744273716c51",
-                "_tpl": "handguard_ak_izhmash_akm_std_wood_upper",
-                "parentId": "5a325c3686f7744273716c53",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5a325c3686f7744273716c54",
-                "_tpl": "59d64fc686f774171b243fe2",
-                "parentId": "5a325c3686f7744273716c50",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5a325c3686f7744273716c55",
-                "_tpl": "59e62cc886f77440d40b52a1",
-                "parentId": "5a325c3686f7744273716c52",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "5a325c3686f7744273716c56",
-                "_tpl": "59d6507c86f7741b846413a2",
-                "parentId": "5a325c3686f7744273716c52",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5a325c3686f7744273716c57",
-                "_tpl": "59d650cf86f7741b846413a4",
-                "parentId": "5a325c3686f7744273716c50",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5a325c3686f7744273716c58",
-                "_tpl": "59d6514b86f774171a068a08",
-                "parentId": "5a325c3686f7744273716c52",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "5a325c3686f7744273716c59",
-                "_tpl": "5a01c29586f77474660c694c",
-                "parentId": "5a325c3686f7744273716c52",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AKMN Default"
-    },
-    {
-
-        "_id": "5ac4ab8886f7747d0f66429a",
-        "_items": [
-            {
-                "_id": "5ac4a2c15acfc40019262e62",
-                "_tpl": "5abcbc27d8ce8700182eceeb"
-            },
-            {           
-                "_id": "5ac4a2c15acfc40019262e60",
-                "_tpl": "mod_barrel_15_inch_AKM",
-                "parentId": "5ac4a2c15acfc40019262e62",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664292",
-                "_tpl": "59d64ec286f774171d1e0a42",
-                "parentId": "5ac4a2c15acfc40019262e60",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664299",
-                "_tpl": "59d64f2f86f77417193ef8b3",
-                "parentId": "5ac4a2c15acfc40019262e62",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ac4a2c15acfc40019262e61",
-                "_tpl": "handguard_ak_izhmash_akm_std_wood_upper",
-                "parentId": "5ac4ab8886f7747d0f664292",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664293",
-                "_tpl": "59e61eb386f77440d64f5daf",
-                "parentId": "5ac4a2c15acfc40019262e60",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664294",
-                "_tpl": "5a0071d486f77404e23a12b2",
-                "parentId": "5ac4a2c15acfc40019262e62",
-                "slotId": "mod_pistol_grip_akms"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664295",
-                "_tpl": "59d6507c86f7741b846413a2",
-                "parentId": "5ac4a2c15acfc40019262e62",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664296",
-                "_tpl": "59d650cf86f7741b846413a4",
-                "parentId": "5ac4a2c15acfc40019262e60",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664297",
-                "_tpl": "5abcd472d8ce8700166032ae",
-                "parentId": "5ac4a2c15acfc40019262e62",
-                "slotId": "mod_stock_akms"
-            },
-            {
-                "_id": "5ac4ab8886f7747d0f664298",
-                "_tpl": "5a0060fc86f7745793204432",
-                "parentId": "5ac4a2c15acfc40019262e62",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AKMSN Default"
-    },
-    {
-
-        "_id": "5acf7db286f7743a9c7092e3",
-        "_items": [
-            {
-                "_id": "5ac5f8745acfc43f67248a76",
-                "_tpl": "5ac4cd105acfc40016339859"
-            },
-            {           
-                "_id": "5ac5f8745acfc43f67248a70",
-                "_tpl": "mod_barrel_15_inch_AK74",
-                "parentId": "5ac5f8745acfc43f67248a76",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5ac5f8745acfc43f67248a77",
-                "_tpl": "59c6633186f7740cf0493bb9",
-                "parentId": "5ac5f8745acfc43f67248a70",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5acf7db286f7743a9c7092e2",
-                "_tpl": "5648b1504bdc2d9d488b4584",
-                "parentId": "5ac5f8745acfc43f67248a76",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ac5f8745acfc43f67248a71",
-                "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
-                "parentId": "5ac5f8745acfc43f67248a77",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5acf7db286f7743a9c7092e0",
-                "_tpl": "5ac7655e5acfc40016339a19",
-                "parentId": "5ac5f8745acfc43f67248a70",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5ac5f8745acfc43f67248a79",
-                "_tpl": "5649ade84bdc2d1b2b8b4587",
-                "parentId": "5ac5f8745acfc43f67248a76",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "5ac5f8745acfc43f67248a7a",
-                "_tpl": "5ac50da15acfc4001718d287",
-                "parentId": "5ac5f8745acfc43f67248a76",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5acf7db286f7743a9c7092e1",
-                "_tpl": "5ac72e475acfc400180ae6fe",
-                "parentId": "5ac5f8745acfc43f67248a70",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5ac5f8745acfc43f67248a7c",
-                "_tpl": "5ac50c185acfc400163398d4",
-                "parentId": "5ac5f8745acfc43f67248a76",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "5ac5f8745acfc43f67248a7d",
-                "_tpl": "55d480c04bdc2d1d4e8b456a",
-                "parentId": "5ac5f8745acfc43f67248a76",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AK-74M Default"
-
-    },
-    {
-        "_id": "5acf7dd986f774486e1281bf",
-        "_items": [
-            {
-                "_id": "5acf7dd986f774486e1281b6",
-                "_tpl": "5ac66cb05acfc40198510a10"
-            },  
-            {           
-                "_id": "5acf7dd986f774486e1281b0",
-                "_tpl": "mod_barrel_15_inch_AK101",
-                "parentId": "5acf7dd986f774486e1281b6",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281b7",
-                "_tpl": "59c6633186f7740cf0493bb9",
-                "parentId": "5acf7dd986f774486e1281b0",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281be",
-                "_tpl": "5648b1504bdc2d9d488b4584",
-                "parentId": "5acf7dd986f774486e1281b6",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281b1",
-                "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
-                "parentId": "5acf7dd986f774486e1281b7",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281b8",
-                "_tpl": "5ac72e615acfc43f67248aa0",
-                "parentId": "5acf7dd986f774486e1281b0",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281b9",
-                "_tpl": "5649ade84bdc2d1b2b8b4587",
-                "parentId": "5acf7dd986f774486e1281b6",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281ba",
-                "_tpl": "5ac50da15acfc4001718d287",
-                "parentId": "5acf7dd986f774486e1281b6",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281bb",
-                "_tpl": "5ac72e475acfc400180ae6fe",
-                "parentId": "5ac5f8745acfc43f67248a70",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281bc",
-                "_tpl": "5ac50c185acfc400163398d4",
-                "parentId": "5acf7dd986f774486e1281b6",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "5acf7dd986f774486e1281bd",
-                "_tpl": "5ac66c5d5acfc4001718d314",
-                "parentId": "5acf7dd986f774486e1281b6",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AK-101 Default"
-    },
-    {
-
-        "_id": "5acf7e2b86f7740874790e20",
-        "_items": [
-            {
-                "_id": "5ac670435acfc43f67248a8d",
-                "_tpl": "5ac66d2e5acfc43b321d4b53"
-            },
-            {           
-                "_id": "5ac670435acfc43f67248a80",
-                "_tpl": "mod_barrel_15_inch_AK103",
-                "parentId": "5ac670435acfc43f67248a8d",
-                "slotId": "mod_barrel"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e18",
-                "_tpl": "59c6633186f7740cf0493bb9",
-                "parentId": "5ac670435acfc43f67248a80",
-                "slotId": "mod_gas_block"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e1f",
-                "_tpl": "5648b1504bdc2d9d488b4584",
-                "parentId": "5ac670435acfc43f67248a8d",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5ac670435acfc43f67248a81",
-                "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
-                "parentId": "5acf7e2b86f7740874790e18",
-                "slotId": "mod_handguard"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e19",
-                "_tpl": "5ac72e7d5acfc40016339a02",
-                "parentId": "5ac670435acfc43f67248a80",
-                "slotId": "mod_muzzle"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e1a",
-                "_tpl": "5649ade84bdc2d1b2b8b4587",
-                "parentId": "5ac670435acfc43f67248a8d",
-                "slotId": "mod_pistol_grip"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e1b",
-                "_tpl": "5ac50da15acfc4001718d287",
-                "parentId": "5ac670435acfc43f67248a8d",
-                "slotId": "mod_reciever"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e1c",
-                "_tpl": "5ac72e475acfc400180ae6fe",
-                "parentId": "5ac670435acfc43f67248a80",
-                "slotId": "mod_sight_rear"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e1d",
-                "_tpl": "5ac50c185acfc400163398d4",
-                "parentId": "5ac670435acfc43f67248a8d",
-                "slotId": "mod_stock"
-            },
-            {
-                "_id": "5acf7e2b86f7740874790e1e",
-                "_tpl": "5ac66bea5acfc43b321d4aec",
-                "parentId": "5ac670435acfc43f67248a8d",
-                "slotId": "mod_magazine"
-            }
-        ],
-        "_name": "AK-103 Default"
-    },
-    {
-      "_name": "AKS-74N Default",
-      "_id": "5ac4abf986f7747d117c67aa",
-      "_items": [
-        {
-          "_id": "5ac4a2c15acfc40019262e61",
-          "_tpl": "5ab8e9fcd8ce870019439434"
-        },
-        {
-          "_id": "5ac4a2c15acfc40019262e60",
-          "_tpl": "mod_barrel_15_inch_AK74",
-          "parentId": "5ac4a2c15acfc40019262e61",
-          "slotId": "mod_barrel"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a2",
-          "_tpl": "59c6633186f7740cf0493bb9",
-          "parentId": "5ac4a2c15acfc40019262e60",
-          "slotId": "mod_gas_block"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a9",
-          "_tpl": "5648b0744bdc2d363b8b4578",
-          "parentId": "5ac4a2c15acfc40019262e61",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "5ac4a2c15acfc40019262e6a",
-          "_tpl": "handguard_ak_izhmash_ak74_std_wood_upper",
-          "parentId": "5ac4abf986f7747d117c67a2",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a3",
-          "_tpl": "5649aa744bdc2ded0b8b457e",
-          "parentId": "5ac4a2c15acfc40019262e60",
-          "slotId": "mod_muzzle"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a4",
-          "_tpl": "57e3dba62459770f0c32322b",
-          "parentId": "5ac4a2c15acfc40019262e61",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a5",
-          "_tpl": "5649af094bdc2df8348b4586",
-          "parentId": "5ac4a2c15acfc40019262e61",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a6",
-          "_tpl": "5649b0544bdc2d1b2b8b458a",
-          "parentId": "5ac4a2c15acfc40019262e60",
-          "slotId": "mod_sight_rear"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a7",
-          "_tpl": "5ab626e4d8ce87272e4c6e43",
-          "parentId": "5ac4a2c15acfc40019262e61",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "5ac4abf986f7747d117c67a8",
-          "_tpl": "564ca99c4bdc2d16268b4589",
-          "parentId": "5ac4a2c15acfc40019262e61",
-          "slotId": "mod_magazine"
-        }
-      ]
-
-    },
-
-
-    {
-      "_id": "618ab0c66bbeff39ad4acf2e",
-      "_name": "Vityaz_FSB",
-      "_items": [
-        {
-          "_id": "618ab0c66bbeff39ad4acf3b",
-          "_tpl": "59984ab886f7743e98271174",
-          "upd": {
-            "FireMode": {
-              "FireMode": "single"
-            },
-            "Foldable": {
-              "Folded": false
-            }
-          }
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf3c",
-          "_tpl": "5649ade84bdc2d1b2b8b4587",
-          "parentId": "618ab0c66bbeff39ad4acf3b",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf3d",
-          "_tpl": "5ac78eaf5acfc4001926317a",
-          "parentId": "618ab0c66bbeff39ad4acf3b",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf3e",
-          "_tpl": "5b222d405acfc400153af4fe",
-          "parentId": "618ab0c66bbeff39ad4acf3d",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf3f",
-          "_tpl": "599860ac86f77436b225ed1a",
-          "parentId": "618ab0c66bbeff39ad4acf3b",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf40",
-          "_tpl": "56d59d3ad2720bdb418b4577",
-          "parentId": "618ab0c66bbeff39ad4acf3f",
-          "slotId": "cartridges",
-          "upd": {
-            "StackObjectsCount": 30
-          }
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf41",
-          "_tpl": "59bfc5c886f7743bf6794e62",
-          "parentId": "618ab0c66bbeff39ad4acf3b",
-          "slotId": "mod_muzzle"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf42",
-          "_tpl": "59985a6c86f77414ec448d17",
-          "parentId": "618ab0c66bbeff39ad4acf3b",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf43",
-          "_tpl": "59ccd11386f77428f24a488f",
-          "parentId": "618ab0c66bbeff39ad4acf3b",
-          "slotId": "mod_gas_block"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf44",
-          "_tpl": "5c617a5f2e2216000f1e81b3",
-          "parentId": "618ab0c66bbeff39ad4acf3b",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf4f",
-          "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
-          "parentId": "618ab0c66bbeff39ad4acf43",
-          "slotId": "mod_handguard"
-        },
-
-        {
-          "_id": "618ab0c66bbeff39ad4acf45",
-          "_tpl": "5c1bc4812e22164bef5cfde7",
-          "parentId": "618ab0c66bbeff39ad4acf44",
-          "slotId": "mod_foregrip"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf46",
-          "_tpl": "57ffaea724597779f52b3a4d",
-          "parentId": "618ab0c66bbeff39ad4acf44",
-          "slotId": "mod_tactical"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf47",
-          "_tpl": "58d39d3d86f77445bb794ae7",
-          "parentId": "618ab0c66bbeff39ad4acf46",
-          "slotId": "mod_scope"
-        },
-        {
-          "_id": "618ab0c66bbeff39ad4acf48",
-          "_tpl": "58d399e486f77442e0016fe7",
-          "parentId": "618ab0c66bbeff39ad4acf47",
-          "slotId": "mod_scope"
-        }
-      ]
-    },
-
-
-    {
-      "_id": "59b81f7386f77421ac688a0a",
-      "_name": "VITYAZ-SN Default",
-      "_items": [
-        {
-          "_id": "5a3fdab186f774601a498470",
-          "_tpl": "59984ab886f7743e98271174"
-        },
-        {
-          "_id": "5a3fdab186f774601a498471",
-          "_tpl": "5998517986f7746017232f7e",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "5a3fdab186f774601a498472",
-          "_tpl": "599851db86f77467372f0a18",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "5a3fdab186f774601a498473",
-          "_tpl": "599860ac86f77436b225ed1a",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "5a3fdab186f774601a498474",
-          "_tpl": "5998597786f77414ea6da093",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_muzzle"
-        },
-        {
-          "_id": "5a3fdab186f774601a498475",
-          "_tpl": "59985a8086f77414ec448d1a",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "5a3fdab186f774601a498476",
-          "_tpl": "599860e986f7743bb57573a6",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_sight_rear"
-        },
-        {
-          "_id": "5a3fdab186f774601a498477",
-          "_tpl": "59ccd11386f77428f24a488f",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_gas_block"
-        },
-
-        {
-          "_id": "5a3fdab186f774601a498478",
-          "_tpl": "5648b1504bdc2d9d488b4584",
-          "parentId": "5a3fdab186f774601a498470",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "5a3fdab186f774601a498479",
-          "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
-          "parentId": "5a3fdab186f774601a498477",
-          "slotId": "mod_handguard"
-        }
-
-
-      ]
-      
-    },
-
-
-    {
-
-      "_id": "5a8ae65f86f774377a23ed55",
-      "_name": "vityaz_zenit",
-      "_items": [
-        {
-          "_id": "639c46925287bf79c373762a",
-          "_tpl": "59984ab886f7743e98271174",
-          "upd": {
-            "Repairable": {
-              "Durability": 100,
-              "MaxDurability": 100
-            }
-          }
-        },
-        {
-          "_id": "639c46925287bf79c373762b",
-          "_tpl": "5649ae4a4bdc2d1b2b8b4588",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "639c46925287bf79c373762c",
-          "_tpl": "5ac78eaf5acfc4001926317a",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "639c46925287bf79c373762d",
-          "_tpl": "59ecc3dd86f7746dc827481c",
-          "parentId": "639c46925287bf79c373762c",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "639c46925287bf79c373762e",
-          "_tpl": "5648ac824bdc2ded0b8b457d",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_charge"
-        },
-        {
-          "_id": "639c46925287bf79c373762f",
-          "_tpl": "599860ac86f77436b225ed1a",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "639c46925287bf79c3737630",
-          "_tpl": "59bfc5c886f7743bf6794e62",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_muzzle"
-        },
-        {
-          "_id": "639c46925287bf79c3737631",
-          "_tpl": "59985a6c86f77414ec448d17",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "639c46925287bf79c3737632",
-          "_tpl": "570fd6c2d2720bc6458b457f",
-          "parentId": "639c46925287bf79c3737631",
-          "slotId": "mod_scope"
-        },
-        {
-          "_id": "639c46925287bf79c3737633",
-          "_tpl": "599860e986f7743bb57573a6",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_sight_rear"
-        },
-        {
-          "_id": "639c46925287bf79c3737634",
-          "_tpl": "59ccd11386f77428f24a488f",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_gas_block"
-        },
-        {
-          "_id": "639c46925287bf79c3737635",
-          "_tpl": "5648b4534bdc2d3d1c8b4580",
-          "parentId": "639c46925287bf79c373762a",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "639c46925287bf79c373763f",
-          "_tpl": "handguard_ak_zenit_b19_upper",
-          "parentId": "639c46925287bf79c3737635",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "639c46925287bf79c3737636",
-          "_tpl": "591af28e86f77414a27a9e1d",
-          "parentId": "639c46925287bf79c3737635",
-          "slotId": "mod_foregrip"
-        },
-        {
-          "_id": "639c46925287bf79c3737637",
-          "_tpl": "560d657b4bdc2da74d8b4572",
-          "parentId": "639c46925287bf79c3737635",
-          "slotId": "mod_tactical_002"
-        }
-      ]
-      
-    },
-
-    {
-        "_name": "Saiga-9 Default",
-        "_id": "5a13df5286f774032f5454a0",
-        "_items": [
-            {
-              "_id": "5a13df5286f774032f545497",
-              "_tpl": "59f9cabd86f7743a10721f46"
-            },
-            {
-              "_id": "5a13df5286f774032f545498",
-              "_tpl": "5998517986f7746017232f7e",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_pistol_grip"
-            },
-            {
-              "_id": "5a13df5286f774032f545499",
-              "_tpl": "599851db86f77467372f0a18",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_stock"
-            },
-            {
-              "_id": "5a13df5286f774032f54549a",
-              "_tpl": "5998529a86f774647f44f421",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_magazine"
-            },
-            {
-              "_id": "5a13df5286f774032f54549b",
-              "_tpl": "5998598e86f7740b3f498a86",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_muzzle"
-            },
-            {
-              "_id": "5a13df5286f774032f54549c",
-              "_tpl": "59985a8086f77414ec448d1a",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_reciever"
-            },
-            {
-              "_id": "5a13df5286f774032f54549d",
-              "_tpl": "599860e986f7743bb57573a6",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_sight_rear"
-            },
-            {
-              "_id": "5a13df5286f774032f54549e",
-              "_tpl": "59ccd11386f77428f24a488f",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_gas_block"
-            },
-            {
-              "_id": "5a13df5286f774032f54549f",
-              "_tpl": "5648b1504bdc2d9d488b4584",
-              "parentId": "5a13df5286f774032f545497",
-              "slotId": "mod_handguard"
-            },
-            {
-              "_id": "5a13df5286f774032f545490",
-              "_tpl": "handguard_ak_izhmash_ak74m_std_plastic_upper",
-              "parentId": "5a13df5286f774032f54549e",
-              "slotId": "mod_handguard"
             }
         ]
     }

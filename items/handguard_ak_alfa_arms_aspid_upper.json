@@ -1,11 +1,11 @@
 {
     "handbook": {
-        "Id": "handguard_ak_alfa_arms_aspid_upper",
+        "Id": "67597e817ad45ed39b0fc152",
         "ParentId": "5b5f75e486f77447ec5d7712",
         "Price": 1690
     },
     "item": {
-        "_id": "handguard_ak_alfa_arms_aspid_upper",
+        "_id": "67597e817ad45ed39b0fc152",
         "_name": "handguard_ak_alfa_arms_aspid_upper",
         "_parent": "55818a104bdc2db9688b4569",
         "_type": "Item",
@@ -51,23 +51,23 @@
             "CanSellOnRagfair": true,
             "CanRequireOnRagfair": true,
             "ConflictingItems": [
+                "628a60ae6b1d481ff772e9c8",
                 "59ccfdba86f7747f2109a587",
                 "5cf656f2d7f00c06585fb6eb",
                 "5b237e425acfc4771e1be0b6",
-                "628a83c29179c324ed269508",
-                "handguard_ak_caa_quad_rail_polymer_upper",
-                "handguard_ak_izhmash_ak74_std_plum_upper",
-                "handguard_ak_khyber_swiss_grather_upper",
-                "handguard_ak_izhmash_ak74_std_wood_upper",
-                "handguard_ak_izhmash_ak74m_std_plastic_upper",
-                "handguard_ak_izhmash_akm_std_wood_upper",
-                "handguard_ak_molot_vepr_km_vpo_136_upper",
-                "handguard_ak_molot_vepr_km_vpo_209_upper",
-                "handguard_ak_magpul_moe_ak_blk_upper",
-                "handguard_ak_magpul_moe_ak_fde_upper",
-                "handguard_ak_magpul_moe_ak_od_upper",
-                "handguard_ak_magpul_moe_ak_plm_upper",
-                "handguard_ak_magpul_moe_ak_sg_upper"
+                "67597e817ad45ed39b0fc153",
+                "67597e817ad45ed39b0fc155",
+                "67597e817ad45ed39b0fc159",
+                "67597e817ad45ed39b0fc156",
+                "67597e817ad45ed39b0fc157",
+                "67597e817ad45ed39b0fc15a",
+                "67597e817ad45ed39b0fc160",
+                "67597e817ad45ed39b0fc161",
+                "67597e817ad45ed39b0fc15b",
+                "67597e817ad45ed39b0fc15c",
+                "67597e817ad45ed39b0fc15d",
+                "67597e817ad45ed39b0fc15e",
+                "67597e817ad45ed39b0fc15f"
             ],
             "Unlootable": false,
             "UnlootableFromSlot": "FirstPrimaryWeapon",
@@ -86,8 +86,8 @@
             "Slots": [
                 {
                     "_name": "mod_scope",
-                    "_id": "handguard_ak_alfa_arms_aspid_upper_mod_scope_slot",
-                    "_parent": "647dd2b8a12ebf96c3031655",
+                    "_id": "6a597e817ad45ed39b0fc152",
+                    "_parent": "67597e817ad45ed39b0fc152",
                     "_props": {
                         "filters": [
                             {
@@ -154,8 +154,8 @@
         "_proto": "5648b1504bdc2d9d488b4584"
     },
     "locale": {
-        "handguard_ak_alfa_arms_aspid_upper Name": "Alfa arms Aspid Upper Handguard",
-        "handguard_ak_alfa_arms_aspid_upper ShortName": "Aspid up",
-        "handguard_ak_alfa_arms_aspid_upper Description": "Alfa arms Aspid Upper Handguard rail system , looks like the b30..."
+        "67597e817ad45ed39b0fc152 Name": "Alfa arms Aspid Upper Handguard",
+        "67597e817ad45ed39b0fc152 ShortName": "Aspid up",
+        "67597e817ad45ed39b0fc152 Description": "Alfa arms Aspid Upper Handguard rail system , looks like the b30..."
     }
 }

@@ -89,6 +89,8 @@ class AkSplitterMod
             "5839a40f24597726f856b511":"583990e32459771419544dd2"       //aks74UB -> aks74UN
         }
 
+
+
         const otherAkFamilly = //these weapons have new bundles for having a mod_handguard slot (in the .bundle file)
         [
             "628a60ae6b1d481ff772e9c8",  //RD-704
@@ -500,6 +502,58 @@ class AkSplitterMod
                 }
 
             });
+
+            quests[quest].conditions.AvailableForFinish.forEach(condition => 
+            {
+                if(condition.conditionType == "WeaponAssembly" && Object.keys(aksToDelete).includes(condition.target[0]) == true )
+                { 
+                    for (const [lang, localeData] of Object.entries(locales) ) 
+                    {
+                        switch(condition.target[0])
+                        {
+                            case "5ac66d015acfc400180ae6e4":  //"AK-101",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AK-102", "AK-101" )
+                                break;
+
+                            case "5ac66d725acfc43b321d4b60":  //"AK-103",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AK-104", "AK-103" )
+                                break;
+
+                            case "5ac66d9b5acfc4001633997a":  //"AK-74M",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AK-105", "AK-74M" )
+                                break;
+
+                            case "59d6088586f774275f37482f":  //"AKMN",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AKM", "AKMN" )
+                                break;
+
+                            case "59ff346386f77477562ff5e2":  //"AKMSN",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AKMS", "AKMSN" )
+                                break;
+
+                            case "5bf3e03b0db834001d2c4a9c":  //"AK-74N",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AK-74", "AK-74N" )
+                                break;
+
+                            case "5bf3e0490db83400196199af":  //"AKS-74N",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AKS-74", "AKS-74N" )
+                                break;
+
+                            case "57dc2fa62459775949412633":  //"AKS-74UN",
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AKS-74U", "AK-74UN")
+                                break;
+
+                            case "5839a40f24597726f856b511":  //"AKS-74UN"
+                                locales[lang][condition.id] = locales[lang][condition.id].replace("AKS-74UB", "AK-74UN")
+                                break;
+
+                        }           
+                    }
+
+                    condition.target[0] = aksToDelete[ condition.target[0] ]
+                }
+            });
+
         }
 
         Object.keys(aksToDelete).forEach(akTodelete =>
